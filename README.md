@@ -8,7 +8,7 @@ Wabbajack Modlist Installer by biggie_boss.
 <tr>
 <td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/112590">Nexus Page</a></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>	
-<td><a href="https://loadorderlibrary.com/lists/lorerim">View modlist</a></td>
+<td><a href="https://loadorderlibrary.com/lists/lorerim">Load Order Library</a></td>
 <td><a href="https://discord.gg/Tb5ETzBYjd"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
 </tr>
 </table>
