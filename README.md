@@ -2,15 +2,14 @@
 
 ![banner image](https://raw.githubusercontent.com/Althro/Anvil/main/Resources/AnvilTestThumbnail.png)
 
-Wabbajack Modlist Installer by Althro with support from Aetherius Modding.
+Wabbajack Modlist Installer by biggie_boss.
 
 <table stlyle="border: none;">
 <tr>
 <td><img src="https://raw.githubusercontent.com/Althro/Anvil/main/Resources/WJIcon.png" width="64px" /></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>	
-<td><a href="https://loadorderlibrary.com/lists/anvil">View modlist</a></td>
-<td><img src="https://raw.githubusercontent.com/Althro/Anvil/main/Resources/AMLogo.webp" width="72px" /></td>
-<td><a href="https://discord.gg/aetherius-modding"><img alt="Discord" src="https://img.shields.io/discord/1132691434420576337?style=for-the-badge&label=Aetherius%20Modding"></a></td>
+<td><a href="https://loadorderlibrary.com/lists/lorerim">View modlist</a></td>
+<td><a href="https://discord.gg/Tb5ETzBYjd"><img alt="Discord" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdiscord.com%2Fbranding&psig=AOvVaw1z9HEqLuq1rXrms9QV-xfo&ust=1709501794531000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCevsrE1oQDFQAAAAAdAAAAABAE"></a></td>
 </tr>
 </table>
 
@@ -24,7 +23,7 @@ Wabbajack Modlist Installer by Althro with support from Aetherius Modding.
 
 ## Preamble
 
-**Anvil** is designed as a forge for creating on. It can be used to build your own list, create mods, and also be played as is. It is fully documented with all changes and tweaks to mods being detailed in the `notes` part of Mod Organizer 2, and aims to be light in its footprint.
+**LoreRim** is designed as a forge for creating on. It can be used to build your own list, create mods, and also be played as is. It is fully documented with all changes and tweaks to mods being detailed in the `notes` part of Mod Organizer 2, and aims to be light in its footprint.
 
 There are `Three` profiles in Anvil, each serving a distinct purpose.
 
