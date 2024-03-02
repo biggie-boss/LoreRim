@@ -1,6 +1,6 @@
 # LoreRim - A Modern Action RPG
 
-![banner image]([https://raw.githubusercontent.com/Althro/Anvil/main/Resources/AnvilTestThumbnail.png](https://staticdelivery.nexusmods.com/mods/1704/images/112590/112590-1708904333-195281047.png))
+![banner image](https://staticdelivery.nexusmods.com/mods/1704/images/112590/112590-1708904333-195281047.png))
 
 Wabbajack Modlist Installer by biggie_boss.
 
