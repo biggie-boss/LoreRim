@@ -1,4 +1,4 @@
-# ANVIL - "The Forge on Which to Create"
+# LoreRim - A Modern Action RPG
 
 ![banner image](https://raw.githubusercontent.com/Althro/Anvil/main/Resources/AnvilTestThumbnail.png)
 
@@ -9,7 +9,7 @@ Wabbajack Modlist Installer by biggie_boss.
 <td><img src="https://raw.githubusercontent.com/Althro/Anvil/main/Resources/WJIcon.png" width="64px" /></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>	
 <td><a href="https://loadorderlibrary.com/lists/lorerim">View modlist</a></td>
-<td><a href="https://discord.gg/Tb5ETzBYjd"><img alt="Discord" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdiscord.com%2Fbranding&psig=AOvVaw1z9HEqLuq1rXrms9QV-xfo&ust=1709501794531000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCevsrE1oQDFQAAAAAdAAAAABAE"></a></td>
+<td><a href="https://discord.gg/Tb5ETzBYjd"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png"></a></td>
 </tr>
 </table>
 
