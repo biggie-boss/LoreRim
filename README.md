@@ -139,6 +139,8 @@ LoreRim also utilizes Root Builder alongside Stock Game to enable easier managem
 
 ### OPTIONAL MODS - ULTRAWIDE SUPPORT & PERFORMANCE
 
+If you do not have an RTX Graphics Card it is CRUCIAL that you DISABLE the DLAA mod located towards the bottom of the load order.
+
 LoreRim comes with several list customization options. There is ultradwide support under the "Widescreen Support" section of Mod Organizer 2. There are several ENB presets to choose from ONLY CLICK ONE OPTION AT A TIME. If you choose to use Community Shaders, make sure to follow the instructions listed under the Mod Organizer 2 seperators to disable the ENB files. 
 
 There are several performance options which do come with visual downsides but allow for users with lower-end PCs to run the game.
@@ -156,9 +158,28 @@ LoreRim has no required MCM options to be selected; however, you can load the sm
 
 You are welcome to change any others to achieve your desired setup.
 
-### Starting the Game
+### Starting the Game & Important Information
 
 By default, LoreRim uses Paradigm as an alternate start mod. This will give you several options for starting your character. However, due to Requiem, it is recommended that you do NOT start alone and do NOT start as a Vampire or Werewolf unless you are an experienced player.
+
+If C.O.I.N. and Enchanted Arsenal don't get loaded fast enough, they are safe to ignore. You can go into the C.O.I.N. MCM and uncheck the "auto sell" option as intended. In Enchanted Arsenal, you can change presets from the first tab and further customize it to your liking. These settings change how weapon enchantments look.
+
+Requiem will give you 3 perks to begin with. If you plan to use armor, it is CRUCIAL to invest perks into the appropriate armor perk, otherwise your stamina will drain.
+
+You will also have a "Choose Birthsign" power. You can use this to select a starting Birthsign which replaces the traditional standing stones. 
+
+Smoothcam is included with 6 presets that you can choose from the MCM.
+
+### Default Hotkeys
+
+Left Alt - Dodge (Change by switching your sneak key in settings to something else.)
+Left Ctrl - Sneak (Change by setting the sneak key in The Ultimate Dodge Mod)
+V - Dual Parry (Changed via Dual Wield Parrying SKSE in settings)
+Q - Opens wheeler menu. Add or remove items from the Magic/Inventory menu by hovering over the item/spell and holding Q then pressing left click in the slot you want. While in this same menu, right click will remove items and M/N will create new slots and wheeler pages.
+Right Alt - Opens traditional favorites menu if you need it for some reason
+1-4 - Switch stances
+
+Controller Hotkeys: https://www.nexusmods.com/skyrimspecialedition/mods/111887
 	
 ## Updating the modlist
 
