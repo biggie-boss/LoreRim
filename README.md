@@ -173,10 +173,15 @@ Smoothcam is included with 6 presets that you can choose from the MCM.
 ### Default Hotkeys
 
 Left Alt - Dodge (Change by switching your sneak key in settings to something else.)
+
 Left Ctrl - Sneak (Change by setting the sneak key in The Ultimate Dodge Mod)
+
 V - Dual Parry (Changed via Dual Wield Parrying SKSE in settings)
+
 Q - Opens wheeler menu. Add or remove items from the Magic/Inventory menu by hovering over the item/spell and holding Q then pressing left click in the slot you want. While in this same menu, right click will remove items and M/N will create new slots and wheeler pages.
+
 Right Alt - Opens traditional favorites menu if you need it for some reason
+
 1-4 - Switch stances
 
 Controller Hotkeys: https://www.nexusmods.com/skyrimspecialedition/mods/111887
