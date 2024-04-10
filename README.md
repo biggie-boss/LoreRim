@@ -84,7 +84,7 @@ Prior to installing LoreRim, please complete the following steps.
 6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 7. Launch the game to the main menu and allow it to download the paid addon files.
 8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
-9. Install the Skyrim Special Edition: Creation Kit on Steam and run it at least once.
+9. **Install the Skyrim Special Edition: Creation Kit on Steam and run it at least once.**
 
 ***
 
@@ -163,32 +163,44 @@ You are welcome to change any others to achieve your desired setup.
 
 ### Starting the Game & Important Information
 
-By default, LoreRim uses Paradigm as an alternate start mod. This will give you several options for starting your character. However, due to Requiem, it is recommended that you do NOT start alone and do NOT start as a Vampire or Werewolf unless you are an experienced player.
+After creating your character, you will be given an option to use 25 tokens to pick starting gear. You also have a "Choose Birthsign" Power that lets you choose a starting Birthsign (replaces standing stones). 
 
-If C.O.I.N. and Enchanted Arsenal don't get loaded fast enough, they are safe to ignore. You can go into the C.O.I.N. MCM and uncheck the "auto sell" option as intended. In Enchanted Arsenal, you can change presets from the first tab and further customize it to your liking. These settings change how weapon enchantments look.
+MAKE SURE TO OPEN UP YOUR INVENTORY TO INITIALIZE REQUIREM STARTUP BEFORE LEAVING THE STARTING CAVE.
 
-Requiem will give you 3 perks to begin with. If you plan to use armor, it is CRUCIAL to invest perks into the appropriate armor perk, otherwise your stamina will drain.
-
-You will also have a "Choose Birthsign" power. You can use this to select a starting Birthsign which replaces the traditional standing stones. 
-
-Smoothcam is included with 6 presets that you can choose from the MCM.
+After you leave the cave, you will be given a choice to follow a starting diety. It is recommended you listen to Hadvar/Ralof's full dialogue before leaving the area. 
 
 ### Default Hotkeys
 
-Left Alt - Dodge (Change by switching your sneak key in settings to something else.)
+Left Alt - Dodge (Changed via TK Dodge Re.ini IN THE "LoreRim - MCM and INI Settings" mod)
 
-Left Ctrl - Sneak (Change by setting the sneak key in The Ultimate Dodge Mod)
-
-V - Dual Parry (Changed via Dual Wield Parrying SKSE in settings)
+V - Dual Parry (Changed via DualWieldParryingSKSE.ini LOCATED IN THE Dual Wield Parrying SKSE MOD)
 
 Q - Opens wheeler menu. Add or remove items from the Magic/Inventory menu by hovering over the item/spell and holding Q then pressing left click in the slot you want. While in this same menu, right click will remove items and M/N will create new slots and wheeler pages.
 
 Right Alt - Opens traditional favorites menu if you need it for some reason
 
-1-4 - Switch stances
+1-4 - Switch stances (Changed via Stances.ini LOCATED IN THE "LoreRim - MCM and INI Settings" mod)
 
 Controller Hotkeys: https://www.nexusmods.com/skyrimspecialedition/mods/111887
-	
+
+### Gameplay Tips / Unlocking Cool Mechanics
+
+Your starting dodge will be pretty bad. You can unlock a better version in the Evasion perk tree.
+
+You can unlock starting Dynamic Dodge Shots with bows also in the Evasion Tree.
+
+You can unlock use of a secondary dagger (pulling out a dagger when using your bow) in the One Handed perk tree.
+
+You unlock SkyClimb at lvl 20 sneak. At lvl 50 sneak, light/unarmored users can get a faster more flashy vault animation.
+
+### Known Bugs/Crashes
+
+If you are using an AMD GPU, you need to disable DLAA and enable TAA in the SkyrimPrefs.ini located in the profile folder. Otherwise, you WILL crash.
+
+"Crashing" on loading isn't actual crashing. It's the save loader mod exiting the game completely and reloading. It does this to ensure games are safe for long playthroughs.You can disable this in Optional - Gameplay but I recommend leaving it on.
+
+Wheeler can cause crashes when assigning self-made potions/poisons/etc and using your last one. If this happens, press home to open dmenu and navigate to wheeler and "reset all wheels".
+ 
 ## Updating the modlist
 
 Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates.
