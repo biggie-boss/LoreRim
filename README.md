@@ -27,6 +27,8 @@ Wabbajack Modlist Installer by biggie_boss.
 
 The main gameplay overhaul in LoreRim is Requiem. Requiem completely delevels the world of Skyrim and encourages careful preperation before combat. Attack - Modern Combat Overhaul provides a basis to revamp third person combat and new animations are included for both first and third person combined with a stance system, allowing players to choose their favorite animation style.
 
+There are multiple EnaiRim mods included to help counter Requiem's default harshness. Growl, Sacrilege, Wintersun Faiths and Apocalypse Magic are all at your disposal.
+
 This list is challenging but it is up to you, the player, to overcome those challenges and become the Dragonborn of Legend. Each level, you will get stronger than the level before. 
 
 ## System Requirements
