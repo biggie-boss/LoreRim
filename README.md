@@ -144,11 +144,11 @@ LoreRim also utilizes Root Builder alongside Stock Game to enable easier managem
 
 ### OPTIONAL MODS - ULTRAWIDE SUPPORT & PERFORMANCE
 
-If you do not have an RTX Graphics Card it is CRUCIAL that you DISABLE the DLAA mod located towards the bottom of the load order.
+**If you do not have an RTX Graphics Card it is CRUCIAL that you DISABLE the DLAA mod located towards the bottom of the load order.**
 
-LoreRim comes with several list customization options. There is ultradwide support under the "Widescreen Support" section of Mod Organizer 2. There are several ENB presets to choose from ONLY CLICK ONE OPTION AT A TIME. If you choose to use Community Shaders, make sure to follow the instructions listed under the Mod Organizer 2 seperators to disable the ENB files. 
+LoreRim comes with several list customization options. There is ultrawide support under the "Widescreen Support" section of Mod Organizer 2. There are several ENB presets to choose from ONLY CLICK ONE OPTION AT A TIME.
 
-There are several performance options which do come with visual downsides but allow for users with lower-end PCs to run the game.
+If you need a boost in FPS, you can choose the performance profile from the Profile dropdown in MO2.
 
 **NOTE**: Screenshots save to `Overwrite\Stock Game`.
 
