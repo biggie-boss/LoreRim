@@ -197,6 +197,8 @@ You can unlock use of a secondary dagger (pulling out a dagger when using your b
 
 You unlock SkyClimb at lvl 20 sneak. At lvl 50 sneak, light/unarmored users can get a faster more flashy vault animation.
 
+Quick Light requires "Lantern With Fuel". To craft lantern fuel, use a cooking pot with dwemer oil or troll fat. Once you have this, click on it while having an empty lantern in your inventory.
+
 ### Known Bugs/Crashes
 
 If you are using an AMD GPU, you need to disable DLAA and enable TAA in the SkyrimPrefs.ini located in the profile folder. Otherwise, you WILL crash.
