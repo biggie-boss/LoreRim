@@ -51,16 +51,16 @@ LoreRim requires a mid-tier modern system to run to its fullest potential. The r
 
 | Component    | Recommended for 1080p | 
 |:--------------:|:-------------:|
-| CPU | 10th Generation i7 or better/equivalent
+| CPU | 10th Generation i5 or better/equivalent
 | Ram | 16GB DDR4 Ram  + 40GB Pagefile 
-| Storage | SSD
-| GPU | RTX 3070 or better/equivalent
+| Storage | SATA SSD or higher
+| GPU | RTX 3060 or better/equivalent
 
 | Component    | Recommended for 1440p | 
 |:--------------:|:-------------:|
 | CPU | 12th Generation i7 or better/equivalent
 | Ram | 32GB DDR4 Ram  + 40GB Pagefile 
-| Storage | SSD
+| Storage | M.2 SSD
 | GPU | RTX 4070 or better/equivalent
 
 Space required: ~300GB Download Size ~250GB install Size ~550GB Total
