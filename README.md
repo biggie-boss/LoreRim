@@ -173,6 +173,8 @@ After you leave the cave, you will be given a choice to follow a starting diety.
 
 ### Default Hotkeys
 
+For INI related controlls, please see https://ck.uesp.net/wiki/Input_Script
+
 Pressing F11 opens up a controller map.
 
 Left Alt - Dodge (Changed via TK Dodge Re.ini IN THE "LoreRim - MCM and INI Settings" **MOD** - PLEASE READ IT IS THE MOD AND NOT IN-GAME MCM!!!) If you activate the controller config mod, there is a TK Dodge.ini file in there as well that you'll have to change instead.
