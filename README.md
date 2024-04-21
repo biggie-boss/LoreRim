@@ -181,9 +181,9 @@ Left Alt - Dodge (Changed via TK Dodge Re.ini IN THE "LoreRim - MCM and INI Sett
 
 V - Dual Parry (Changed via DualWieldParryingSKSE.ini LOCATED IN THE Dual Wield Parrying SKSE MOD)
 
-Q - Opens wheeler menu. Add or remove items from the Magic/Inventory menu by hovering over the item/spell and holding Q then pressing left click in the slot you want. While in this same menu, right click will remove items and M/N will create new slots and wheeler pages.
+T - Opens wheeler menu. Add or remove items from the Magic/Inventory menu by hovering over the item/spell and holding T then pressing left click in the slot you want. While in this same menu, right click will remove items and M/N will create new slots and wheeler pages.
 
-Right Alt - Opens traditional favorites menu if you need it. You can reassign this to Q and rebind Wheeler to something else by pressing home and navigating to keybinds in the Wheeler settings.
+T While In Tween Menu - Wait (The tweek menu is the one that opens when you press tab)
 
 1-4 - Switch stances (Changed via Stances.ini LOCATED IN THE "LoreRim - MCM and INI Settings" mod)
 
