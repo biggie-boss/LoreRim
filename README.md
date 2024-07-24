@@ -183,7 +183,7 @@ V - Dual Parry (Changed via DualWieldParryingSKSE.ini LOCATED IN THE Dual Wield 
 
 G - Opens wheeler menu. Add or remove items from the Magic/Inventory menu by hovering over the item/spell and holding T then pressing left click in the slot you want. While in this same menu, right click will remove items and M/N will create new slots and wheeler pages.
 
-Arrow Keys - Switch stances
+F1,F2,F3,F4 - Switch stances
 
 Controller Hotkeys: https://www.nexusmods.com/skyrimspecialedition/mods/111887
 
