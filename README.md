@@ -98,6 +98,9 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 
 :warning: **NOTE**: LoreRim will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. :warning:
 
+**Installation Video:**
+https://www.youtube.com/watch?v=nApuOZWp12c
+
 #### Downloading and Installing LoreRim
 
 Downloading and installing LoreRim can take a while depending on your internet connection and computer. To install LoreRim, complete the following steps.
