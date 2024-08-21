@@ -176,19 +176,11 @@ After you leave the cave, you will be given a choice to follow a starting diety.
 
 ### Default Hotkeys
 
-For INI related controlls, please see https://ck.uesp.net/wiki/Input_Script
+For INI related controls, please see https://ck.uesp.net/wiki/Input_Script
 
 Pressing F11 opens up a controller map.
 
-Left Alt - Dodge (Changed via TK Dodge Re.ini IN THE "LoreRim - MCM and INI Settings" **MOD** - PLEASE READ IT IS THE MOD AND NOT IN-GAME MCM!!!) If you activate the controller config mod, there is a TK Dodge.ini file in there as well that you'll have to change instead.
-
-V - Dual Parry (Changed via DualWieldParryingSKSE.ini LOCATED IN THE Dual Wield Parrying SKSE MOD)
-
-G - Opens wheeler menu. Add or remove items from the Magic/Inventory menu by hovering over the item/spell and holding T then pressing left click in the slot you want. While in this same menu, right click will remove items and M/N will create new slots and wheeler pages.
-
-F1,F2,F3,F4 - Switch stances
-
-Controller Hotkeys: https://www.nexusmods.com/skyrimspecialedition/mods/111887
+All controls are changed either in the in-game settings, MCM menus or in the "LoreRim MCM and INI Settings" mod.
 
 ### Gameplay Tips / Unlocking Cool Mechanics
 
