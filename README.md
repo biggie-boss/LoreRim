@@ -86,7 +86,6 @@ Prior to installing LoreRim, please complete the following steps.
 6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 7. Launch the game to the main menu and allow it to download the paid addon files. **DO NOT VERIFY YOUR GAME FILES**
 8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
-9. **Install the Skyrim Special Edition: Creation Kit on Steam and run it at least once.**
 
 ***
 
