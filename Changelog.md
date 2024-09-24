@@ -2,7 +2,7 @@
 
 ** >>>>> CHANGELOG FOR V2.2.10 <<<<< **
 
-**Added:**
+**ADDED:**
 
 @gonzeh COTN Falkreath retexture. Should fix warping in interiors. LODs won't fully match until I re-run dyndolod but it's close enough.
 
@@ -14,7 +14,7 @@ Multilayer Parallax Animated Dawnbreaker
 
 
 
-**Updated:**
+**UPDATED:**
 
 Nordic Northern Roads
 
@@ -44,7 +44,7 @@ Fists of Fury
 
 
 
-**Changes:**
+**CHANGES:**
 
 Changed almost all Speech perks to be more descriptive of what effect they actually have.
 
@@ -58,7 +58,7 @@ War Axe/Battleaxe bleed no longer applies on people who are blocking, undead or 
 
 
 
-**Bugfixes:**
+**BUGFIXES:**
 
 Weapon placement in Mehrune's Shrine for one of the Lost Relics
 
