@@ -1,6 +1,6 @@
 # Changelog
 
-** >>>>> CHANGELOG FOR V2.2.10 <<<<< **
+**>>>>> CHANGELOG FOR V2.2.10 <<<<< **
 
 **ADDED:**
 
