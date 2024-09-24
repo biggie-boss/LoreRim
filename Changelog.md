@@ -13,6 +13,7 @@ Kanjs - Arms of Chaos
 Multilayer Parallax Animated Dawnbreaker
 
 
+
 **Updated:**
 
 Nordic Northern Roads
@@ -42,6 +43,7 @@ Obscure Magic
 Fists of Fury 
 
 
+
 **Changes:**
 
 Changed almost all Speech perks to be more descriptive of what effect they actually have.
@@ -53,6 +55,7 @@ Added name to Movarth Piquine (before it was a random name)
 Buffed Movarth's Boots. They are now the same appearance as Vampire boots and give 40% sneak buff instead of just 10%. 
 
 War Axe/Battleaxe bleed no longer applies on people who are blocking, undead or dwarven constructs. 
+
 
 
 **Bugfixes:**
