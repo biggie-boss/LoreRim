@@ -1,14 +1,14 @@
 # Changelog
 
- >>>>> CHANGELOG FOR V2.2.10 <<<<< 
+** >>>>> CHANGELOG FOR V2.2.10 <<<<< **
 
-Added:
-@Gonzeh COTN Falkreath retexture. Should fix warping in interiors. LODs won't fully match until I re-run dyndolod but it's close enough.
+**Added:**
+@gonzeh COTN Falkreath retexture. Should fix warping in interiors. LODs won't fully match until I re-run dyndolod but it's close enough.
 Kanjs - Ebony Blade
 Kanjs - Arms of Chaos
 Multilayer Parallax Animated Dawnbreaker
 
-Updated:
+**Updated:**
 Nordic Northern Roads
 LoreRim Bestiary
 Alchemical Appraisal Services
@@ -23,14 +23,14 @@ Temper and Recharge Services
 Obscure Magic
 Fists of Fury 
 
-Changes:
+**Changes:**
 Changed almost all Speech perks to be more descriptive of what effect they actually have.
 Increased follower carry weight by 25.
 Added name to Movarth Piquine (before it was a random name)
 Buffed Movarth's Boots. They are now the same appearance as Vampire boots and give 40% sneak buff instead of just 10%. 
 War Axe/Battleaxe bleed no longer applies on people who are blocking, undead or dwarven constructs. 
 
-Bugfixes:
+**Bugfixes:**
 Weapon placement in Mehrune's Shrine for one of the Lost Relics
 Fixed dagger sneak from behind dmg as well as weapon keyword
 Removed all quest triggers from CC alternative armor quests. Even if you somehow find the notes, it should no longer trigger the quests.
