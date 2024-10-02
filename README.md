@@ -158,6 +158,8 @@ Using the drop down menu at the top of MO2 you can select from one of 3 profiles
 
 - Performance: Same as Normal except Community Shaders instead of ENB, lower resolution textures, lower poly meshes, lighter grass mod, lighter INI settings.
 
+- ALSO NOTE: Saves between Normal and Performance ARE COMPATIBLE. Saves between Ultra and the 2 others ARE NOT COMPATIBLE. You can drag and drop your performance/normal saves into the opposite profiles from the profiles/saves folder.
+
 **NOTE**: Screenshots save to `Overwrite\Stock Game`.
 
 ### Starting up the list
