@@ -146,11 +146,17 @@ LoreRim also utilizes Root Builder alongside Stock Game to enable easier managem
 
 ### OPTIONAL MODS - ULTRAWIDE SUPPORT & PERFORMANCE
 
-**If you do not have an RTX Graphics Card it is CRUCIAL that you DISABLE the DLAA mod located towards the bottom of the load order.**
-
 LoreRim comes with several list customization options. There is ultrawide support under the "Widescreen Support" section of Mod Organizer 2. There are several ENB presets to choose from ONLY CLICK ONE OPTION AT A TIME.
 
-If you need a boost in FPS, you can choose the performance profile from the Profile dropdown in MO2.
+### PROFILES:
+
+Using the drop down menu at the top of MO2 you can select from one of 3 profiles.
+
+- Ultra: Full 3d Tree LODs, grass LODs, Nature of the Wild Lands as the default tree mod, heavier ENB.
+
+- Normal: 2D Tree LODs, no grass LODs, Happy Little Trees as teh default tree mod, lighter ENB.
+
+- Performance: Same as Normal except Community Shaders instead of ENB, lower resolution textures, lower poly meshes, lighter grass mod, lighter INI settings.
 
 **NOTE**: Screenshots save to `Overwrite\Stock Game`.
 
