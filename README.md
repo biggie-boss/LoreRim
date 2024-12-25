@@ -21,6 +21,10 @@ Wabbajack Modlist Installer by biggie_boss.
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
+## THIS IS THE OLD README. PLEASE GO TO THE NEW LINK HERE: 
+
+<td><a href="https://wiki.lorerim.com/">LoreRim Wiki</a></td>
+
 ## Preamble
 
 **LoreRim** is complete overhaul of Skyrim Anniversary Edition, designed to modernize the visuals and combat of the game while also staying true to lore and bringing back gameplay mechanics from previous games. This modlist is heavily focused on immersion, role-playing and progression.
