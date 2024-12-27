@@ -41,7 +41,7 @@ This list is challenging but it is up to you, the player, to overcome those chal
 
 Owing to the need to clean master files and certain errors with Wabbajack, LoreRim only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.6.1170.
 
-:warning: :exclamation: **LORERIM REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS** :exclamation: :warning:
+:warning: :exclamation: **LORERIM REQUIRES THE <a href="https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/">FULL PAID UPGRADE TO SKYRIM ANNIVERSARY EDITION</a>. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH OLDER VERSIONS OF SKYRIM OR SKYRIM WITHOUT THE AFOREMENTIONED UPGRADE** :exclamation: :warning:
 
 ***
 
