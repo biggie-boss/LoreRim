@@ -1,7 +1,7 @@
 ** >>>>> CHANGELOG FOR V5.0 <<<<< **
 
 **Added:**
-- **Updated most mods that had updated available. There are way too many to list.
+- Updated most mods that had updated available. There are way too many to list.
 - Alternative Riften
 - Andrealletius' Disarming Overhaul
 - Animated Objects Overhauled
