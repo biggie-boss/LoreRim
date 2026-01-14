@@ -1,6 +1,8 @@
-#*** >>>>> CHANGELOG FOR V5.0 <<<<< ***
+*** >>>>> CHANGELOG FOR V5.0 <<<<< ***
 
-##*** Added***
+#
+
+*** Added***
 
 - Updated most mods that had updated available. There are way too many to list.
 - Alternative Riften
