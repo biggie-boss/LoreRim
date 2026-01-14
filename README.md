@@ -1,6 +1,6 @@
 ** >>>>> CHANGELOG FOR V5.0 <<<<< **
 
-**Added:**
+##*Added:
 - Updated most mods that had updated available. There are way too many to list.
 - Alternative Riften
 - Andrealletius' Disarming Overhaul
@@ -43,7 +43,7 @@
 - Unmarked Locations Pack - Wyrmstooth Addon
 - Vanaheimr - Farmhouses - Complex Material and PBR
 
-**Removed (Unless otherwise specific, they are due to redundancies):**
+##Removed (Unless otherwise specific, they are due to redundancies):
 - 3rd Era Alchemy Equipment, Portable Enchanting, Portable Cooking (rip to the 3 people who use these)
 - Aetherium Forge Destroys Items (confuses people with the LoreRim mechanic)
 - All UI mods besides Norden, It's just too much work to maintain them all and Norden has an AIO 
@@ -104,7 +104,7 @@
 - WiZkiD Carriages
 
 
-**Bugfixes:**
+##Bugfixes:
 - Followers breaking with the fishing idle
 - Removed all locked chests have keys patches and made my own unified patch
 - Combed through all container records for consistency
@@ -116,7 +116,7 @@
 - Forgemaster can no longer be locked down/hotwired - prevents him tweaking out
 - Gallow's Hall shrine now works with Wintersun
 
-**Wintersun Changes:**
+##Wintersun Changes:
 - Sanguine devotee ability gives 100 health/magicka/stamina while using potions/food/alcohol.
 - Baan Daar devotee ability addon - Skooma no longer can kill you.
 - Dibella devotee ability addon - Illusion spells are 10% stronger or longer lasting.
@@ -130,7 +130,7 @@
 - The Old Ways - Devotee ability (dragon form) is non-crafting, but only costs 1 favor per hour
 - Added better conditions to sanguine so that buffs are more consistent
 
-**Artifact Changes:**
+##Artifact Changes:
 - Soul Devourer doubled both benefits and detriment
 - Rueful Axe now absorbs 20 health/magicka/stamina
 - Eye of Melka now does 60 damage instead of 80 and AOE reduced from 15 to 5, but the lingering effect is buffed from 4 over 4 seconds to  6 over 20 seconds.
@@ -155,7 +155,7 @@
 - Helmet of Graff the White now gives 20% reflect damage and 20% magic resist to make it a bit closer to the Morrowind stats
 - Dark Moon enchantment now always decreases half as much health as it increases magicka
 
-**Trait Changes:**
+##Trait Changes:
 - Angler can now temper fishing rods and greatly expanded the types of special loot you can get to include weapons, armor, ingredients, etc
 - Big Swing is 20% PA instead of 25%
 - Blighted fists should work in brawls now
@@ -178,7 +178,7 @@
 - True Apprentice now is 60% spell cost reduction, but changed the 60% to be "fortify" instead of perk-based so it doesn't stack with other fortify types to bypass the reduction cap.
 - Witcher buffed to 30% stronger potions and 3x ingredients. The 4 potion limit was way too limiting. This should make Witcher more interesting to play as a preparation build.
 
-**Vampire Changes:**
+##Vampire Changes:
 
 - Potions of Viscera are no longer craftable.
 - All vampires can craft elixer of blood potions with half efficiency. Being a vampire lord and taking the courts chef perk doubles the amount you receive or makes them twice as cheap.
@@ -187,7 +187,7 @@
 - The new Cursed Daedric hearts as well as CC lich hearts can be used. Gives 2 per 1, 4 with the perk.
 - Vampire fish can be used in place of vampire dust for potions of hunger.
 
-**Smithing and Passive Changes/Bugfixes:**
+##Smithing and Passive Changes/Bugfixes:
 
 - All "Quicksilver" Weapons/Armors renamed back to Nordic
 - All Fortify Smithing enchantments changed to Fortify Reflect enchantments (reflect % physical damage). Unique artifacts may still have smithing enchant.
@@ -264,7 +264,8 @@
 - Plague Breath damage doubled but recovery time increased by 50%
 
 
-**General Changes:**
+## General Changes:
+
 - Added crafting recipes for nearly every scroll and staff in LoreRim thanks to BardicNoel
 - Exhaustion penalties are now based on stamina percentage being less than 10% instead of stamina being less than 10.
 - Sinding SIGNIFICANTLY buffed to make the Savior's Hide a proper endgame item. He now has more health, more stamina, more damage resist, less weak to poison that regular werewolves, 30% magic resist and a powerful health regen that only stops while under the effects of harmful poison.
