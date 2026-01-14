@@ -1,4 +1,4 @@
-** >>>>> CHANGELOG FOR V2.2.11 <<<<< **
+** >>>>> CHANGELOG FOR V5.0 <<<<< **
 
 **Added:**
 - **Updated most mods that had updated available. There are way too many to list.
