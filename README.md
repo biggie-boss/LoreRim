@@ -1,4 +1,4 @@
-*** >>>>> CHANGELOG FOR V5.0 <<<<< ***
+* >>>>> CHANGELOG FOR V5.0 <<<<< *
 
 #
 
