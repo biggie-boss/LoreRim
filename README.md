@@ -1,6 +1,6 @@
-** >>>>> CHANGELOG FOR V5.0 <<<<< **
+#*** >>>>> CHANGELOG FOR V5.0 <<<<< ***
 
-*** Added:
+##*** Added***
 
 - Updated most mods that had updated available. There are way too many to list.
 - Alternative Riften
@@ -44,7 +44,7 @@
 - Unmarked Locations Pack - Wyrmstooth Addon
 - Vanaheimr - Farmhouses - Complex Material and PBR
 
-*** Removed (Unless otherwise specific, they are due to redundancies):
+##***Removed (Unless otherwise specific, they are due to redundancies)***
 
 - 3rd Era Alchemy Equipment, Portable Enchanting, Portable Cooking (rip to the 3 people who use these)
 - Aetherium Forge Destroys Items (confuses people with the LoreRim mechanic)
@@ -106,7 +106,7 @@
 - WiZkiD Carriages
 
 
-*** Bugfixes:
+##***Bugfixes***
 
 - Followers breaking with the fishing idle
 - Removed all locked chests have keys patches and made my own unified patch
@@ -119,7 +119,7 @@
 - Forgemaster can no longer be locked down/hotwired - prevents him tweaking out
 - Gallow's Hall shrine now works with Wintersun
 
-*** Wintersun Changes:
+##***Wintersun Changes***
 
 - Sanguine devotee ability gives 100 health/magicka/stamina while using potions/food/alcohol.
 - Baan Daar devotee ability addon - Skooma no longer can kill you.
@@ -134,7 +134,7 @@
 - The Old Ways - Devotee ability (dragon form) is non-crafting, but only costs 1 favor per hour
 - Added better conditions to sanguine so that buffs are more consistent
 
-*** Artifact Changes:
+##***Artifact Changes***
 
 - Soul Devourer doubled both benefits and detriment
 - Rueful Axe now absorbs 20 health/magicka/stamina
@@ -160,7 +160,7 @@
 - Helmet of Graff the White now gives 20% reflect damage and 20% magic resist to make it a bit closer to the Morrowind stats
 - Dark Moon enchantment now always decreases half as much health as it increases magicka
 
-*** Trait Changes:
+##***Trait Changes***
 
 - Angler can now temper fishing rods and greatly expanded the types of special loot you can get to include weapons, armor, ingredients, etc
 - Big Swing is 20% PA instead of 25%
@@ -184,7 +184,7 @@
 - True Apprentice now is 60% spell cost reduction, but changed the 60% to be "fortify" instead of perk-based so it doesn't stack with other fortify types to bypass the reduction cap.
 - Witcher buffed to 30% stronger potions and 3x ingredients. The 4 potion limit was way too limiting. This should make Witcher more interesting to play as a preparation build.
 
-*** Vampire Changes:
+##***Vampire Changes***
 
 - Potions of Viscera are no longer craftable.
 - All vampires can craft elixer of blood potions with half efficiency. Being a vampire lord and taking the courts chef perk doubles the amount you receive or makes them twice as cheap.
@@ -193,7 +193,7 @@
 - The new Cursed Daedric hearts as well as CC lich hearts can be used. Gives 2 per 1, 4 with the perk.
 - Vampire fish can be used in place of vampire dust for potions of hunger.
 
-*** Smithing and Passive Changes/Bugfixes:
+##***Smithing and Passive Changes/Bugfixes***
 
 - All "Quicksilver" Weapons/Armors renamed back to Nordic
 - All Fortify Smithing enchantments changed to Fortify Reflect enchantments (reflect % physical damage). Unique artifacts may still have smithing enchant.
@@ -250,7 +250,7 @@
  - T5: 70 (Ebony/Glass)
 - T6: 90 (Daedric/Draconic/Legendary)
 
-*** Alchemy and Food Changes:
+##***Alchemy and Food Changes***
 
 - Added "Cursed Daedra Hearts". These have powerful alchemy effects, even compared to regular daedra hearts. However, they cannot be used for smithing. Killing a Daedra now usually yields a cursed heart (since LoreRim has so many damn new daedra). Hand-placed hearts from Requiem are unaffected. Most mod-placed hearts are replaced by Cursed Daedra hearts.
 - Healing poultices are weaker and shorter duration but now work in combat and have a higher AOE for companions. Same applies with linen bandages.
@@ -264,13 +264,13 @@
 - Inebriation amount is 3/4 of alcohol amount.
 - Juices and Glacier water now also hydrate. Hydration now lasts 1800 seconds.
 
-*** Shout Changes:
+##***Shout Changes***
 
 - Storm Call now is an aimed shout that does health/stamina damage over 12 seconds, twice as much to constructs. At rank 2-3 it also gives the classic Storm Call effect, giving it more utility. Storm call no longer targets allies.
 - Plague Breath damage doubled but recovery time increased by 50%
 
 
-## General Changes:
+##***General Changes***
 
 - Added crafting recipes for nearly every scroll and staff in LoreRim thanks to BardicNoel
 - Exhaustion penalties are now based on stamina percentage being less than 10% instead of stamina being less than 10.
