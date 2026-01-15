@@ -101,6 +101,7 @@
 - Spellbreaker Remesh Animated ENB Light
 - Tomato's Complex Parallax Material Landscapes AIO
 - Tons more redundant plugins/meshes/textures.
+- Trad Myrwatch Patch. 
 - Seriously Improved Sparks
 - SpiderWIP
 - The Mudcrab Merchant
@@ -220,7 +221,7 @@
 - No longer possible to manually select smithing perks that are free from reading books, this will prevent people from accidently wasting perk points. Only Smithing Specialization and Iron Lore require perks.
 - Added smithing book for tailoring to the radiant rainment
 - Saint Jiub's Opus teaches Legendary Blacksmithing. Should give more of a reason to actually do it.
-- See-The-Moon's Journal in the Shivering Isles unlocks Shivering Isles smithing (and fixes the weird conditions of shivering isles stuff)
+- Trad "Shivering Isles Smithing" removed. All Amber recipes are now glass.
 - Shivering Isles Staves from ECSS also require arcane crafstmanship
 - Eorland's book teaches advanced crafting
 - All "Quicksilver" Weapons/Armors renamed back to Nordic
