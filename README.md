@@ -320,6 +320,7 @@
 - Removed "jump ahead" system that magic redone adds. With this, you could cast the spells in a higher tier for 75% of the cost. For example, if you picked novice destruction you cast novice spells at 50% but you could also cast apprentice spells for 75%.
 - Tier perks (novice/apprentice/etc) now taper inversely instead of all reducing cost by 50%. Now Novice perk brings total cost to 40%, Apprentice 45%, Adept 50%, Expert 55%, Master 60%. This gives slightly more reason to use lower tier spells.
 - Spell scaling has been equalized across all tiers. Before, Master spells would get stronger based on skill level compared to Novice spells. Now, all tiers scale as much as apprentice across all levels. 
+- Prowler's Gift gives 5% penetration while sneaking.
 
 ***
 
