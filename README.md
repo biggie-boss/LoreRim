@@ -216,6 +216,10 @@
 
 ### Smithing and Passive Changes/Bugfixes
 
+- No longer possible to manually select smithing perks that are free from reading books, this will prevent people from accidently wasting perk points.
+- Added smithing book for tailoring to the radiant rainment
+- See-The-Moon's Journal in the Shivering Isles unlocks Shivering Isles smithing (and fixes the weird conditions of shivering isles stuff)
+- Shivering Isles Staves from ECSS also require arcane crafstmanship
 - All "Quicksilver" Weapons/Armors renamed back to Nordic
 - Skyforge Steel weapons are now their own material type. Passively, they do 10% more poise damage. 
 - All Fortify Smithing enchantments changed to Fortify Reflect enchantments (reflect % physical damage). Unique artifacts may still have smithing enchant.
