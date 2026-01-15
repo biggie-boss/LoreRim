@@ -172,6 +172,7 @@
 - Helmet of Graff the White now gives 20% reflect damage and 20% magic resist to make it a bit closer to the Morrowind stats
 - Dark Moon enchantment now always decreases half as much health as it increases magicka
 - Ahzidal's Boots are now 10/15% stronger spells. I found a funny when I was editing these. It SAID 10% reduction but it was only 5% lol.
+- Bow of Hallowed Flame now has infinite charge
 
 ***
 
