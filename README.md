@@ -217,6 +217,7 @@
 ### Smithing and Passive Changes/Bugfixes
 
 - All "Quicksilver" Weapons/Armors renamed back to Nordic
+- Skyforge Steel weapons are now their own material type. Passively, they do 10% more poise damage. 
 - All Fortify Smithing enchantments changed to Fortify Reflect enchantments (reflect % physical damage). Unique artifacts may still have smithing enchant.
 - Upgrade kits no longer require wood to make. Because that makes no sense to me. They also last for 3600 seconds instead of 1800.
 - Fixed LoreBox mistakes/missing entries
