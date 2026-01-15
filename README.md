@@ -142,7 +142,7 @@
 - The Old Ways - Devotee ability (dragon form) is non-crafting, but only costs 1 favor per hour. Also Owl totem is 20% enchantment cost reduction instead of both enchantments and spells.
 - Added better conditions to sanguine so that buffs are more consistent
 - Hermaeus Black Books halved in effect (kinda insane that they're permanent). Also the spell cost reduction is now 5% stronger spells.
-- Magnus completely reworked to be thematic to staves. His follower ability is gives 30% stronger spells and 50% less charge use when holding a staff. Still no magicka regen. No penalties for Atronachs.
+- Magnus completely reworked Follower: 30% stronger spells and 50% less charge use when holding a staff. Devotee: Potions and ingredients restore 2x magicka. When under the effects of a magicka potion, soul gems provide 2x charge. No penalties for Atronachs.
 
 ***
 
