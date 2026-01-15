@@ -216,8 +216,9 @@
 
 ### Smithing and Passive Changes/Bugfixes
 
-- No longer possible to manually select smithing perks that are free from reading books, this will prevent people from accidently wasting perk points.
+- No longer possible to manually select smithing perks that are free from reading books, this will prevent people from accidently wasting perk points. Only Smithina Specialization and Iron Lore require perks.
 - Added smithing book for tailoring to the radiant rainment
+- Saint Jiub's Opus teaches Legendary Blacksmithing. Should give more of a reason to actually do it.
 - See-The-Moon's Journal in the Shivering Isles unlocks Shivering Isles smithing (and fixes the weird conditions of shivering isles stuff)
 - Shivering Isles Staves from ECSS also require arcane crafstmanship
 - All "Quicksilver" Weapons/Armors renamed back to Nordic
