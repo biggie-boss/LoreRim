@@ -84,6 +84,7 @@
 - Pfuscher AIO Textures/Meshes
 - Quaint Raven Rock
 - Rally's Banners of Skyrim
+- Requiem ECSS
 - Riton/MRF/Extravagant Solitude
 - Riton/Wizkid Farmhouses
 - Riton/Wizkid/TB's/SkyKing Riften
@@ -101,7 +102,8 @@
 - Spellbreaker Remesh Animated ENB Light
 - Tomato's Complex Parallax Material Landscapes AIO
 - Tons more redundant plugins/meshes/textures.
-- Trad Myrwatch Patch. 
+- Trad Myrwatch Patch.
+- Trad Rare Curios
 - Seriously Improved Sparks
 - SpiderWIP
 - The Mudcrab Merchant
