@@ -128,6 +128,7 @@
 
 ### Wintersun Changes
 
+- Syrabane and Julianos are no longer "up to" instead they get 20% and 10% spell cost reducation respectively, but contributing to the overall 80% cap.
 - Sanguine devotee ability gives 100 health/magicka/stamina while using potions/food/alcohol.
 - Baan Daar devotee ability addon - Skooma no longer can kill you.
 - Dibella devotee ability addon - Illusion spells are 10% stronger or longer lasting.
@@ -138,8 +139,10 @@
 - Shor - buffed shield thane stats
 - Talos - devotee ability is within 20 feet instead of 40, encourages staying within melee range
 - Hoonding, fixed incorrect calculation of follower ability
-- The Old Ways - Devotee ability (dragon form) is non-crafting, but only costs 1 favor per hour
+- The Old Ways - Devotee ability (dragon form) is non-crafting, but only costs 1 favor per hour. Also Owl totem is 20% enchantment cost reduction instead of both enchantments and spells.
 - Added better conditions to sanguine so that buffs are more consistent
+- Hermaeus Black Books halved in effect (kinda insane that they're permanent). Also the spell cost reduction is now 5% stronger spells.
+- Magnus was in a weird spot for a while. He was always in between completely busted and dogwater when trying to balance him. I wanted to make him thematic to staves. His follower ability is completely reworked to give 30% stronger spells and 50% less charge use when holding a staff. Still no magicka regen.
 
 ***
 
@@ -168,6 +171,7 @@
 - Tower of the Nine reflect damage removed. Instead gives 25% more block, 100 armor rating and wards 100 magic damage (like spellbreaker) when blocking, to mimic its Oblivion stats
 - Helmet of Graff the White now gives 20% reflect damage and 20% magic resist to make it a bit closer to the Morrowind stats
 - Dark Moon enchantment now always decreases half as much health as it increases magicka
+- Ahzidal's Boots are now 10/15% stronger spells. I found a funny when I was editing these. It SAID 10% reduction but it was only 5% lol.
 
 ***
 
@@ -180,7 +184,8 @@
 - Blood warrior now gives +50 health instead of +100, I was gaslighted into making it +100. You literally gain a positive buff by lvl 10-20 depending on what race you picked. Not to mention, it frees up slots for raising magicka/stamina.
 - Disbeliever is now a 40% buff instead of 33%. Other weapons/armor are 20% weaker. Also fixed the typo
 - Dovah Tinvaak is now 20% more often at 30% reduced effectiveness
-- Druid is now 20% weakness to fire/axes instead of 25%. Spells are no longer "up to 30%" but instead are 15% cheaper and also 15% stronger
+- Druid spells are no longer "up to 30%" but instead are 30% stronger with no cost reduction.
+- Drunken Mage is your next spell is 30% stronger and no longer penalizes Atronachs.
 - Fencer is now 30% LA instead of 25%. Big Swing and Fencer now no longer accidently buff/nerf bows
 - Gambler now gives 30% crit chance to make it a bit less broken in the early game. There are also a lot of ways to gain crits now
 - Iron Knees movement is 15% reduction now
@@ -205,6 +210,7 @@
 - Human hearts require 2 for 1 without perk, 1 for 1 with perk.
 - The new Cursed Daedric hearts as well as CC lich hearts can be used. Gives 2 per 1, 4 with the perk.
 - Vampire fish can be used in place of vampire dust for potions of hunger.
+- Unearthly Will buff is now 20% stronger spells instead.
 
 ***
 
@@ -262,7 +268,7 @@
 - T1: 10 (Craftsmanship) 
 - T2: 30 (Advanced, Dwarven, Advanced Light)
 - T3: 50 (Elven/Orcish/Arcane)
- - T5: 70 (Ebony/Glass)
+- T5: 70 (Ebony/Glass)
 - T6: 90 (Daedric/Draconic/Legendary)
 
 ***
@@ -292,6 +298,24 @@
 
 ### Magic Changes
 
+- Magicka is broken in Requiem. I don't mind people becoming powerful, but I did some testing and, with the right setup, was able to cast Master-level spells that had a base cost of 4,000 and 1HKO's every enemy for just 200 magicka. These changes should alleviate that.
+- Almost all instances of perk-entry based "mod spell cost multiply value" are gone. Now, most of the remaining spell cost reductions contribute to the 80% cap. TLDR "spell cost reduction" modifiers that were setup incorrectly caused people to be able to overcap.
+- Ward Mastery is unaffected by this change. Unskilled Spellcasting and Novice thru Master Skill perks are unaffected.
+- Vaermina, Syrabane and Julianos are unaffected. Bretons and Altmer are unaffected. Mystic Binding is unaffected.
+- With few exceptions, most cost reduction perks in the skill trees are 0.9x (but usually are now higher magnitudes)
+- Shalidor's insights now give 200% power AND duration of spells instead of 150% power OR duration and 50% cost.
+- Battlemage Heavy Armor perk no longer provides a spell reduction buff, because that makes 0 sense than heavy armor would cast for cheaper than light armor. Now they get 10% stronger or longer lasting spells.
+- Agile spellcasting now has a second rank which gives 10% stronger or longer lasting spells when wearing light armor.
+- Black Book F&F Magicka now 25% stronger spells on top of 50 magicka regen to make it on par with the stamina book.
+- Black Book F&F Stamina now has a proper description showing 25% damage and 50 stamina regen.
+- Black Book F&F Half Damage now actually reduces ALL incoming spell damage by 50% instead of just destruction spells.
+- Black Book: The Sallow Regent Seeker of Sorcery is now 10% stronger or longer lasting spells
+- Mystic Empowerment is now 2x bound weapon duration but 0.9x cost.
+- All-Maker Stone: Tree. Now is 50% stronger spells for the duration.
+- Battlemage class skill is now 15% stronger spells on top of power attack reduction.
+- Mage class skill is now 5% stronger spells.
+- Staff Channeling is now 10/20% stronger spells while holding a staff but no cost reduction.
+- I've literally never even considered taking Metamagic. 50% cost increase is insanely steep for 20% power. Now the cost increase is just 30%.
 - Removed "jump ahead" system that magic redone adds. With this, you could cast the spells in a higher tier for 75% of the cost. For example, if you picked novice destruction you cast novice spells at 50% but you could also cast apprentice spells for 75%.
 - Tier perks (novice/apprentice/etc) now taper inversely instead of all reducing cost by 50%. Now Novice perk brings total cost to 40%, Apprentice 45%, Adept 50%, Expert 55%, Master 60%. This gives slightly more reason to use lower tier spells.
 - Spell scaling has been equalized across all tiers. Before, Master spells would get stronger based on skill level compared to Novice spells. Now, all tiers scale as much as apprentice across all levels. 
