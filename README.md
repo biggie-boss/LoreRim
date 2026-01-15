@@ -222,6 +222,7 @@
 - Saint Jiub's Opus teaches Legendary Blacksmithing. Should give more of a reason to actually do it.
 - See-The-Moon's Journal in the Shivering Isles unlocks Shivering Isles smithing (and fixes the weird conditions of shivering isles stuff)
 - Shivering Isles Staves from ECSS also require arcane crafstmanship
+- Eorland's book teaches advanced crafting
 - All "Quicksilver" Weapons/Armors renamed back to Nordic
 - Skyforge Steel weapons are now their own material type. Passively, they do 10% more poise damage. 
 - All Fortify Smithing enchantments changed to Fortify Reflect enchantments (reflect % physical damage). Unique artifacts may still have smithing enchant.
