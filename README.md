@@ -286,6 +286,13 @@
 
 ### Alchemy and Food Changes
 
+- Concentrated Poisons gives you 1 extra dose as well as 1 more at levels 50 and 100.
+- Reduced amount of oils you craft to 4 but they only cost 1 oil now. They are also unlocked with concentrated poisons instead.
+- Added new "greater oils" that you can craft with the improved poisons perk. These are twice as effective but only give 2 when crafted.
+- Oils can now be crafted in cooking pots too.
+- Reworked Fire and Silver oils. Now, fire gets all of silver's previous effects minus lycanthropes. Silver is renamed to Arcana and does more damage to dragons and creatures (including werewolves).
+- Powders got the same treatment as above, but they don't have a tier 2 version. They also use glow dust now instead of dwarven oil.
+- Due to the changes to powders/oils being buffed, they only give 4 when crafted.
 - Added "Cursed Daedra Hearts". These have powerful alchemy effects, even compared to regular daedra hearts. However, they cannot be used for smithing. Killing a Daedra now usually yields a cursed heart (since LoreRim has so many damn new daedra). Hand-placed hearts from Requiem are unaffected. Most mod-placed hearts are replaced by Cursed Daedra hearts.
 - Healing poultices are weaker and shorter duration but now work in combat and have a higher AOE for companions. Same applies with linen bandages.
 - Damage magicka/stamina potions suck, nobody uses these. Now they do 1/4 of the magicka or stamina damage to health as well.
