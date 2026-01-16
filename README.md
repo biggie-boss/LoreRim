@@ -184,7 +184,7 @@
 - Nightingale bow now deals 60 points of magic damage instead of elemental and slows targets by 25% for 5 seconds.
 - Magebane now absorbs 100 magicka instead of removing your magicka and dealing 500 damage to enemy magicka
 - Mentor's RIng should be available on that one necromancer again
-- Rueful Axe now absorbs 20 health/magicka/stamina
+- Rueful Axe now absorbs 30 health/magicka/stamina.
 - Soul Devourer doubled both benefits and detriment
 - Stendarr's Hammer now deals 40 smite damage instead of 20
 - Tower of the Nine reflect damage removed. Instead gives 25% more block, 100 armor rating and wards 100 magic damage (like spellbreaker) when blocking, to mimic its Oblivion stats
