@@ -133,6 +133,7 @@
 
 ### Wintersun Changes
 
+- You can now always pray in combat. Your weapons/spells still have to be put away though.
 - Syrabane and Julianos are no longer "up to" instead they get 20% and 10% spell cost reducation respectively, but contributing to the overall 80% cap.
 - Sanguine devotee ability gives 100 health/magicka/stamina while using potions/food/alcohol.
 - Baan Daar devotee ability addon - Skooma no longer can kill you.
