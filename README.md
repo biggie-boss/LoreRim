@@ -164,31 +164,31 @@
 
 ### Artifact Changes
 
-- Soul Devourer doubled both benefits and detriment
-- Rueful Axe now absorbs 20 health/magicka/stamina
+- Ahzidal's Boots are now 10/15% stronger spells. I found a funny when I was editing these. It SAID 10% reduction but it was only 5% lol.
+- Auriel's bow given 50% more charge.
+- Bow of Hallowed Flame now has infinite charge
+- Chrysamere now gives 5% reflect damage instead of health regen to match its Morrowind stats
+- Dawnguard Battleaxe/Mace now have an enchantment
+- Dawnguard weapons now deal 15 points of sun damage and an extra 45 to undead for the axe and 20/60 for the warhammer.
+- Dark Moon enchantment now always decreases half as much health as it increases magicka
+- Dragon's Oath absorbs 15 stamina
 - Eye of Melka now does 60 damage instead of 80 and AOE reduced from 15 to 5, but the lingering effect is buffed from 4 over 4 seconds to  6 over 20 seconds.
+- Gratefull Dai Katana Renamed to Blade of Jays
+- Helmet of Graff the White now gives 20% reflect damage and 20% magic resist to make it a bit closer to the Morrowind stats
+- Hopefire does 40 dmg (120 to constructs)
+- Ice Blade of the Monarch charge increased
+- KotN weapons lingering damage increased to 15 seconds
+- Light of day now deals 20 sun damage, 60 to regular undead and 100 to vampires
+- Namira's Itch absorbs 40 stamina
 - Nightingale blade Absorbs 10 health/stamina over 4 seconds and slows targets by 20% over 4 seconds.
 - Nightingale bow now deals 60 points of magic damage instead of elemental and slows targets by 25% for 5 seconds.
-- Auriel's bow given 50% more charge
-- Dawnguard weapons now deal 15 points of sun damage and an extra 45 to undead for the axe and 20/60 for the warhammer.
-- Trueflame does 2 lingering damage for 30 seconds
-- Hopefire does 40 dmg (120 to constructs)
 - Magebane now absorbs 100 magicka instead of removing your magicka and dealing 500 damage to enemy magicka
-- Light of day now deals 20 sun damage, 60 to regular undead and 100 to vampires
-- Dawnguard Battleaxe/Mace now have an enchantment
-- Stendarr's Hammer now deals 40 smite damage instead of 20
-- Chrysamere now gives 5% reflect damage instead of health regen to match its Morrowind stats
-- KotN weapons lingering damage increased to 15 seconds
-- Dragon's Oath absorbs 15 stamina
-- Namira's Itch absorbs 40 stamina
-- Ice Blade of the Monarch charge increased
 - Mentor's RIng should be available on that one necromancer again
-- Gratefull Dai Katana Renamed to Blade of Jays
+- Rueful Axe now absorbs 20 health/magicka/stamina
+- Soul Devourer doubled both benefits and detriment
+- Stendarr's Hammer now deals 40 smite damage instead of 20
 - Tower of the Nine reflect damage removed. Instead gives 25% more block, 100 armor rating and wards 100 magic damage (like spellbreaker) when blocking, to mimic its Oblivion stats
-- Helmet of Graff the White now gives 20% reflect damage and 20% magic resist to make it a bit closer to the Morrowind stats
-- Dark Moon enchantment now always decreases half as much health as it increases magicka
-- Ahzidal's Boots are now 10/15% stronger spells. I found a funny when I was editing these. It SAID 10% reduction but it was only 5% lol.
-- Bow of Hallowed Flame now has infinite charge
+- Trueflame does 2 lingering damage for 30 seconds
 
 ***
 
@@ -231,8 +231,9 @@
 
 ***
 
-### Smithing and Passive Changes/Bugfixes
+### Smithing/Weapon/Armor Changes/Bugfixes
 
+- All weapons that had multiple material type keywords now only have 1.
 - No longer possible to manually select smithing perks that are free from reading books, this will prevent people from accidently wasting perk points. Only Smithing Specialization and Iron Lore require perks.
 - Added smithing book for tailoring to the radiant rainment
 - Saint Jiub's Opus teaches Legendary Blacksmithing. Should give more of a reason to actually do it.
