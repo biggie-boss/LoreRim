@@ -26,6 +26,7 @@
 - Improved Sparks
 - JK's Raven Rock
 - JK's Tel Mithryn
+- Kanjs - Commons books (used to add covers to new books added)
 - Kanjs - Smooth and artifact-free gradient
 - Military Camps Begone
 - Nordic UI Active Effects for SkyUI SE
