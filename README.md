@@ -309,6 +309,11 @@
 
 ### Shout Changes
 
+- Shouts now have cooldown caps. By default, Requiem sets shouts to cost 50% more, which decreases as you learn more words. Essentially you start with 1.5x cost and would normally need 150% cooldown reduction to reach 0.
+- Base shout cooldown cap is now 140% for wearing clothes, 135% for wearing light armor and 130% for wearing heavy armor. Wearing 3 or more pieces of the Greybeard set allows you to reach 150% cap (or 0 cooldown shouts).
+- Greybeard robes now give 15% shout cooldown reduction each, up from 10. Boots give 25 T2 stamina +50%, Robes give 25 T2 Health, Hood gives 25 T2 Magicka, and each gives +50% of the corresponding regen.
+- Greybeard robes now use the Windcaller robes model. The chest in Ustengraav now just has the gloves, cloak and staff which are now renamed "Greybeard". The extra set of vanilla Greybeard gear removed from Ustengraav and the Dovah Vault.
+- Ancient Nord of the Tongue pieces now give 15% shout cooldown each, up from 10.
 - Storm Call now is an aimed shout that does health/stamina damage over 12 seconds, twice as much to constructs. At rank 2-3 it also gives the classic Storm Call effect, giving it more utility. Storm call no longer targets allies.
 - Plague Breath damage doubled but recovery time increased by 50%
 
