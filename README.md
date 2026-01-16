@@ -133,22 +133,32 @@
 
 ### Wintersun Changes
 
+- Fixed all spell-scaling related blessings/abilities. Now they scale duratino and/or magnitude based on Requiem's "no duration scaling" or "no magnitude scaling" keywords. Before, it was restoration/destruction = magnitude, all else = duration.
 - You can now always pray in combat. Your weapons/spells still have to be put away though.
-- Syrabane and Julianos are no longer "up to" instead they get 20% and 10% spell cost reducation respectively, but contributing to the overall 80% cap.
-- Sanguine devotee ability gives 100 health/magicka/stamina while using potions/food/alcohol.
+- Some blessing reduced due to new perks that increase their power.
+- Akatosh blessing changed to 10% fire, shock, frost resist.
+- Almalexia Blessing dropped to +15 health/stamina. Buffed devotee ability to 15%.
+- Arkay Blessing dropped to +30
 - Baan Daar devotee ability addon - Skooma no longer can kill you.
-- Dibella devotee ability addon - Illusion spells are 10% stronger or longer lasting.
+- Dibella devotee ability addon - Illusion spells are 15% stronger or longer lasting.
+- Hermaeus Black Books halved in effect (kinda insane that they're permanent). Also the spell cost reduction is now 5% stronger spells.
+- Hoonding, fixed incorrect calculation of follower ability
+- Julianos blessing dropped to +30 magicka, devotee ability re-buffed to 20% spell magnitude. Follower ability changed to spells last up to 20% longer and hostile spells are up to 20% weaker. (the 20% weaker hostile spells stacks with the 75% magic/elemental/absorb resist caps)
+- Kynareth blessing dropped to +30 stamina
 - Leki devotee re-adjusted to 20% for 60 minutes
 - Mannimarco follower ability now affects all summons, not just undead
+- Magnus rework. New Follower: 25% stronger spells and 50% less charge use when holding a staff. New Devotee: Potions and ingredients restore 2x magicka. When under the effects of a magicka potion, soul gems provide 2x charge. No penalties for Atronachs.
 - Morwha follower ability also restores 20 stamina
-- Phynaster devotee - gain 200 armor rating and 50% disease/poison resist while standing still.
+- Phynaster blessing changed to 5% damage reflect and 5% spell asborb because he's all about living long or whatever. Devotee - gain 200 armor rating and 50% disease/poison resist while standing still.
+- Sanguine devotee ability gives 100 health/magicka/stamina while using potions/food/alcohol. Added better conditions to sanguine so that buffs are more consistent
+- Sithis blessing dropped to 10% sneak attacks
 - Shor - buffed shield thane stats
+- Sotha Sil blessing dropped to +15 Health/Magicka
 - Talos - devotee ability is within 20 feet instead of 40, encourages staying within melee range
-- Hoonding, fixed incorrect calculation of follower ability
+- The All Marker follower changed to "up to 30% stronger or longer lasting" healing spells.
 - The Old Ways - Devotee ability (dragon form) is non-crafting, but only costs 1 favor per hour. Also Owl totem is 20% enchantment cost reduction instead of both enchantments and spells.
-- Added better conditions to sanguine so that buffs are more consistent
-- Hermaeus Black Books halved in effect (kinda insane that they're permanent). Also the spell cost reduction is now 5% stronger spells.
-- Magnus completely reworked Follower: 30% stronger spells and 50% less charge use when holding a staff. Devotee: Potions and ingredients restore 2x magicka. When under the effects of a magicka potion, soul gems provide 2x charge. No penalties for Atronachs.
+- Vivex blessing dropped to +15 Stamina/magicka
+- Xarxes follower 20% stronger scrolls moved to devotee and buffed to 30%. His blessing dropped to 10%.
 
 ***
 
