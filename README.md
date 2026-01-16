@@ -233,7 +233,7 @@
 
 ### Smithing/Weapon/Armor Changes/Bugfixes
 
-- All weapons that had multiple material type keywords now only have 1.
+- Silver weapons with a secondary material type should no longer have weird tempering values.
 - No longer possible to manually select smithing perks that are free from reading books, this will prevent people from accidently wasting perk points. Only Smithing Specialization and Iron Lore require perks.
 - Added smithing book for tailoring to the radiant rainment
 - Saint Jiub's Opus teaches Legendary Blacksmithing. Should give more of a reason to actually do it.
