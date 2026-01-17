@@ -128,6 +128,8 @@
 - Several items that shouldnt have been disenchantable (some of them broke quests if you did lmao) are no longer disenchantable
 - Forgemaster can no longer be locked down/hotwired - prevents him tweaking out
 - Gallow's Hall shrine now works with Wintersun
+- Gore's amulet appearance changed to a vanilla amulet since his mesh is problematic
+- Inigo bow mesh changed to vanilla mesh since his bow is problematic
 
 ***
 
