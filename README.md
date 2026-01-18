@@ -332,6 +332,7 @@
 - Ancient Nord of the Tongue pieces now give 15% shout cooldown each, up from 10.
 - Storm Call now is an aimed shout that does health/stamina damage over 12 seconds, twice as much to constructs. At rank 2-3 it also gives the classic Storm Call effect, giving it more utility. Storm call no longer targets allies.
 - Plague Breath damage doubled but recovery time increased by 50%
+- Slow Time shout now lasts twice as long but has double the cooldown and slows time by a little less than below.
 
 ***
 
