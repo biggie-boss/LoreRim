@@ -142,26 +142,26 @@
 - Akatosh blessing changed to 10% fire, shock, frost resist. Devotee also able to craft a strong amulet using 5 amulets of each of the eight divines.
 - Almalexia Blessing dropped to +15 health/stamina. Follower reworked: All attacks do up to 20% more to blocking enemies. Take 20% less damage from attacks and destruction when blocking. Devotee Healing from all sources, ward and cure spells are 20% more effective.
 - Arkay Blessing dropped to +30
-- Auriel follower: Deal up to 30% more and take up to 30% less damage from vampires. Devotee: Bows, crossbows, throwing knives and sun spells are up to 25% better.
-- Azura devotee also gets Necrotic Spells up to 20% stronger.
+- Auriel follower: Deal up to 30% more and take up to 30% less damage from vampires. Devotee: Bows, crossbows, throwing knives and sun spells are up to 30% better.
+- Azura devotee also gets Necrotic Spells up to 30% stronger.
 - Baan Dar Follower reworked to up to 50% Better sale prices to fences and gain 10% movement speed and 100 armor rating while sneaking. Baan Daar devotee ability additionally gives Skooma no longer can kill you.
 - Clavicus Vile: Follower grants 20% stronger conjuration spells (buff). Devotee: (additionally) Most teleport spells are 50% cheaper (blink, traversal, mark and recall, etc). This should help with physically getting to your pact locations.
 - Dibella devotee ability addon - Illusion spells are 15% stronger or longer lasting.
 - Hermaeus Black Books halved in effect (kinda insane that they're permanent). Also the spell cost reduction is now 5% stronger spells. Devotee also gets 20% stronger entropic spells.
 - Hoonding, fixed incorrect calculation of follower ability
-- Jephre changed follower and devotee 2nd tier to be out of combat OR outdoors (so you can be in combat outdoors). Follower ability gets 40% stronger bonus from eating meat. It took forever to add meat keywords onto all meat in the game.
+- Jephre changed follower and devotee 2nd tier to be out of combat OR outdoors (so you can be in combat outdoors). Follower ability gets 200% stronger bonus from eating meat but no benefit from most other food. It took forever to add meat keywords onto all meat in the game, let me know if I missed some.
 - Julianos blessing dropped to +30 magicka, devotee ability re-buffed to 20% spell magnitude. Follower ability changed to spells last up to 20% longer and hostile spells are up to 20% weaker. (the 20% weaker hostile spells stacks with the 75% magic/elemental/absorb resist caps)
 - Jyggalag Devotee now also gives - take 75% less physical damage while staggered.
 - Kynareth blessing dropped to +30 stamina. Devotee also applies to spirit summons.
-- Leki devotee changed to 30% more damage against targets at full hp.
+- Leki devotee changed to 50% more damage against targets at full hp.
 - Mannimarco Follower changed back to undead and removed time requirement, but now is only up to 100%. Devotee changed back to only undead conjurations but swapped health to 20% physical damage. 
 - Magnus rework. New Follower: 30% stronger touch or rune spells and 50% less charge use when holding a staff. New Devotee: Potions and ingredients restore 2x magicka. When under the effects of a magicka potion, soul gems provide 2x charge. No penalties for Atronachs.
 - Mara Follower changed to restore 1 health/magicka/stamina per second with hands lowered. Devotee also gains takes 25% less physical damage when hands are lowered.
 - Mehrunes devotee also gets up to 10% stronger destruction and up to 50% longer daedric summon duration.
 - Mephala Devotee ability now buffs follower ability to be up to 30% sneak attack damage.
 - Meridia follower ability changed from all spells to just restoration/destruction (doesn't affect most builds but adds more RP flavor)
-- Molag Bal follower ability (should) now scale with blood magic perks. Devotee ability gets 20% stronger blood magic spells.
-- Morwha - Follower ability also restores 20 stamina as well as adds a chance to drop milk and honey on kills which can be used to make potions in cooking pot. Devotee can also combined milk and honey to make stronger fruit.
+- Molag Bal follower ability (should) now scale with blood magic perks. Devotee ability gets up to 30% stronger blood magic spells.
+- Morwha - Follower ability also restores 20 stamina as well as adds a chance to drop milk and honey on kills. Devotee can also combined milk and honey to make stronger fruit.
 - Namira - Dropped to 40% poison resist damage. Grants strong stomach and strange meat on kill.
 - Nocturnal follower also gets - Shadow spells up to 30% better
 - Peryite follower reworked to Poison spells are up to 30% stronger, pray for Peryite's gifts to gain favor.
