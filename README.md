@@ -154,7 +154,7 @@
 - Mannimarco Follower changed back to undead and removed time requirement, but now is only up to 100%. Devotee changed back to only undead conjurations but swapped health to 20% physical damage. 
 - Magnus rework. New Follower: 30% stronger touch or rune spells and 50% less charge use when holding a staff. New Devotee: Potions and ingredients restore 2x magicka. When under the effects of a magicka potion, soul gems provide 2x charge. No penalties for Atronachs.
 - Mara Follower changed to restore 1 health/magicka/stamina per second with hands lowered. Devotee also gains takes 25% less physical damage when hands are lowered.
-- Mehrunes devotee also gets 10% stronger destruction
+- Mehrunes devotee also gets up to 10% stronger destruction and up to 50% longer daedric summon duration.
 - Mephala Devotee ability now buffs follower ability to be up to 30% sneak attack damage.
 - Meridia follower ability changed from all spells to just restoration/destruction (doesn't affect most builds but adds more RP flavor)
 - Molag Bal follower ability (should) now scale with blood magic perks. Devotee ability gets 20% stronger blood magic spells.
