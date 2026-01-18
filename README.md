@@ -145,7 +145,7 @@
 - Auriel follower: Deal up to 30% more and take up to 30% less damage from vampires. Devotee: Bows, crossbows, throwing knives and sun spells are up to 25% better.
 - Azura devotee also gets Necrotic Spells up to 20% stronger.
 - Baan Dar Follower reworked to up to 50% Better sale prices to fences and gain 10% movement speed and 100 armor rating while sneaking. Baan Daar devotee ability additionally gives Skooma no longer can kill you.
-- Clavicus Vile: Follower grants 25% stronger conjuration spells (buff). Devotee: (additionally) Most teleport spells are 50% cheaper (blink, traversal, mark and recall, etc). This should help with physically getting to your pact locations.
+- Clavicus Vile: Follower grants 20% stronger conjuration spells (buff). Devotee: (additionally) Most teleport spells are 50% cheaper (blink, traversal, mark and recall, etc). This should help with physically getting to your pact locations.
 - Dibella devotee ability addon - Illusion spells are 15% stronger or longer lasting.
 - Hermaeus Black Books halved in effect (kinda insane that they're permanent). Also the spell cost reduction is now 5% stronger spells. Devotee also gets 20% stronger entropic spells.
 - Hoonding, fixed incorrect calculation of follower ability
