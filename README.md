@@ -146,7 +146,7 @@
 - Azura devotee also gets Necrotic Spells up to 20% stronger.
 - Baan Dar Follower reworked to up to 50% Better sale prices to fences and gain 10% movement speed and 100 armor rating while sneaking. Baan Daar devotee ability additionally gives Skooma no longer can kill you.
 - Dibella devotee ability addon - Illusion spells are 15% stronger or longer lasting.
-- Hermaeus Black Books halved in effect (kinda insane that they're permanent). Also the spell cost reduction is now 10% stronger spells. Devotee also gets 20% stronger entropic spells.
+- Hermaeus Black Books halved in effect (kinda insane that they're permanent). Also the spell cost reduction is now 5% stronger spells. Devotee also gets 20% stronger entropic spells.
 - Hoonding, fixed incorrect calculation of follower ability
 - Jephre changed follower and devotee 2nd tier to be out of combat OR outdoors (so you can be in combat outdoors). Follower ability gets 40% stronger bonus from eating meat. It took forever to add meat keywords onto all meat in the game.
 - Julianos blessing dropped to +30 magicka, devotee ability re-buffed to 20% spell magnitude. Follower ability changed to spells last up to 20% longer and hostile spells are up to 20% weaker. (the 20% weaker hostile spells stacks with the 75% magic/elemental/absorb resist caps)
