@@ -130,6 +130,7 @@
 - Gallow's Hall shrine now works with Wintersun
 - Gore's amulet appearance changed to a vanilla amulet since his mesh is problematic
 - Inigo bow mesh changed to vanilla mesh since his bow is problematic
+- Fixed Armsbreaker having incorrect run on tabs
 
 ***
 
@@ -137,30 +138,53 @@
 
 - Fixed all spell-scaling related blessings/abilities. Now they scale duratino and/or magnitude based on Requiem's "no duration scaling" or "no magnitude scaling" keywords. Before, it was restoration/destruction = magnitude, all else = duration.
 - You can now always pray in combat. Your weapons/spells still have to be put away though.
-- Some blessing reduced due to new perks that increase their power.
+- Some blessing reduced due to upcoming perks that increase their power.
 - Akatosh blessing changed to 10% fire, shock, frost resist.
 - Almalexia Blessing dropped to +15 health/stamina. Buffed devotee ability to 15%.
 - Arkay Blessing dropped to +30
-- Baan Daar devotee ability addon - Skooma no longer can kill you.
+- Auriel follower: Deal up to 30% more and take up to 30% less damage from vampires. Devotee: Bows, crossbows, throwing knives and sun spells are up to 25% better.
+- Azura devotee also gets Necrotic Spells up to 20% stronger.
+- Baan Dar Follower reworked to up to 50% Better sale prices to fences and gain 10% movement speed and 100 armor rating while sneaking. Baan Daar devotee ability additionally gives Skooma no longer can kill you.
 - Dibella devotee ability addon - Illusion spells are 15% stronger or longer lasting.
 - Hermaeus Black Books halved in effect (kinda insane that they're permanent). Also the spell cost reduction is now 5% stronger spells.
 - Hoonding, fixed incorrect calculation of follower ability
 - Julianos blessing dropped to +30 magicka, devotee ability re-buffed to 20% spell magnitude. Follower ability changed to spells last up to 20% longer and hostile spells are up to 20% weaker. (the 20% weaker hostile spells stacks with the 75% magic/elemental/absorb resist caps)
 - Kynareth blessing dropped to +30 stamina
 - Leki devotee re-adjusted to 20% for 60 minutes
-- Mannimarco follower ability now affects all summons, not just undead
+- Mannimarco Follower changed back to undead and removed time requirement, but now is only up to 100%. Devotee changed back to only undead conjurations but swapped health to 20% physical damage. 
 - Magnus rework. New Follower: 25% stronger spells and 50% less charge use when holding a staff. New Devotee: Potions and ingredients restore 2x magicka. When under the effects of a magicka potion, soul gems provide 2x charge. No penalties for Atronachs.
+- Mehrunes devotee also gets 10% stronger destruction
+- Mephala Devotee ability now buffs follower ability to be up to 30% sneak attack damage.
+- Meridia follower ability changed from all spells to just restoration/destruction (doesn't affect most builds but adds more RP flavor)
 - Morwha follower ability also restores 20 stamina
+- Namira - Dropped to 40% poison resist damage. Grants strong stomach and strange meat on kill.
+- Nocturnal follower also gets - Shadow spells up to 30% better
+- Peryite follower reworked to Poison spells are up to 30% stronger, pray for Peryite's gifts to gain favor.
 - Phynaster blessing changed to 5% damage reflect and 5% spell asborb because he's all about living long or whatever. Devotee - gain 200 armor rating and 50% disease/poison resist while standing still.
+- Rajhin Follower Gold is now a 10% chance to find it instead of a guarantee. However, the amounts are now larger (between 100 - 1000 gold possible). Devotee also gets - No fall damage if not wearing heavy armor.
+- Sakatal Follower reworked to every 30 days passed gain 100 AR and 2% spell absorb. At 365 days caps to 1250 and 25% absorb chance.
 - Sanguine devotee ability gives 100 health/magicka/stamina while using potions/food/alcohol. Added better conditions to sanguine so that buffs are more consistent
-- Sithis blessing dropped to 10% sneak attacks
+- Sithis blessing dropped to 10% sneak attacks. Sithis Follower also finds flesh on humans, rare chance to find extra daedra heart on daedra
+- Sheogorath Devotee also gets all skills lvl 25 or below are 20% better
 - Shor - buffed shield thane stats
 - Sotha Sil blessing dropped to +15 Health/Magicka
-- Talos - devotee ability is within 20 feet instead of 40, encourages staying within melee range
-- The All Marker follower changed to "up to 30% stronger or longer lasting" healing spells.
+- Syrabane follower ability now deleveled loot and added staves to the possible loot.
+- Tall Papa Follower replacement: Bound weapons deal up to 30% more base damage
+- Talos - Follower changed to 15% against all playable races and falmer. Devotee ability is within 20 feet instead of 40, encourages staying within melee range
+- The Hoonding devotee reworked to 25% chance to take no poise damage, take 25% more/less damage if staggered/not staggered, deal 25% more damage to staggered enemies.
+- The All Maker follower replaced with double effects from The All Maker Stones.
 - The Old Ways - Devotee ability (dragon form) is non-crafting, but only costs 1 favor per hour. Also Owl totem is 20% enchantment cost reduction instead of both enchantments and spells.
 - Vivex blessing dropped to +15 Stamina/magicka
-- Xarxes follower 20% stronger scrolls moved to devotee and buffed to 30%. His blessing dropped to 10%.
+- Xarxes Follower 2 skill point from skill books, up to 20% stronger scrolls based on Enchanting level. Devotee additionally gives Scrolls are up to 20% stronger based on the associated skill level.
+- Zenithar devotee: Ability to craft perk potions at Aetherium Forge (very difficult recipe)
+- Riddle Thar Follower gets bonuses based on the day of the week: 
+- Sundas	50 magicka 10% absorb
+- Morndas	100 health regen  25% fire resist
+- Tirdas	150 armor rating 15% magic resist
+- Middas	100 magicka regen 25% shock resist
+- Turdas	100 stamina regen 25% frost resist
+- Fredas	50 health 100% disease resist
+- Loredas	50 stamina 50% poison resist
 
 ***
 
