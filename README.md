@@ -175,7 +175,8 @@
 - The Hoonding devotee reworked to 25% chance to take no poise damage, take 25% more/less damage if staggered/not staggered, deal 25% more damage to staggered enemies.
 - The All Maker follower replaced with double effects from The All Maker Stones.
 - The Old Ways - Devotee ability (dragon form) is non-crafting, but only costs 1 favor per hour. Also Owl totem is 20% enchantment cost reduction instead of both enchantments and spells.
-- Vivex blessing dropped to +15 Stamina/magicka
+- Vivec blessing dropped to +15 Stamina/magicka. Follower also gives Light attacks deal up to 30% more damage. Devotee: Critical hit damage and chance is increased up to 20% when not power attacking. Having H/M/S at equilibrium gives 200% regen to each.
+- Vivec equilibrium:  0-25% all h/m/s, 25-50% all h/m/s, 50-75% all h/m/s, 75-100% all h/m/s.
 - Xarxes Follower 2 skill point from skill books, up to 20% stronger scrolls based on Enchanting level. Devotee additionally gives Scrolls are up to 20% stronger based on the associated skill level.
 - Zenithar devotee: Ability to craft perk potions at Aetherium Forge (very difficult recipe)
 - Riddle Thar Follower gets bonuses based on the day of the week: 
