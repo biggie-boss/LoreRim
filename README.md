@@ -152,7 +152,7 @@
 - Kynareth blessing dropped to +30 stamina
 - Leki devotee re-adjusted to 20% for 60 minutes
 - Mannimarco Follower changed back to undead and removed time requirement, but now is only up to 100%. Devotee changed back to only undead conjurations but swapped health to 20% physical damage. 
-- Magnus rework. New Follower: 25% stronger spells and 50% less charge use when holding a staff. New Devotee: Potions and ingredients restore 2x magicka. When under the effects of a magicka potion, soul gems provide 2x charge. No penalties for Atronachs.
+- Magnus rework. New Follower: 30% stronger touch or cloak spells and 50% less charge use when holding a staff. New Devotee: Potions and ingredients restore 2x magicka. When under the effects of a magicka potion, soul gems provide 2x charge. No penalties for Atronachs.
 - Mehrunes devotee also gets 10% stronger destruction
 - Mephala Devotee ability now buffs follower ability to be up to 30% sneak attack damage.
 - Meridia follower ability changed from all spells to just restoration/destruction (doesn't affect most builds but adds more RP flavor)
