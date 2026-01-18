@@ -183,7 +183,8 @@
 - Vivec equilibrium:  0-25% all h/m/s, 25-50% all h/m/s, 50-75% all h/m/s, 75-100% all h/m/s.
 - Xarxes Follower 2 skill point from skill books, up to 20% stronger scrolls based on Enchanting level. Devotee additionally gives Scrolls are up to 20% stronger based on the associated skill level.
 - Zenithar devotee: Ability to craft perk potions at Aetherium Forge (very difficult recipe)
-- Riddle Thar Follower gets bonuses based on the day of the week: 
+  
+- Riddle Thar Follower gets bonuses based on the day of the week:
 - Sundas	50 magicka 10% absorb
 - Morndas	100 health regen  25% fire resist
 - Tirdas	150 armor rating 15% magic resist
@@ -191,6 +192,14 @@
 - Turdas	100 stamina regen 25% frost resist
 - Fredas	50 health 100% disease resist
 - Loredas	50 stamina 50% poison resist
+
+- Sai massive rework: gains 10% favor from winning a gamble, none from prayer:
+- Follower: Dancing Step: Pray to gamble in a dice game. Dancing Step: When sprinting, restore 1 stamina and health per second, move 10% faster and take 25% less damage. When not sprinting, move 10% slower and reduce health and stamina regeneration by 100%.
+- Devotee: High Stakes: Pray to also gamble 1 stamina. Random chance for effects such as avoid damage and deal more damage. Random chance to take more incoming damage. 
+- Devotee Changes: 
+- 10% chance to deal 100% more light attack/power attack/bash damage 1% chance to deal 1000% more, 5% chance to deal 50% less. 
+- 30% chance to take no stagger damage. 10% chance to take 100% more.
+- 20% chance to take 50% less magical/light attack/power attack damage, 5% chance to take none, 10% chance to take 25% more. 
 
 ***
 
