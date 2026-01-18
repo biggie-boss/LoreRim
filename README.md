@@ -156,6 +156,7 @@
 - Mehrunes devotee also gets 10% stronger destruction
 - Mephala Devotee ability now buffs follower ability to be up to 30% sneak attack damage.
 - Meridia follower ability changed from all spells to just restoration/destruction (doesn't affect most builds but adds more RP flavor)
+- Molag Bal follower ability (should) now scale with blood magic perks. Devotee ability gets 20% stronger blood magic spells.
 - Morwha follower ability also restores 20 stamina
 - Namira - Dropped to 40% poison resist damage. Grants strong stomach and strange meat on kill.
 - Nocturnal follower also gets - Shadow spells up to 30% better
