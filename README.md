@@ -139,20 +139,21 @@
 - Fixed all spell-scaling related blessings/abilities. Now they scale duratino and/or magnitude based on Requiem's "no duration scaling" or "no magnitude scaling" keywords. Before, it was restoration/destruction = magnitude, all else = duration.
 - You can now always pray in combat. Your weapons/spells still have to be put away though.
 - Some blessing reduced due to upcoming perks that increase their power.
-- Akatosh blessing changed to 10% fire, shock, frost resist.
+- Akatosh blessing changed to 10% fire, shock, frost resist. Devotee also able to craft a strong amulet using 5 amulets of each of the eight divines.
 - Almalexia Blessing dropped to +15 health/stamina. Buffed devotee ability to 15%.
 - Arkay Blessing dropped to +30
 - Auriel follower: Deal up to 30% more and take up to 30% less damage from vampires. Devotee: Bows, crossbows, throwing knives and sun spells are up to 25% better.
 - Azura devotee also gets Necrotic Spells up to 20% stronger.
 - Baan Dar Follower reworked to up to 50% Better sale prices to fences and gain 10% movement speed and 100 armor rating while sneaking. Baan Daar devotee ability additionally gives Skooma no longer can kill you.
 - Dibella devotee ability addon - Illusion spells are 15% stronger or longer lasting.
-- Hermaeus Black Books halved in effect (kinda insane that they're permanent). Also the spell cost reduction is now 5% stronger spells.
+- Hermaeus Black Books halved in effect (kinda insane that they're permanent). Also the spell cost reduction is now 5% stronger spells. Devotee also gets 20% stronger entropic spells.
 - Hoonding, fixed incorrect calculation of follower ability
 - Julianos blessing dropped to +30 magicka, devotee ability re-buffed to 20% spell magnitude. Follower ability changed to spells last up to 20% longer and hostile spells are up to 20% weaker. (the 20% weaker hostile spells stacks with the 75% magic/elemental/absorb resist caps)
 - Kynareth blessing dropped to +30 stamina
-- Leki devotee re-adjusted to 20% for 60 minutes
+- Leki devotee changed to 30% more damage against targets at full hp.
 - Mannimarco Follower changed back to undead and removed time requirement, but now is only up to 100%. Devotee changed back to only undead conjurations but swapped health to 20% physical damage. 
 - Magnus rework. New Follower: 30% stronger touch or rune spells and 50% less charge use when holding a staff. New Devotee: Potions and ingredients restore 2x magicka. When under the effects of a magicka potion, soul gems provide 2x charge. No penalties for Atronachs.
+- Mara Follower changed to restore 1 health/magicka/stamina per second with hands lowered. Devotee also gains takes 25% less physical damage when hands are lowered.
 - Mehrunes devotee also gets 10% stronger destruction
 - Mephala Devotee ability now buffs follower ability to be up to 30% sneak attack damage.
 - Meridia follower ability changed from all spells to just restoration/destruction (doesn't affect most builds but adds more RP flavor)
@@ -169,7 +170,7 @@
 - Sheogorath Devotee also gets all skills lvl 25 or below are 20% better
 - Shor - buffed shield thane stats
 - Sotha Sil blessing dropped to +15 Health/Magicka
-- Syrabane follower ability now deleveled loot and added staves to the possible loot.
+- Syrabane follower ability now deleveled loot and added staves to the possible loot and also gets up to 20% stronger arcane spells.
 - Tall Papa Follower replacement: Bound weapons deal up to 30% more base damage
 - Talos - Follower changed to 15% against all playable races and falmer. Devotee ability is within 20 feet instead of 40, encourages staying within melee range
 - The Hoonding devotee reworked to 25% chance to take no poise damage, take 25% more/less damage if staggered/not staggered, deal 25% more damage to staggered enemies.
