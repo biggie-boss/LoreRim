@@ -140,7 +140,7 @@
 - You can now always pray in combat. Your weapons/spells still have to be put away though.
 - Some blessing reduced due to upcoming perks that increase their power.
 - Akatosh blessing changed to 10% fire, shock, frost resist. Devotee also able to craft a strong amulet using 5 amulets of each of the eight divines.
-- Almalexia Blessing dropped to +15 health/stamina. Follower reworked: All attacks do up to 20% more to blocking enemies. Take 20% less damage from attacks and destruction when blocking. Devotee Healing from all sources, ward and cure spells are 20% more effective.
+- Almalexia Blessing dropped to +15 health/stamina. Follower reworked: All attacks do up to 20% more to blocking enemies. Take 20% less damage from attacks and destruction when blocking. Devotee Healing from all sources, ward and cure spells are up to 20% more effective.
 - Arkay Blessing dropped to +30
 - Auriel follower: Deal up to 30% more and take up to 30% less damage from vampires. Devotee: Bows, crossbows, throwing knives and sun spells are up to 30% better.
 - Azura devotee also gets Necrotic Spells up to 30% stronger.
@@ -155,7 +155,7 @@
 - Kynareth blessing dropped to +30 stamina. Devotee also applies to spirit summons.
 - Leki devotee changed to 50% more damage against targets at full hp.
 - Mannimarco Follower changed back to undead and removed time requirement, but now is only up to 100%. Devotee changed back to only undead conjurations but swapped health to 20% physical damage. 
-- Magnus rework. New Follower: 30% stronger touch or rune spells and 50% less charge use when holding a staff. New Devotee: Potions and ingredients restore 2x magicka. When under the effects of a magicka potion, soul gems provide 2x charge. No penalties for Atronachs.
+- Magnus rework. New Follower: up to 30% stronger touch or rune spells and 50% less charge use when holding a staff. New Devotee: Potions and ingredients restore 2x magicka. When under the effects of a magicka potion, soul gems provide 2x charge. No penalties for Atronachs.
 - Mara Follower changed to restore 1 health/magicka/stamina per second with hands lowered. Devotee also gains takes 25% less physical damage when hands are lowered.
 - Mehrunes devotee also gets up to 10% stronger destruction and up to 50% longer daedric summon duration.
 - Mephala Devotee ability now buffs follower ability to be up to 30% sneak attack damage.
@@ -172,9 +172,9 @@
 - Sithis blessing dropped to 10% sneak attacks. Sithis Follower also finds flesh on humans, rare chance to find extra daedra heart on daedra
 - Sheogorath Devotee also gets all skills lvl 25 or below are 20% better
 - Shor - Take no poise damage and 20% less physical damage from non-human races. Deal 20% more physical damage to them. (human meaning nord, redguard, imperial, breton). Devotee massively buffed shield thane stats
-- Sotha Sil blessing dropped to +15 Health/Magicka. Follower Also gains up to 20% stronger wind and telekinetic spells.
+- Sotha Sil blessing dropped to +15 Health/Magicka. Follower Also gains up to 30% stronger wind and telekinetic spells.
 - Stendarr follower: Buffed to 50% less damage from undead and daedra. Also made the keywords more broad to include ghosts.
-- Syrabane follower ability now deleveled loot and added staves to the possible loot and also gets up to 20% stronger arcane spells.
+- Syrabane follower ability now deleveled loot and added staves to the possible loot and also gets up to 30% stronger arcane spells.
 - Tall Papa Follower replacement: Bound weapons deal up to 30% more base damage
 - Talos - Follower changed to 15% against all playable races and falmer. Devotee ability is within 20 feet instead of 40, encourages staying within melee range
 - The Hoonding devotee reworked to 25% chance to take no poise damage, take 25% more/less damage if staggered/not staggered, deal 25% more damage to staggered enemies.
