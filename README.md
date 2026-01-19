@@ -407,6 +407,17 @@
 
 ***
 
+### Survival Mode Changes
+
+- Made Hot variants of CC fishing food recipes consistent with LoreRim (just base food + 1 troll fat)
+- Fortify warmth from food is now much shorter and cold is not restored as significantly. No more spamming food to completely bypass cold mechanics. Hot variants give triple of cold variants.
+- Finally added recipe for Hot Boiled Cabbage Soup
+- Eating Food now gives overall less hunger restored. Large is relatively unchanged but very small and small is significantly reduced.
+- Some food hunger restore amounts tweaked to make more sense.
+- Some food given keywords for different mechanics added/plan to be added (Like Jephre getting buffs from eating meat).
+
+***
+
 ### General Changes
 
 - Afflicted are buffed.
