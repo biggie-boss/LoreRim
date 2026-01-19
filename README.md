@@ -140,7 +140,7 @@
 - You can now always pray in combat. Your weapons/spells still have to be put away though.
 - Some blessing reduced due to upcoming perks that increase their power.
 - Akatosh blessing changed to 10% fire, shock, frost resist. Devotee also able to craft a strong amulet using 5 amulets of each of the eight divines.
-- Almalexia Blessing dropped to +15 health/stamina. Follower reworked: All attacks do up to 20% more to blocking enemies. Take 20% less damage from attacks and destruction when blocking. Devotee Healing from all sources, ward and cure spells are up to 20% more effective.
+- Almalexia Blessing dropped to +15 health/stamina. Follower reworked: All attacks do up to 20% more to enemies who are facing you. Take 20% less damage from attacks and destruction when blocking. Devotee Healing from most sources and potions is up to 20% better, wards are up to 30% cheaper to cast.
 - Arkay Blessing dropped to +30. Rites are now much more rate but give +10 favor. Follower ability re-buffed to 5% max but the tapering is much more aggressive with little restore when you're near max.
 - Auriel follower: Deal up to 30% more and take up to 30% less damage from vampires. Devotee: Bows, crossbows, throwing knives and sun spells are up to 30% better.
 - Azura devotee also gets Necrotic Spells up to 30% stronger.
