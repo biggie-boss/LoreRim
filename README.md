@@ -147,6 +147,7 @@
 - Baan Dar Follower reworked to up to 50% Better sale prices to fences and gain 10% movement speed and 100 armor rating while sneaking. Baan Daar devotee ability additionally gives Skooma no longer can kill you.
 - Clavicus Vile: Follower grants 20% stronger conjuration spells (buff). Devotee: (additionally) Most teleport spells are 50% cheaper (blink, traversal, mark and recall, etc). This should help with physically getting to your pact locations.
 - Dibella Follower rework: Take 20% less (physical and magical) damage when you have lovers comfort and an ally in combat or when you have 2 or more allies. Devotee ability addon - Illusion spells are 15% stronger or longer lasting, twice that for charm, rally and command spells.
+- Ebonarm follower rework: One Handed raises damage blocked, Block raises armor rating and Heavy Armor raises attack damage by 0.>% per skill level. These bonuses are doubled in an Oblivion Realm. 
 - Hermaeus Black Books halved in effect (kinda insane that they're permanent). Also the spell cost reduction is now 5% stronger spells. Devotee also gets 20% stronger entropic spells.
 - Hoonding, fixed incorrect calculation of follower ability
 - Jephre changed follower and devotee 2nd tier to be out of combat OR outdoors (so you can be in combat outdoors). Follower ability gets 200% stronger bonus from eating meat but no benefit from most other food. It took forever to add meat keywords onto all meat in the game, let me know if I missed some.
@@ -276,6 +277,7 @@
 ### Smithing/Weapon/Armor Changes/Bugfixes
 
 - Silver weapons with a secondary material type should no longer have weird tempering values.
+- Fixed Ebony Light armor not gaining the ebony bonus correctly.
 - No longer possible to manually select smithing perks that are free from reading books, this will prevent people from accidently wasting perk points. Only Smithing Specialization and Iron Lore require perks.
 - Added smithing book for tailoring to the radiant rainment
 - Saint Jiub's Opus teaches Legendary Blacksmithing. Should give more of a reason to actually do it.
