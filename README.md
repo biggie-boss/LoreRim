@@ -61,6 +61,7 @@
 - Argonian Face Horns - Causes issues
 - Attacko's Daedroths. 
 - Baby Dragon - complaints/bugs
+- Blood and Silver - Cidhna Mine Expanded - Extremely buggy and crash prone. Replaced with alternate option.
 - Carved Brinks - tons of complaints of bugs, imbalance, not fun, annoying snail, repetitive, getting quest locked.
 - Clam Oyster and Pearl Retexture
 - Clockwork - edits the navmesh of literally every city, tons of issues and instances of getting your save crash-locked if you save at a bad time.
