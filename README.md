@@ -182,7 +182,7 @@
 - Sanguine devotee ability gives 100 health/magicka/stamina while using potions/food/alcohol. Added better conditions to sanguine so that buffs are more consistent
 - Sithis blessing dropped to 10% sneak attacks. Sithis Follower also finds flesh on humans, rare chance to find extra daedra heart on daedra
 - Sheogorath Devotee also gets all skills lvl 25 or below are 20% better
-- Shor - Take no poise damage and 20% less physical damage from non-human races. Deal 20% more physical damage to them. (human meaning nord, redguard, imperial, breton). Devotee massively buffed shield thane stats
+- Shor - Follower Take almost no poise damage. Deal 15% more physical damage to all non-human or animal races. Devotee now also gains "Damage against the elements increased by 15% and 7.5% to magic resistance."
 - Sotha Sil blessing dropped to +15 Health/Magicka. Follower Also gains up to 30% stronger wind and telekinetic spells.
 - Stendarr follower rework: Physical attacks against undead slowly restore your health. Take up to 50% less attack damage from all attacks as your health decreases. (with max favor, take 5%-50% less damage)
 - Syrabane follower ability now deleveled loot and added staves to the possible loot and also gets up to 30% stronger arcane spells.
