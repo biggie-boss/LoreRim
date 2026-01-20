@@ -96,6 +96,7 @@
 - Skyrim 3D Docks and Boardwalks - causes inconsistent textures in Riften docks
 - Skyrim 3D Misc - Traps - look worse than vanilla
 - Skyrim 3D Windmill - looks worse than vanilla
+- Skyrim on Skooma
 - Slaughterfish Eggs are Fish Eggs
 - slightly Better Hawk Feathers
 - Solitude Objects SMIMed - festival ropes
@@ -421,6 +422,7 @@
 ### General Changes
 
 - Afflicted are buffed.
+- Several boss fights are buffed such as Isran and Mercer
 - Added crafting recipes for nearly every scroll and staff in LoreRim thanks to BardicNoel
 - Exhaustion penalties are now based on stamina percentage being less than 10% instead of stamina being less than 10.
 - Sinding SIGNIFICANTLY buffed to make the Savior's Hide a proper endgame item. He now has more health, more stamina, more damage resist, less weak to poison that regular werewolves, 30% magic resist and a powerful health regen that only stops while under the effects of harmful poison.
