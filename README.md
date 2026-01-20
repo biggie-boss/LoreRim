@@ -190,6 +190,7 @@
 - Talos - Follower changed to 15% against all playable races and falmer. Devotee ability is within 20 feet instead of 40, encourages staying within melee range
 - The Hoonding devotee reworked to 25% chance to take no poise damage, take 25% more/less damage if staggered/not staggered, deal 25% more damage to staggered enemies.
 - The All Maker follower replaced with double effects from The All Maker Stones. Devotee also gets double effects from doomstones (this stacks with the Aetherian Crown buff)
+- The Hist re-added health buff (50 all attributes), up to 100 when using sleeping tree sap. Devotee also gets up to 20x longer sleeping tree sap buff.
 - The Magna Ge - Devotee also gets 10% stronger cloak and alteration spells.
 - The Old Ways - Devotee ability (dragon form) is non-crafting, but only costs 1 favor per hour. Also Owl totem is 20% enchantment cost reduction instead of both enchantments and spells.
 - Vaermina - Devotee also gets: Illusion spells are up to 10% stronger when not rested.
