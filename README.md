@@ -97,6 +97,7 @@
 - Rueful Axe
 - RUSTIC DRAGONS SE
 - Skeever Tail
+- Skyking Soul Gems
 - Skyrim 3D Docks and Boardwalks - causes inconsistent textures in Riften docks
 - Skyrim 3D Misc - Traps - look worse than vanilla
 - Skyrim 3D Windmill - looks worse than vanilla
