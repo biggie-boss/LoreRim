@@ -59,6 +59,7 @@
 - Argonian Face Horns - Causes issues
 - Attacko's Daedroths. 
 - Baby Dragon - complaints/bugs
+- Carved Brinks - tons of complaints of bugs, imbalance, not fun, annoying snail, repetitive, getting quest locked.
 - Clam Oyster and Pearl Retexture
 - Complex Parallax Enabled (Alpha)
 - Contextual Crosshair - Crosshair and Detection Meter Fix
