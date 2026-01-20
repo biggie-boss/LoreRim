@@ -86,6 +86,7 @@
 - Olenveld - complaints of repetitiveness, excessive bugs, entire objects missing from the worldspace, doesn't appear to be updated still
 - Orc Strongholds Individual mods
 - Pfuscher AIO Textures/Meshes
+- Praedy's Repository AIO
 - Project AHO - Unimmersive giant platforms in the world, navmesh and lighting related crashes, complaints of boring gameplay and imbalance.
 - Quaint Raven Rock
 - Rally's Banners of Skyrim
