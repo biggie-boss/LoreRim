@@ -160,7 +160,7 @@
 - Ebonarm follower rework: One Handed raises damage blocked, Block raises armor rating and Heavy Armor raises attack damage by 0.2% per skill level. These bonuses are doubled in an Oblivion Realm. Devotee ALSO gains bonus to frost and shock resist when wearing Ebony Armor (equal to the fire resist you already get). 
 - Hermaeus Black Books halved in effect (kinda insane that they're permanent). Also the spell cost reduction is now 5% stronger spells. Devotee also gets 20% stronger entropic spells.
 - Hoonding, fixed incorrect calculation of follower ability
-- Jephre changed follower and devotee 2nd tier to be out of combat OR outdoors (so you can be in combat outdoors). Follower ability gets 200% stronger bonus from eating meat but no benefit from most other food. It took forever to add meat keywords onto all meat in the game, let me know if I missed some.
+- Jephre changed follower and devotee 2nd tier to be out of combat OR outdoors (so you can be in combat outdoors). Follower ability gets 2x stronger bonus from eating meat but no benefit from most other food. It took forever to add meat keywords onto all meat in the game, let me know if I missed some.
 - Julianos blessing dropped to +30 magicka, devotee ability re-buffed to 20% spell magnitude. Follower ability changed to spells last up to 20% longer and hostile spells are up to 20% weaker. (the 20% weaker hostile spells stacks with the 75% magic/elemental/absorb resist caps)
 - Jyggalag Devotee now also gives - take 75% less physical damage while staggered.
 - Kynareth blessing dropped to +30 stamina. Devotee also applies to spirit summons.
@@ -181,7 +181,7 @@
 - Sakatal Follower reworked to every 30 days passed gain 100 AR and 2% spell absorb. At 365 days caps to 1250 and 25% absorb chance.
 - Sanguine devotee ability gives 100 health/magicka/stamina while using potions/food/alcohol. Added better conditions to sanguine so that buffs are more consistent
 - Sithis blessing dropped to 10% sneak attacks. Sithis Follower also finds flesh on humans, rare chance to find extra daedra heart on daedra
-- Sheogorath Devotee also gets all skills lvl 25 or below are 20% better
+- Sheogorath Follower also gets 2x stronger cheese. Devotee also gets all skills lvl 25 or below are 20% better
 - Shor - Follower Take almost no poise damage. Deal up to 15% more and take up to 15% less physical damage against all non-human or animal races. Devotee now also gains "Damage against the elements increased by 15% and 7.5% to magic resistance."
 - Sotha Sil blessing dropped to +15 Health/Magicka. Follower Also gains up to 30% stronger wind and telekinetic spells.
 - Stendarr follower rework: Physical attacks against undead slowly restore your health. Take up to 50% less attack damage from all attacks as your health decreases. (with max favor, take 5%-50% less damage)
