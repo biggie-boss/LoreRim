@@ -5,6 +5,7 @@
 ### Added
 
 - Updated most mods that had updated available. There are way too many to list.
+- Actor Value Generator
 - Alternative Riften
 - Andrealletius' Disarming Overhaul
 - Animated Objects Overhauled
@@ -28,6 +29,7 @@
 - JK's Tel Mithryn
 - Kanjs - Commons books (used to add covers to new books added)
 - Kanjs - Smooth and artifact-free gradient
+- Lexicon SKSE
 - Military Camps Begone
 - Nordic UI Active Effects for SkyUI SE
 - Orc Strongholds AIO
@@ -61,6 +63,7 @@
 - Baby Dragon - complaints/bugs
 - Carved Brinks - tons of complaints of bugs, imbalance, not fun, annoying snail, repetitive, getting quest locked.
 - Clam Oyster and Pearl Retexture
+- Clockwork - edits the navmesh of literally every city, tons of issues and instances of getting your save crash-locked if you save at a bad time.
 - Complex Parallax Enabled (Alpha)
 - Contextual Crosshair - Crosshair and Detection Meter Fix
 - Diverse Farm Fences - Base Object Swapper
