@@ -184,7 +184,7 @@
 - Sheogorath Devotee also gets all skills lvl 25 or below are 20% better
 - Shor - Take no poise damage and 20% less physical damage from non-human races. Deal 20% more physical damage to them. (human meaning nord, redguard, imperial, breton). Devotee massively buffed shield thane stats
 - Sotha Sil blessing dropped to +15 Health/Magicka. Follower Also gains up to 30% stronger wind and telekinetic spells.
-- Stendarr follower: Buffed to 50% less damage from undead and daedra. Also made the keywords more broad to include ghosts.
+- Stendarr follower rework: Physical attacks against undead slowly restore your health. Take up to 50% less attack damage from all attacks as your health decreases. (with max favor, take 5%-50% less damage)
 - Syrabane follower ability now deleveled loot and added staves to the possible loot and also gets up to 30% stronger arcane spells.
 - Tall Papa Follower replacement: Bound weapons deal up to 30% more base damage bound armor gives 30% more armor rating.
 - Talos - Follower changed to 15% against all playable races and falmer. Devotee ability is within 20 feet instead of 40, encourages staying within melee range
