@@ -170,7 +170,7 @@
 - Mara Follower changed to restore 1 health/magicka/stamina per second with hands lowered. Devotee also gains takes 25% less physical damage when hands are lowered.
 - Mehrunes devotee also gets up to 10% stronger destruction and slowly heals nearby friendly Daedra.
 - Mephala Devotee ability now buffs follower ability to be up to 30% sneak attack damage.
-- Meridia follower ability changed from all spells to just restoration/destruction (doesn't affect most builds but adds more RP flavor)
+- Meridia follower ability changed to "Fire, sun and turning are up to 20% stronger. Physical attacks are 30% stronger against undead.". This should give her more viability to fight non-undead.
 - Molag Bal follower ability (should) now scale with blood magic perks. Devotee ability gets up to 30% stronger blood magic spells.
 - Morwha - Follower ability also restores 20 stamina as well as adds a chance to drop milk and honey on kills Enemies drop milk and honey which can be used to make a strong curative potion. Devotee can also combined milk and honey to make stronger fruit.
 - Namira - Dropped to 40% poison resist damage. Grants strong stomach and strange meat on kill.
