@@ -187,7 +187,7 @@
 - Sotha Sil blessing dropped to +15 Health/Magicka. Follower Also gains up to 30% stronger wind and telekinetic spells.
 - Stendarr follower rework: Physical attacks against undead slowly restore your health. Take up to 50% less attack damage from all attacks as your health decreases. (with max favor, take 5%-50% less damage)
 - Syrabane follower ability now deleveled loot and added staves to the possible loot and also gets up to 30% stronger arcane spells.
-- Tall Papa Follower replacement: Bound weapons deal up to 30% more base damage bound armor gives 30% more armor rating.
+- Tall Papa Follower: Bound weapon and armor spells are 30% stronger. Enchantments use up to 40% less charge. Devotee also gains: Ghosts deal up to 50% less damage to you.
 - Talos - Follower changed to 15% against all playable races and falmer. Devotee ability is within 20 feet instead of 40, encourages staying within melee range
 - The Hoonding devotee reworked to 25% chance to take no poise damage, take 25% more/less damage if staggered/not staggered, deal 25% more damage to staggered enemies.
 - The All Maker follower replaced with double effects from The All Maker Stones. Devotee also gets double effects from doomstones (this stacks with the Aetherian Crown buff)
