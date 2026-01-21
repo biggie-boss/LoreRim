@@ -160,10 +160,10 @@
 - Ebonarm follower rework: One Handed raises damage blocked, Block raises armor rating and Heavy Armor raises attack damage by 0.2% per skill level. These bonuses are doubled in an Oblivion Realm. Devotee ALSO gains bonus to frost and shock resist when wearing Ebony Armor (equal to the fire resist you already get). 
 - Hermaeus Black Books halved in effect (kinda insane that they're permanent). Also the spell cost reduction is now 5% stronger spells. Devotee also gets 20% stronger entropic spells.
 - Hoonding, fixed incorrect calculation of follower ability
-- Jephre changed follower and devotee 2nd tier to be out of combat OR outdoors (so you can be in combat outdoors). Follower ability gets 2x stronger bonus from eating meat but no benefit from most other food. It took forever to add meat keywords onto all meat in the game, let me know if I missed some.
+- Jephre Follower rework: Up 300 armor rating and 15% movement speed when unarmored. Eating meat is twice as strong, other food provides little benefit. Devotee: Magicka and Stamina regenerates 200% faster outdoors, half indoors. Deal up to 20% more physical damage when unarmored. Praying to Jephre brings clear weather.
 - Julianos blessing dropped to +30 magicka, devotee ability re-buffed to 20% spell magnitude. Follower ability changed to spells last up to 20% longer and hostile spells are up to 20% weaker. (the 20% weaker hostile spells stacks with the 75% magic/elemental/absorb resist caps)
 - Jyggalag Devotee now also gives - take 75% less physical damage while staggered.
-- Kynareth blessing dropped to +30 stamina. Devotee also applies to spirit summons.
+- Kynareth blessing dropped to +30 stamina. Followe reworked to: Plant-based food is 50% stronger. When eating is, restore 200% more stamina, deal 20% more bow damage and run 20% faster.. Devotee also gets "Friendly animals and spirit summons are have their attributes healed" No prayer cooldown at devotee level.
 - Leki devotee changed to 50% more damage against targets at full hp.
 - Mannimarco Follower changed back to undead and removed time requirement, but now is only up to 100%. Devotee changed back to only undead conjurations but swapped health to 20% physical damage. 
 - Magnus rework. New Follower: up to 30% stronger touch or rune spells and 50% less charge use when holding a staff. New Devotee: Potions and ingredients restore 2x magicka. When under the effects of a magicka potion, soul gems provide 2x charge. No penalties for Atronachs.
@@ -179,7 +179,7 @@
 - Phynaster blessing changed to 5% damage reflect and 5% spell asborb because he's all about living long or whatever. Devotee - gain 200 armor rating and 50% disease/poison resist while standing still.
 - Rajhin Follower Gold is now a 10% chance to find it instead of a guarantee. However, the amounts are now larger (between 100 - 1000 gold possible). Devotee also gets - No fall damage if not wearing heavy armor.
 - Sakatal Follower reworked to every 30 days passed gain 100 AR and 2% spell absorb. At 365 days caps to 1250 and 25% absorb chance.
-- Sanguine devotee ability gives 100 health/magicka/stamina while using potions/food/alcohol. Added better conditions to sanguine so that buffs are more consistent
+- Sanguine follower reworked: Gain 100% regeneration and 25 attributes while using alcohol, skooma or other harmful alchemy. Devotee: Pray in combat to force nearest hostile to dance for 20 seconds. Dancing targets take up to 20% more damage.
 - Sithis blessing dropped to 10% sneak attacks. Sithis Follower also finds flesh on humans, rare chance to find extra daedra heart on daedra
 - Sheogorath Follower also gets 2x stronger cheese. Devotee also gets all skills lvl 25 or below are 20% better
 - Shor - Follower Take almost no poise damage. Deal up to 15% more and take up to 15% less physical damage against all non-human or animal races. Devotee now also gains "Damage against the elements increased by 15% and 7.5% to magic resistance."
