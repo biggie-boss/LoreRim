@@ -188,6 +188,7 @@
 - Sheogorath Follower also gets 2x stronger cheese. Devotee also gets all skills lvl 25 or below are 20% better
 - Shor - Follower Take almost no poise damage. Deal up to 15% more and take up to 15% less physical damage against all non-human or animal races. Devotee now also gains "Damage against the elements increased by 15% and 7.5% to magic resistance."
 - Sotha Sil blessing dropped to +15 Health/Magicka. Follower buffed to 15% enchanting and also gains up to 30% stronger wind and telekinetic spells.
+- St Alessia follower also gains Take up to 20% less damage from humans
 - Stendarr follower rework: Physical attacks against undead slowly restore your health. Take up to 50% less attack damage from all attacks as your health decreases. Devotee rework: During prayer, gain up to 20% improved physical damage and up to 50% more healing from striking undead for 300 seconds.
 - Syrabane follower ability now deleveled loot and added staves to the possible loot and also gets up to 30% stronger arcane spells.
 - Tall Papa Follower: Bound weapon and armor spells are 30% stronger. Enchantments use up to 40% less charge. Devotee also gains: Ghosts deal up to 50% less damage to you.
