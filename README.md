@@ -168,7 +168,7 @@
 - Jyggalag Devotee now also gives - take no damage while staggered.
 - Kynareth blessing dropped to +30 stamina. Followe reworked to: Plant-based food is 50% stronger. When eating is, restore 200% more stamina, deal 20% more bow damage and run 20% faster.. Devotee also gets "Friendly animals and spirit summons are have their attributes healed" No prayer cooldown at devotee level.
 - Leki Follower changed to 30% damage ingore for all melee attacks (not just power attacks). Devotee changed to 50% more damage against targets at full hp.
-- Mannimarco Follower changed back to undead and removed time requirement, but now is only up to 100%. Devotee changed back to only undead conjurations but swapped health to 20% physical damage. 
+- Mannimarco Follower: Conjured undead last up to 20% longer and necrotic spells are up to 10% stronger. Devotee changed back to only undead conjurations but swapped health to 20% physical damage. 
 - Magnus rework. New Follower: up to 30% stronger touch or rune spells and 50% less charge use when holding a staff. New Devotee: Potions and ingredients restore 2x magicka. When under the effects of a magicka potion, soul gems provide 2x charge. No penalties for Atronachs.
 - Mara Follower changed to restore 1 health/magicka/stamina per second with hands lowered. Devotee also gains takes 25% less physical damage when hands are lowered.
 - Mehrunes devotee also gets up to 10% stronger destruction and slowly heals nearby friendly Daedra.
