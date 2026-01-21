@@ -149,6 +149,7 @@
 - Fixed all spell-scaling related blessings/abilities. Now they scale duratino and/or magnitude based on Requiem's "no duration scaling" or "no magnitude scaling" keywords. Before, it was restoration/destruction = magnitude, all else = duration.
 - You can now always pray in combat. Your weapons/spells still have to be put away though.
 - Some blessing reduced due to upcoming perks that increase their power.
+- Link to excel sheet (not always fully up to date) https://docs.google.com/spreadsheets/d/1ZbhJkIHqEoVKzVtASmupizGPFuDUG84_/edit?usp=sharing&ouid=112580938222322355748&rtpof=true&sd=true
 - Akatosh blessing changed to 10% fire, shock, frost resist. Devotee also able to craft a strong amulet using 5 amulets of each of the eight divines.
 - Almalexia Blessing dropped to +15 health/stamina. Follower reworked: All attacks do up to 20% more to enemies who are facing you. Take 20% less damage from attacks and destruction when blocking. Devotee Healing from most sources and potions is up to 20% better, wards are up to 30% cheaper to cast.
 - Arkay Blessing dropped to +30. Rites are now much more rate but give +10 favor. Follower ability re-buffed to 5% max but the tapering is much more aggressive with little restore when you're near max.
@@ -197,7 +198,8 @@
 - Vivec blessing dropped to +15 Stamina/magicka. Follower also gives Light attacks deal up to 30% more damage. Devotee: Critical hit damage and chance is increased up to 20% when not power attacking. Your 3 main attributes are always trying to pull each other into equilibrum (if 1 stat drops significantly lower than the other 2, it will regen faster).
 - Vivec equilibrium:  0-25% all h/m/s, 25-50% all h/m/s, 50-75% all h/m/s, 75-100% all h/m/s.
 - Xarxes Follower 2 skill point from skill books, up to 20% stronger scrolls based on Enchanting level. Devotee additionally gives Scrolls are up to 20% stronger based on the associated skill level.
-- Zenithar devotee: Ability to craft perk potions at Aetherium Forge (very difficult recipe)
+- Z'en rework: Making potions is up to 15% better and gives 1 extra potion. Beneficial potions and food last 50% longer. Pray to open an unlimited extradimensional storage space. No prayer cooldown at devotee level. Gain 2 more poison doses before needing to re-apply the poison.
+- Zenithar Followe reworked to: Tempering items is up to 15% better, deal up to 20% more damage with unenchanted weapons. Devotee: Ability to craft perk potions at Aetherium Forge (very difficult recipe)
   
 - Riddle Thar Follower gets bonuses based on the day of the week:
 - Sundas	50 magicka 10% absorb
