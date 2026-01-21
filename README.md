@@ -196,7 +196,7 @@
 - The All Maker follower replaced with Bonuses from The All Maker Stones are doubled. Gain up to 10% weapon damage while having an unused All Maker Stone Power. Devotee also gets double effects from doomstones (this stacks with the Aetherian Crown buff)
 - The Hist re-added health buff (50 all attributes), up to 100 when using sleeping tree sap. Devotee also gets up to 20x longer sleeping tree sap buff.
 - The Magna Ge - Devotee also gets 10% stronger cloak and alteration spells.
-- The Old Ways - Devotee ability (dragon form) is non-crafting, but only costs 1 favor per hour. Also Owl totem is 20% enchantment cost reduction instead of both enchantments and spells.
+- The Old Ways - Devotee ability (dragon form) is non-crafting, but only costs 1 favor per hour. Also Owl totem is 20% enchantment cost reduction instead of both enchantments and spells. Follower now gets 10% damage deal/10% less received in full forsworn armor.
 - Vaermina - Devotee also gets: Illusion spells are up to 10% stronger when not rested.
 - Vivec blessing dropped to +15 Stamina/magicka. Follower also gives Light attacks deal up to 30% more damage. Devotee: Critical hit damage and chance is increased up to 20% when not power attacking. Your 3 main attributes are always trying to pull each other into equilibrum (if 1 stat drops significantly lower than the other 2, it will regen faster).
 - Vivec equilibrium:  0-25% all h/m/s, 25-50% all h/m/s, 50-75% all h/m/s, 75-100% all h/m/s.
