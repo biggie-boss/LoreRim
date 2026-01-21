@@ -153,7 +153,7 @@
 - Link to excel sheet (not always fully up to date) https://docs.google.com/spreadsheets/d/1ZbhJkIHqEoVKzVtASmupizGPFuDUG84_/edit?usp=sharing&ouid=112580938222322355748&rtpof=true&sd=true
 - Akatosh blessing changed to 10% fire, shock, frost resist. Devotee also able to craft a strong amulet using 5 amulets of each of the eight divines.
 - Almalexia Blessing dropped to +15 health/stamina. Follower reworked: All attacks do up to 20% more to enemies who are facing you. Take 20% less damage from attacks and destruction when blocking. Devotee Healing from most sources and potions is up to 20% better, wards are up to 30% cheaper to cast.
-- Arkay Blessing dropped to +30. Rites are now much more rate but give +10 favor. Follower ability re-buffed to 5% max but the tapering is much more aggressive with little restore when you're near max.
+- Arkay Blessing dropped to +30. Rites are now much more rate but give +10 favor. Follower ability re-buffed to 5% max but the tapering stronger. Devotee also gains Attribute fortifying spells are up to 20% stronger.
 - Auriel Follower: Deal up to 20% more and take up to 20% less damage from vampires. Auriel's bow uses up to 80% less charge Devotee: Bows, crossbows, throwing knives and sun spells are up to 30% better. Wearing Elven, Glass or Ancient Falmer armor set increases Glass and Elven damage by up to 30%
 - Azura devotee also gets soul trapping spells cost nothing to cast.
 - Baan Dar Follower now Pickpocketing and selling to fences is up to 50% better. Move 10% faster and gain 100 carry weight while sneaking.. Baan Daar devotee ability additionally gives Skooma no longer can kill you.
