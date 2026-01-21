@@ -180,7 +180,7 @@
 - Nocturnal follower also gets - Shadow spells are up to 30% better, 50% at night.
 - Peryite follower reworked to Poison spells are up to 30% stronger, pray for Peryite's gifts to gain favor.
 - Phynaster blessing changed to 5% damage reflect and 5% spell asborb because he's all about living long and walking slow or whatever. Devotee also gets 10% absorb chance and damage reflection and 100% poison and disease resist while not moving.
-- Rajhin Follower Gold is now a 10% chance to find it instead of a guarantee. However, the amounts are now larger (between 100 - 1000 gold possible). Devotee also gets - No fall damage if not wearing heavy armor.
+- Rajhin Follower. Gold rared but higher values, follower also gains Most sneak or thieving related potions and spells last up to twice as long. Devotee also gets - No fall damage if not wearing heavy armor.
 - Sakatal Follower reworked to every 30 days passed gain 100 AR and 2% spell absorb. At 365 days caps to 1250 and 25% absorb chance.
 - Sanguine follower reworked: Gain 100% regeneration and 25 attributes while using alcohol, skooma or other harmful alchemy. Devotee: Pray in combat to force nearest hostile to dance for 20 seconds. Dancing targets take up to 20% more damage.
 - Sithis blessing dropped to 10% sneak attacks. Sithis Follower also finds flesh on humans, rare chance to find extra daedra heart on daedra
