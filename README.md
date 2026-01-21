@@ -175,9 +175,9 @@
 - Molag Bal follower ability (should) now scale with blood magic perks. Devotee ability gets up to 30% stronger blood magic spells.
 - Morwha - Follower ability also restores 20 stamina as well as adds a chance to drop milk and honey on kills Enemies drop milk and honey which can be used to make a strong curative potion. Devotee can also combined milk and honey to make stronger fruit.
 - Namira - Dropped to 40% poison resist damage. Grants strong stomach and strange meat on kill.
-- Nocturnal follower also gets - Shadow spells up to 30% better
+- Nocturnal follower also gets - Shadow spells are up to 30% better, 50% at night.
 - Peryite follower reworked to Poison spells are up to 30% stronger, pray for Peryite's gifts to gain favor.
-- Phynaster blessing changed to 5% damage reflect and 5% spell asborb because he's all about living long or whatever. Devotee - gain 200 armor rating and 50% disease/poison resist while standing still.
+- Phynaster blessing changed to 5% damage reflect and 5% spell asborb because he's all about living long and walking slow or whatever. Devotee also gets 10% absorb chance and damage reflection and 100% poison and disease resist while not moving.
 - Rajhin Follower Gold is now a 10% chance to find it instead of a guarantee. However, the amounts are now larger (between 100 - 1000 gold possible). Devotee also gets - No fall damage if not wearing heavy armor.
 - Sakatal Follower reworked to every 30 days passed gain 100 AR and 2% spell absorb. At 365 days caps to 1250 and 25% absorb chance.
 - Sanguine follower reworked: Gain 100% regeneration and 25 attributes while using alcohol, skooma or other harmful alchemy. Devotee: Pray in combat to force nearest hostile to dance for 20 seconds. Dancing targets take up to 20% more damage.
