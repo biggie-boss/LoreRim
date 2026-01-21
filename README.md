@@ -163,7 +163,7 @@
 - Hoonding, fixed incorrect calculation of follower ability
 - Jephre Follower rework: Up 300 armor rating and 15% movement speed when unarmored. Eating meat is twice as strong, other food provides little benefit. Devotee: Health and stamina quickly restores outdoors and out of combat. Deal up to 20% more physical damage when unarmored. Praying to Jephre brings clear weather.
 - Julianos blessing dropped to +30 magicka, devotee ability re-buffed to 20% spell magnitude. Follower ability changed to spells last up to 20% longer and hostile spells are up to 20% weaker. (the 20% weaker hostile spells stacks with the 75% magic/elemental/absorb resist caps)
-- Jyggalag Devotee now also gives - take 75% less physical damage while staggered.
+- Jyggalag Devotee now also gives - take no damage while staggered.
 - Kynareth blessing dropped to +30 stamina. Followe reworked to: Plant-based food is 50% stronger. When eating is, restore 200% more stamina, deal 20% more bow damage and run 20% faster.. Devotee also gets "Friendly animals and spirit summons are have their attributes healed" No prayer cooldown at devotee level.
 - Leki devotee changed to 50% more damage against targets at full hp.
 - Mannimarco Follower changed back to undead and removed time requirement, but now is only up to 100%. Devotee changed back to only undead conjurations but swapped health to 20% physical damage. 
