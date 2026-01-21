@@ -146,25 +146,11 @@
 
 ### Wintersun Changes
 
-- Properly made it so most sneaking-related stuff can't proc if you're wearing heavy armor per Requiem standards.
-- Fixed all spell-scaling related blessings/abilities. Now they scale duration and/or magnitude based on Requiem's "no duration scaling" or "no magnitude scaling" keywords. Before, it was restoration/destruction = magnitude, all else = duration.
+- Properly made it so most sneaking-related stuff can't proc if you're wearing heavy armor per Requiem standards. Spells now properly scale duration and/or magnitude based on Requiem's "no duration scaling" or "no magnitude scaling" keywords.
 - Fixed certain dieties not calculating attack damage right (either over calculating or under calculating)
-- Removed almost all "spell cost reduction" follower/devotee abilities. Syrabane is an all-spell exception. Almalexia, Azura, Clavicus and Vaermina are spell-specific exceptions.
 - You can now always pray in combat. Your weapons/spells still have to be put away though.
-- Some blessing reduced or reworked due to upcoming perks that increase their power.
-- Almost every diety completely reworked
-- Link to excel sheet (always up to date) https://docs.google.com/spreadsheets/d/1ZbhJkIHqEoVKzVtASmupizGPFuDUG84_/edit?usp=sharing&ouid=112580938222322355748&rtpof=true&sd=true. Other notes down below that aren't in the spreadsheet.
-- Hermaeus Black Books halved in effect (kinda insane that they're permanent). Also the spell cost reduction is now 5% stronger spells. Devotee also gets 20% stronger entropic spells.
-- Hoonding, fixed incorrect calculation of follower ability
-- Julianos follower ability 20% weaker hostile spells stacks with the 75% magic/elemental/absorb resist caps)
-- Magnus no longer penalizes Atronachs.
-- The Old Ways owl totem is 20% enchantment cost reduction instead of both enchantments and spells.
-- Vivec equilibrium: Each stack of regeneration is 50% regen. This happens when 2 stats are above a 20% threshold but 1 is below it. For example, if health and stamina are both above 80% but magicka isn't, you gain 50% magicka regen. If health is over 80%, stamina is over 60% but below 80%, magicka is below 60%, you gain 50% stamina regen and 100% magicka regen.
-- Zenithar devotee recipe is 100k gold and 10 of each ingot. I.M.O. more than fair for a perk potion.
-- Sai Devotee Chances: 
-- 10% chance to deal 100% more light attack/power attack/bash damage 1% chance to deal 1000% more, 5% chance to deal 50% less. 
-- 30% chance to take no stagger damage. 10% chance to take 100% more.
-- 20% chance to take 50% less magical/light attack/power attack damage, 5% chance to take none, 10% chance to take 25% more. 
+- Link to excel sheet of diety reoworkd (always up to date) 
+- https://docs.google.com/spreadsheets/d/1ZbhJkIHqEoVKzVtASmupizGPFuDUG84_/edit?usp=sharing&ouid=112580938222322355748&rtpof=true&sd=true
 
 ***
 
