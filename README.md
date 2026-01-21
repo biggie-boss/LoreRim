@@ -154,21 +154,21 @@
 - Akatosh blessing changed to 10% fire, shock, frost resist. Devotee also able to craft a strong amulet using 5 amulets of each of the eight divines.
 - Almalexia Blessing dropped to +15 health/stamina. Follower reworked: All attacks do up to 20% more to enemies who are facing you. Take 20% less damage from attacks and destruction when blocking. Devotee Healing from most sources and potions is up to 20% better, wards are up to 30% cheaper to cast.
 - Arkay Blessing dropped to +30. Rites are now much more rate but give +10 favor. Follower ability re-buffed to 5% max but the tapering is much more aggressive with little restore when you're near max.
-- Auriel Follower: Deal up to 30% more and take up to 30% less damage from vampires. Auriel's bow uses up to 80% less charge Devotee: Bows, crossbows, throwing knives and sun spells are up to 30% better. Wearing Elven, Glass or Ancient Falmer armor set increases Glass and Elven damage by up to 30%
+- Auriel Follower: Deal up to 20% more and take up to 20% less damage from vampires. Auriel's bow uses up to 80% less charge Devotee: Bows, crossbows, throwing knives and sun spells are up to 30% better. Wearing Elven, Glass or Ancient Falmer armor set increases Glass and Elven damage by up to 30%
 - Azura devotee also gets soul trapping spells cost nothing to cast.
 - Baan Dar Follower now Pickpocketing and selling to fences is up to 50% better. Move 10% faster and gain 100 carry weight while sneaking.. Baan Daar devotee ability additionally gives Skooma no longer can kill you.
 - Clavicus Vile: Follower grants 20% stronger conjuration spells (buff). Devotee: (additionally) Most teleport spells are 50% cheaper (blink, traversal, mark and recall, etc). This should help with physically getting to your pact locations.
 - Dibella Follower rework: Take 20% less (physical and magical) damage when you have lovers comfort and an ally in combat or when you have 2 or more allies. Devotee ability addon - Illusion spells are 15% stronger or longer lasting, twice that for charm, rally and command spells.
 - Ebonarm follower rework: One Handed raises damage blocked, Block raises armor rating and Heavy Armor raises attack damage by 0.2% per skill level. These bonuses are doubled in an Oblivion Realm. Devotee ALSO gains bonus to frost and shock resist when wearing Ebony Armor (equal to the fire resist you already get). 
 - Hermaeus Black Books halved in effect (kinda insane that they're permanent). Also the spell cost reduction is now 5% stronger spells. Devotee also gets 20% stronger entropic spells.
-- Hircine devotee now can deal 25% more damage to undead under 50% health if you're a werebeast but toned down follower ability to 75% (still insanely huge).
+- Hircine devotee now can deal 30% more damage to undead under 50% health if you're a werebeast but toned down follower ability to 60% (still insanely huge).
 - Hoonding, fixed incorrect calculation of follower ability
 - Jephre Follower rework: Up 300 armor rating and 15% movement speed when unarmored. Eating meat is twice as strong, other food provides little benefit. Devotee: Health and stamina quickly restores outdoors and out of combat. Deal up to 20% more physical damage when unarmored. Praying to Jephre brings clear weather.
 - Julianos blessing dropped to +30 magicka, devotee ability re-buffed to 20% spell magnitude. Follower ability changed to spells last up to 20% longer and hostile spells are up to 20% weaker. (the 20% weaker hostile spells stacks with the 75% magic/elemental/absorb resist caps)
 - Jyggalag Devotee now also gives - take no damage while staggered.
 - Kynareth blessing dropped to +30 stamina. Followe reworked to: Plant-based food is 50% stronger. When eating is, restore 200% more stamina, deal 20% more bow damage and run 20% faster.. Devotee also gets "Friendly animals and spirit summons are have their attributes healed" No prayer cooldown at devotee level.
 - Leki Follower changed to 30% damage ingore for all melee attacks (not just power attacks). Devotee changed to 50% more damage against targets at full hp.
-- Malacath follower buffed to 20% stronger AND cheaper power attacks.
+- Malacath follower changed to 15% stronger AND cheaper power attacks.
 - Mannimarco Follower: Conjured undead last up to 20% longer and necrotic spells are up to 10% stronger. Devotee changed back to only undead conjurations but swapped health to 20% physical damage. 
 - Magnus rework. New Follower: up to 30% stronger touch or rune spells and 50% less charge use when holding a staff. New Devotee: Potions and ingredients restore 2x magicka. When under the effects of a magicka potion, soul gems provide 2x charge. No penalties for Atronachs.
 - Mara Follower changed to restore 1 health/magicka/stamina per second with hands lowered. Devotee also gains takes 25% less physical damage when hands are lowered.
@@ -187,11 +187,11 @@
 - Sithis blessing dropped to 10% sneak attacks. Sithis Follower also finds flesh on humans, rare chance to find extra daedra heart on daedra
 - Sheogorath Follower also gets 2x stronger cheese. Devotee also gets all skills lvl 25 or below are 20% better
 - Shor - Follower Take almost no poise damage. Deal up to 15% more and take up to 15% less physical damage against all non-human or animal races. Devotee now also gains "Damage against the elements increased by 15% and 7.5% to magic resistance."
-- Sotha Sil blessing dropped to +15 Health/Magicka. Follower Also gains up to 30% stronger wind and telekinetic spells.
-- Stendarr follower rework: Physical attacks against undead slowly restore your health. Take up to 50% less attack damage from all attacks as your health decreases. Devotee rework: During prayer, gain up to 25% improved physical damage and up to 50% more healing from striking undead for 300 seconds.
+- Sotha Sil blessing dropped to +15 Health/Magicka. Follower buffed to 15% enchanting and also gains up to 30% stronger wind and telekinetic spells.
+- Stendarr follower rework: Physical attacks against undead slowly restore your health. Take up to 50% less attack damage from all attacks as your health decreases. Devotee rework: During prayer, gain up to 20% improved physical damage and up to 50% more healing from striking undead for 300 seconds.
 - Syrabane follower ability now deleveled loot and added staves to the possible loot and also gets up to 30% stronger arcane spells.
 - Tall Papa Follower: Bound weapon and armor spells are 30% stronger. Enchantments use up to 40% less charge. Devotee also gains: Ghosts deal up to 50% less damage to you.
-- Talos - Follower changed to 15% against all playable races and falmer. Devotee ability is within 20 feet instead of 40, encourages staying within melee range
+- Talos - Follower changed to 20% against all playable races and falmer. Devotee ability is within 20 feet instead of 40, encourages staying within melee range
 - The Hoonding devotee reworked to 25% chance to take no poise damage, take 25% more/less damage if staggered/not staggered, deal 25% more damage to staggered enemies.
 - The All Maker follower replaced with Bonuses from The All Maker Stones are doubled. Gain up to 10% weapon damage while having an unused All Maker Stone Power. Devotee also gets double effects from doomstones (this stacks with the Aetherian Crown buff)
 - The Hist re-added health buff (50 all attributes), up to 100 when using sleeping tree sap. Devotee also gets up to 20x longer sleeping tree sap buff.
