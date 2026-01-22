@@ -112,6 +112,7 @@
 - Snazzy Individual Mods
 - Spell Breaker HD
 - Spellbreaker Remesh Animated ENB Light
+- Taste of Death Quest Addon - Just the Boss Fight
 - Tomato's Complex Parallax Material Landscapes AIO
 - Tons more redundant plugins/meshes/textures.
 - Trad Myrwatch Patch.
