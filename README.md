@@ -151,7 +151,7 @@
 - Fixed certain dieties not calculating attack damage right (either over calculating or under calculating)
 - Divine favor loss per gold decreased to 10% of what it was before since Requiem makes bounties a lot higher. In theory they should really only abandon you for murder now. No more getting abandoned for accidently stealing an apple.
 - Favor gains now make more sense. Example is Auriel would give 0.1% per ALL skills but Julianos gave 0.1% for only Mage skills. Now class-restricted is 0.2%.
-- Favor gain/loss in general has been brought down to be slower. This should limit early power creep.
+- Favor gain/loss in general has been brought down to be slower. This should limit early power creep. Favor gain from prayer especially is now much lower.
 - In general, dieties with more restricted/limited ways to level favor outside of praying now get favor faster and dieties that can get favor by doing repetitive things like killing common enemies, drinking tons of alcohol or lockpick get favor slower from those things.
 - Link to excel sheet of diety reoworkd (always up to date) 
 - https://docs.google.com/spreadsheets/d/1ZbhJkIHqEoVKzVtASmupizGPFuDUG84_/edit?usp=sharing&ouid=112580938222322355748&rtpof=true&sd=true
