@@ -366,9 +366,10 @@
 - Made Hot variants of CC fishing food recipes consistent with LoreRim (just base food + 1 troll fat)
 - Fortify warmth from food is now much shorter and cold is not restored as significantly. No more spamming food to completely bypass cold mechanics. Hot variants give triple of cold variants.
 - Finally added recipe for Hot Boiled Cabbage Soup
-- Eating Food now gives overall less hunger restored. Large is relatively unchanged but very small and small is significantly reduced.
+- Eating Food now gives overall less hunger restored. Very small food gives extremely little hunger restored (you aren't gonna survive off of just cabbage). 
 - Some food hunger restore amounts tweaked to make more sense.
 - Some food given keywords for different mechanics added/plan to be added (Like Jephre getting buffs from eating meat).
+- All needs (hunger/cold/exhaustion) don't trigger the first stage as fast, stage 2 is equal to SMI, but stages 3, 4 and 5 come quicker.
 
 ***
 
@@ -384,6 +385,7 @@
 - The Cause is now much harder and the lich isn't a pushover
 - Vendors take longer to respawn
 - Bleakfalls Barrow 1 handed katana is now in the first chest. The first chest also has more chance to have potions and scrolls but no gems/gold
+- Ebony warrior (should) approach you at level 40 now
 
 ***
 
@@ -393,3 +395,7 @@
 - Solution: Vendors have less gold in general. Bartering perks give more intitial value but scale slower. For example, haggling used to give 0 benefit at level 1 speech but scale 1% up to 100% better prices at level 100. Now, you immediately gain 20% but only scale 1% per 4 levels in speech. The way Skyrim math works, you end up with 150% at level 100 speech.
 - Since vendors have less gold, some of the "sell price" perks have instead been changed to buy and sell price, but with reduces sell price.
 - In general, you will get less loot from random enemies, but loot from bosses is mostly unchanged.
+- Reward from quests makes more sense. Killing dragons will still net you a lot of gold, but taking a quest to kill some random bandits or a wolf won't give as much.
+- Cost of fast traveling has been greatly increased. It's not better to use a carriage.
+- Hearthfire home prices for addons are now their vanilla price. It didn't make sense to kill Drelas for free but have to pay insane amounts of money for a little homestead. 
+- Horses are cheaper.
