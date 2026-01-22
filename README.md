@@ -384,3 +384,12 @@
 - The Cause is now much harder and the lich isn't a pushover
 - Vendors take longer to respawn
 - Bleakfalls Barrow 1 handed katana is now in the first chest. The first chest also has more chance to have potions and scrolls but no gems/gold
+
+***
+
+### Economy Changes
+
+- Issue: It's way too hard to make gold early on but you have an excess late game.
+- Solution: Vendors have less gold in general. Bartering perks give more intitial value but scale slower. For example, haggling used to give 0 benefit at level 1 speech but scale 1% up to 100% better prices at level 100. Now, you immediately gain 20% but only scale 1% per 5 levels in speech. So you'd have 20% at level 0, reaching 40% at level 100.
+- Since vendors have less gold, some of the "sell price" perks have instead been changed to buy and sell price, but with reduces sell price.
+- In general, you will get less loot from random enemies, but loot from bosses is mostly unchanged.
