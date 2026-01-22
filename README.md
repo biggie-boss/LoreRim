@@ -128,6 +128,7 @@
 
 ### Bugfixes
 
+- Deleted quite literally 10's of thousands of loose files that had no purpose. Should both speed up load times and improve performance.
 - Followers breaking with the fishing idle
 - Removed all locked chests have keys patches and made my own unified patch
 - Combed through all container records for consistency
