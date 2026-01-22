@@ -146,6 +146,7 @@
 
 ### Wintersun Changes
 
+- I either fixed Jyggalag or made him way worse (I think I fixed the Obelisks yeeting when you die).
 - Properly made it so most sneaking-related stuff can't proc if you're wearing heavy armor per Requiem standards. Spells now properly scale duration and/or magnitude based on Requiem's "no duration scaling" or "no magnitude scaling" keywords.
 - Fixed certain dieties not calculating attack damage right (either over calculating or under calculating)
 - You can now always pray in combat. Your weapons/spells still have to be put away though.
