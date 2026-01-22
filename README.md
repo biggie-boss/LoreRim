@@ -160,6 +160,7 @@
 
 ### Artifact Changes
 
+- Aetherial Armor from Legends of Aetherium buffed to make it more unique and not be so much worse than the Tools of Kagrenac version.
 - Ahzidal's Boots are now 10/15% stronger spells. I found a funny when I was editing these. It SAID 10% reduction but it was only 5% lol.
 - Auriel's bow given 50% more charge.
 - Bow of Hallowed Flame now has infinite charge
