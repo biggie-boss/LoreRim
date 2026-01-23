@@ -35,6 +35,8 @@
 - Lexicon SKSE
 - Locally made Planters - Planter Diversity
 - Military Camps Begone
+- Nature of the Wild Lands - Dawnguard Additions
+- Neloth's Tentacle Spell - Experimental Subject
 - Nordic UI Active Effects for SkyUI SE
 - Orc Strongholds AIO
 - Penitus Occulatus
