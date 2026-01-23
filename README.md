@@ -30,6 +30,7 @@
 - Improved Sparks
 - JK's Raven Rock
 - JK's Tel Mithryn
+- JS Solitude Sewer Cover SE
 - Kanjs - Commons books (used to add covers to new books added)
 - Kanjs - Imperial Dungeon Floor Chunk Flattened for Parallax
 - Kanjs - Smooth and artifact-free gradient
@@ -55,6 +56,7 @@
 - Tomato's Riften
 - Unmarked Locations Pack - Wyrmstooth Addon
 - Vanaheimr - Farmhouses - Complex Material and PBR
+- Vanaheimr - Northern Roads - Complex Material and PBR
 - Vittorias Alternate Wedding
 
 ***
@@ -70,6 +72,7 @@
 - Baby Dragon - complaints/bugs
 - Blood and Silver - Cidhna Mine Expanded - Extremely buggy and crash prone. Replaced with alternate option.
 - Carved Brinks - tons of complaints of bugs, imbalance, not fun, annoying snail, repetitive, getting quest locked.
+- CC's Enhanced Ore Veins SSE - 2K - 9.0.1
 - Clam Oyster and Pearl Retexture
 - Clockwork - edits the navmesh of literally every city, tons of issues and instances of getting your save crash-locked if you save at a bad time.
 - Complex Parallax Enabled (Alpha)
@@ -100,15 +103,16 @@
 - Praedy's Repository AIO
 - Project AHO - Unimmersive giant platforms in the world, navmesh and lighting related crashes, complaints of boring gameplay and imbalance.
 - Quaint Raven Rock
+- R - Complex Parallax 2 For Northern Roads and Dirt02
 - Rally's Banners of Skyrim
 - Requiem ECSS
 - MRF/Extravagant Solitude
+- Nordic Northern Roads 2K
 - Riton/Wizkid Farmhouses
 - Riton/Wizkid/TB's/SkyKing Riften
 - Rueful Axe
 - RUSTIC DRAGONS SE
 - Skeever Tail
-- Skyking Soul Gems
 - Skyrim 3D Docks and Boardwalks - causes inconsistent textures in Riften docks
 - Skyrim 3D Misc - Traps - look worse than vanilla
 - Skyrim 3D Windmill - looks worse than vanilla
