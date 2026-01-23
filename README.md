@@ -30,6 +30,7 @@
 - JK's Raven Rock
 - JK's Tel Mithryn
 - Kanjs - Commons books (used to add covers to new books added)
+- Kanjs - Imperial Dungeon Floor Chunk Flattened for Parallax
 - Kanjs - Smooth and artifact-free gradient
 - Lexicon SKSE
 - Locally made Planters - Planter Diversity
