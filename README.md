@@ -8,6 +8,7 @@
 - Actor Value Generator
 - Alternative Riften
 - Andrealletius' Disarming Overhaul
+- Andrealletius' Jobs Overhaul (AJO)
 - Animated Objects Overhauled
 - Argonian Head Mesh Minor Adjustments
 - Avanchnzel Dwemer Piston Sound Hotfix
@@ -30,6 +31,7 @@
 - Kanjs - Commons books (used to add covers to new books added)
 - Kanjs - Smooth and artifact-free gradient
 - Lexicon SKSE
+- Locally made Planters - Planter Diversity
 - Military Camps Begone
 - Nordic UI Active Effects for SkyUI SE
 - Orc Strongholds AIO
@@ -49,6 +51,7 @@
 - Tomato's Solitude
 - Unmarked Locations Pack - Wyrmstooth Addon
 - Vanaheimr - Farmhouses - Complex Material and PBR
+- Vittorias Alternate Wedding
 
 ***
 
@@ -143,6 +146,7 @@
 - Gore's amulet appearance changed to a vanilla amulet since his mesh is problematic
 - Inigo bow mesh changed to vanilla mesh since his bow is problematic
 - Fixed Armsbreaker having incorrect run on tabs
+- Fixed weird dragon priest masks as a lich
 
 ***
 
@@ -397,5 +401,6 @@
 - In general, you will get less loot from random enemies, but loot from bosses is mostly unchanged.
 - Reward from quests makes more sense. Killing dragons will still net you a lot of gold, but taking a quest to kill some random bandits or a wolf won't give as much.
 - Cost of fast traveling has been greatly increased. It's not better to use a carriage.
-- Hearthfire home prices for addons are now their vanilla price. It didn't make sense to kill Drelas for free but have to pay insane amounts of money for a little homestead. 
+- Hearthfire home prices for addons are now their vanilla price. It didn't make sense to kill Drelas for free but have to pay insane amounts of money for a little homestead.
+- Most quests that gave tiny amounts of gold for no reaason should now give more.
 - Horses are cheaper.
