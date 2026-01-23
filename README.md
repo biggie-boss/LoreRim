@@ -121,6 +121,7 @@
 - Spell Breaker HD
 - Spellbreaker Remesh Animated ENB Light
 - Taste of Death Quest Addon - Just the Boss Fight
+- Thalmor Embassy - Texture variance - Bug fixes - Proper LOD - has a million bajillion polies
 - Tomato's Complex Parallax Material Landscapes AIO
 - Tons more redundant plugins/meshes/textures.
 - Trad Myrwatch Patch.
