@@ -53,7 +53,6 @@
 - Skybound
 - Tel Mithryn Overhaul - Exterior and Interior Improvements
 - Tomato's Riften
-- Tomato's Solitude
 - Unmarked Locations Pack - Wyrmstooth Addon
 - Vanaheimr - Farmhouses - Complex Material and PBR
 - Vittorias Alternate Wedding
@@ -103,7 +102,7 @@
 - Quaint Raven Rock
 - Rally's Banners of Skyrim
 - Requiem ECSS
-- Riton/MRF/Extravagant Solitude
+- MRF/Extravagant Solitude
 - Riton/Wizkid Farmhouses
 - Riton/Wizkid/TB's/SkyKing Riften
 - Rueful Axe
