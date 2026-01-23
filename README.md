@@ -15,6 +15,7 @@
 - Baan Malur - A Landscape Overhaul
 - Better Argonian Horns for HHBB
 - Better Optimized Solitude Meshes
+- City Bag Checks
 - Critters of Kynareth
 - Dawnguard Robes
 - Delayed Start Mods by AndrealletiusVIII - Mind of Madness, Taste of Death, Forsworn Conspriacy, House of Horrors, Mind of Madness, CC Fishing (All except for Fishing are lvl 20 requirement)
