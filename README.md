@@ -179,6 +179,7 @@
 
 - Aegisbane now deals 20% more damage to enemies who are blocking.
 - Aetherial Armor from Legends of Aetherium buffed to make it more unique and not be so much worse than the Tools of Kagrenac version.
+- Akaviri Armor now has an enchanted variant in Sky Haven
 - Angi's bow is no longer breakable. It's now also a Skyforge Steel light bow in terms of stats (she said it's been in her family for generations and she's a nord)
 - Ahzidal's Boots are now 10/15% stronger spells. I found a funny when I was editing these. It SAID 10% reduction but it was only 5% lol.
 - Auriel's bow given 50% more charge.
@@ -212,8 +213,10 @@
 - Okin and Eduj now do frost/shock burst
 - Poacher's Axe is now 25 extra damage to animals
 - Red Eagle's Bane is now 3 fire damage for 30 seconds and turns up to lvl 25 undead.
+- Ring of Namira no longer gives base stamina, but the passive from eating corpses is greatly increased
 - Rueful Axe now absorbs 30 health/magicka/stamina.
 - Soul Devourer doubled both benefits and detriment
+- Staff of Magnus no longer works on Dragons or Miraak
 - Steel Battleaxe of Fiery Souls now is 6 base duration and the fire effect lingers for 6 seconds at 3 per senod instead of doing just 6 fire damage
 - Stendarr's Hammer now deals 40 smite damage instead of 20
 - The Longhammer now gets rank 4 physical enchant (+30 physical damage on hit)
@@ -221,6 +224,8 @@
 - Trollsbane now deals 2 points of fire damage for 30 seconds and 1 point to non-trolls for 30 seconds. The problem with trolls isn't doing burst fire damage, it's keeping a lingering effect on them. This should help.
 - Tower of the Nine reflect damage removed. Instead gives 25% more block, 100 armor rating and wards 100 magic damage (like spellbreaker) when blocking, to mimic its Oblivion stats
 - Trueflame does 2 lingering damage for 30 seconds
+- Ulfric's and the other civil war main characters weapons are now ebony tier
+- Windshear stagger is no longer almost guaranteed, but it gives you a 10% crit chance when not using a shield.
 
 ***
 
@@ -392,6 +397,7 @@
 - Tier perks (novice/apprentice/etc) now taper inversely instead of all reducing cost by 50%. Now Novice perk brings total cost to 40%, Apprentice 45%, Adept 50%, Expert 55%, Master 60%. This gives slightly more reason to use lower tier spells.
 - Spell scaling has been equalized across all tiers. Before, Master spells would get stronger based on skill level compared to Novice spells. Now, all tiers scale as much as apprentice across all levels. 
 - Wind weapon (hopefully) removed since it doesn't actually do anything in LoreRim.
+- Shield of Awe is now only 25% but lasts 120 seeconds and duration scales
 
 ***
 
