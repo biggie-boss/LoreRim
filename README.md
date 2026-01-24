@@ -21,11 +21,13 @@
 - Delayed Start Mods by AndrealletiusVIII - Mind of Madness, Taste of Death, Forsworn Conspriacy, House of Horrors, Mind of Madness, CC Fishing (All except for Fishing are lvl 20 requirement)
 - Eclipse Cottage - A COTN Falkreath Addon
 - Embers XD - Glow Maps for ENB
+- eFPS - JK's Riverwood
 - Escapeweave
 - Festival Rings - Animated
 - FIXED Highpoly Nordic Metal Grate
 - Fort Fellhammer
 - Halffaces - Real 3D Solitude Grate
+- Honor Thy Word - Saint Jiub Opus Epilogue
 - Immersive Dialogue Expansion - Thalmor
 - Improved Sparks
 - JK's Raven Rock
@@ -72,7 +74,6 @@
 - Baby Dragon - complaints/bugs
 - Blood and Silver - Cidhna Mine Expanded - Extremely buggy and crash prone. Replaced with alternate option.
 - Carved Brinks - tons of complaints of bugs, imbalance, not fun, annoying snail, repetitive, getting quest locked.
-- CC's Enhanced Ore Veins SSE - 2K - 9.0.1
 - Clam Oyster and Pearl Retexture
 - Clockwork - edits the navmesh of literally every city, tons of issues and instances of getting your save crash-locked if you save at a bad time.
 - Complex Parallax Enabled (Alpha)
@@ -156,6 +157,7 @@
 - Inigo bow mesh changed to vanilla mesh since his bow is problematic
 - Fixed Armsbreaker having incorrect run on tabs
 - Fixed weird dragon priest masks as a lich
+- Nazir no longer has Windshear since this was causing a duplicate one in game
 
 ***
 
@@ -175,30 +177,48 @@
 
 ### Artifact Changes
 
+- Aegisbane now deals 20% more damage to enemies who are blocking.
 - Aetherial Armor from Legends of Aetherium buffed to make it more unique and not be so much worse than the Tools of Kagrenac version.
+- Angi's bow is no longer breakable. It's now also a Skyforge Steel light bow in terms of stats (she said it's been in her family for generations and she's a nord)
 - Ahzidal's Boots are now 10/15% stronger spells. I found a funny when I was editing these. It SAID 10% reduction but it was only 5% lol.
 - Auriel's bow given 50% more charge.
+- Bolar's Oathblade no longer damages stamina because who cares. However, it now causes fear in enemies up to lvl 25 for 60 seconds.
 - Bow of Hallowed Flame now has infinite charge
+- Bow of the Hunt now does 40 extra damage to animals. 
 - Chrysamere now gives 5% reflect damage instead of health regen to match its Morrowind stats
 - Dawnguard Battleaxe/Mace now have an enchantment
 - Dawnguard weapons now deal 15 points of sun damage and an extra 45 to undead for the axe and 20/60 for the warhammer.
 - Dark Moon enchantment now always decreases half as much health as it increases magicka
+- Drainspell (called spectral in requiem) weapons now... drain spells lmao. They absorb similar to a chaos enchantment (all 3 attributes) but with 2/3 the effectiveness as before
 - Dragon's Oath absorbs 15 stamina
 - Eye of Melka now does 60 damage instead of 80 and AOE reduced from 15 to 5, but the lingering effect is buffed from 4 over 4 seconds to  6 over 20 seconds.
+- Firiniel's End is now a non-disenchantable frostburst bow (same enchant you get from experimentation in enchanting tree)
+- Fork of Horripilation now does 72 base crit damage despite only have 1 base damage lmao.
+- Froki's Bow is now a non-disenchantable and non-breakable bow with the toxicity enchantment (for balance it has less charge than the other toxicity weapons)
+- Ghostblade now ignores 25 armor
 - Gratefull Dai Katana Renamed to Blade of Jays
 - Helmet of Graff the White now gives 20% reflect damage and 20% magic resist to make it a bit closer to the Morrowind stats
 - Hopefire does 40 dmg (120 to constructs)
+- Horksbane now does 500 extra damage to Horkers, Mudcrabs and Slaughterfish. Because it's funny.
 - Ice Blade of the Monarch charge increased
 - KotN weapons lingering damage increased to 15 seconds
 - Light of day now deals 20 sun damage, 60 to regular undead and 100 to vampires
-- Namira's Itch absorbs 40 stamina
-- Nightingale blade Absorbs 10 health/stamina over 4 seconds and slows targets by 20% over 4 seconds.
-- Nightingale bow now deals 60 points of magic damage instead of elemental and slows targets by 25% for 5 seconds.
 - Magebane now absorbs 100 magicka instead of removing your magicka and dealing 500 damage to enemy magicka
 - Mentor's RIng should be available on that one necromancer again
+- Namira's Itch absorbs 40 stamina
+- Nettlebane now comes with Rank 4 Physical Weapon Enchantment (with infinite charge, making it less useless). However, the weapon type itself is Falmer Honed giving it less base damage. This was done for both lore and balance reasons. First, the original Nettlebane was Ebony which may seem good on its surface but that means you need Ebony Smithing to improve it.. but Nettlebane doesn't actually benefit from smithing trees. It's also said to have been made from a non-metal material (Falmer stuff is made from Chitin). Falmer weapons are temperable with just the first smithing perk. They also have a poison bonus which fits Nettlebane much more thermatically.
+- Nightingale blade Absorbs 10 health/stamina over 4 seconds and slows targets by 20% over 4 seconds.
+- Nightingale bow now deals 60 points of magic damage instead of elemental and slows targets by 25% for 5 seconds.
+- Okin and Eduj now do frost/shock burst
+- Poacher's Axe is now 25 extra damage to animals
+- Red Eagle's Bane is now 3 fire damage for 30 seconds and turns up to lvl 25 undead.
 - Rueful Axe now absorbs 30 health/magicka/stamina.
 - Soul Devourer doubled both benefits and detriment
+- Steel Battleaxe of Fiery Souls now is 6 base duration and the fire effect lingers for 6 seconds at 3 per senod instead of doing just 6 fire damage
 - Stendarr's Hammer now deals 40 smite damage instead of 20
+- The Longhammer now gets rank 4 physical enchant (+30 physical damage on hit)
+- The Woodsman's Friend slight rebuffed closer to vanilla. Now does 25% more crit damage (Requiem removes the 50% completely.. it's an iron weapon like c'mon guys)
+- Trollsbane now deals 2 points of fire damage for 30 seconds and 1 point to non-trolls for 30 seconds. The problem with trolls isn't doing burst fire damage, it's keeping a lingering effect on them. This should help.
 - Tower of the Nine reflect damage removed. Instead gives 25% more block, 100 armor rating and wards 100 magic damage (like spellbreaker) when blocking, to mimic its Oblivion stats
 - Trueflame does 2 lingering damage for 30 seconds
 
@@ -220,6 +240,7 @@
 - Iron Knees movement is 15% reduction now
 - Light foot is now 10% speed boost. Gives it better synergy with Lurker, Rage and other traits
 - Lurker effect gives 1.5 health and stamina instead of 2 health
+- Marathon Runner now also restored 1 hps while sprinting
 - Old Fashioned description changed to clarify it also works on Forsworn, Leather and Scaled armor
 - Master of destiny reverted back to 5 skill boost, still 5 perk points
 - Pacifist instead of not being applicable to atronachs they get 2 health/stamina instead of 2 magicka/stamina
@@ -370,7 +391,7 @@
 - Removed "jump ahead" system that magic redone adds. With this, you could cast the spells in a higher tier for 75% of the cost. For example, if you picked novice destruction you cast novice spells at 50% but you could also cast apprentice spells for 75%.
 - Tier perks (novice/apprentice/etc) now taper inversely instead of all reducing cost by 50%. Now Novice perk brings total cost to 40%, Apprentice 45%, Adept 50%, Expert 55%, Master 60%. This gives slightly more reason to use lower tier spells.
 - Spell scaling has been equalized across all tiers. Before, Master spells would get stronger based on skill level compared to Novice spells. Now, all tiers scale as much as apprentice across all levels. 
-- Prowler's Gift gives 5% penetration while sneaking.
+- Wind weapon (hopefully) removed since it doesn't actually do anything in LoreRim.
 
 ***
 
@@ -386,22 +407,6 @@
 
 ***
 
-### General Changes
-
-- Afflicted are buffed.
-- Several boss fights are buffed such as Isran and Mercer
-- Added crafting recipes for nearly every scroll and staff in LoreRim thanks to BardicNoel
-- Exhaustion penalties are now based on stamina percentage being less than 10% instead of stamina being less than 10.
-- Sinding SIGNIFICANTLY buffed to make the Savior's Hide a proper endgame item. He now has more health, more stamina, more damage resist, less weak to poison that regular werewolves, 30% magic resist and a powerful health regen that only stops while under the effects of harmful poison.
-- Buffed Baan Maluur creatures
-- Some areas (particularly starter dungeons near riverwood/whiterun) have had enemy spawns slightly lowered. 
-- The Cause is now much harder and the lich isn't a pushover
-- Vendors take longer to respawn
-- Bleakfalls Barrow 1 handed katana is now in the first chest. The first chest also has more chance to have potions and scrolls but no gems/gold
-- Ebony warrior (should) approach you at level 40 now
-
-***
-
 ### Economy Changes
 
 - Issue: It's way too hard to make gold early on but you have an excess late game. Tons of complaints about this. I hope these changes make the pace of the game slower and make money feel more valuable.
@@ -411,5 +416,57 @@
 - Reward from quests makes more sense. Killing dragons will still net you a lot of gold, but taking a quest to kill some random bandits or a wolf won't give as much.
 - Cost of fast traveling has been greatly increased. It's not better to use a carriage.
 - Hearthfire home prices for addons are now their vanilla price. It didn't make sense to kill Drelas for free but have to pay insane amounts of money for a little homestead.
-- Most quests that gave tiny amounts of gold for no reaason should now give more.
 - Horses are cheaper.
+
+***
+
+### Quest Reward Changes
+
+- Most quests with "small rewards" now give larger ones or more thematic rewards. Small rewards in general though provide more gold.
+- Man Who Cried Wolf now gives 100 gold but gives 2 random restoration staves
+- Fetch Me That Book will now sometimes give random books or tomes as rewards (with a rare chance of very valuable books)
+- The Wolf Queen Awakened now gives 500 gold but 2 Expert spell tomes, 1 Restoration and 1 Alteration.
+- Laid to Rest will give you 3 Fire Oils and 3 Burning Powders on top of 100 gold
+- Missing In Action no longer gives gold but gives a Skyforge Steel War Axe on top of the Battleaxe
+- Mine or Yours gives 200 gold and 3 cure poison and 1 dispel potion
+- Under Saarthal will also give an adept alteration tome
+- Enchanting Pick Up will now give 3 random soul gems
+- Aftershock will now give a random enchanted ring, necklace and circlet
+- Kolskeggr Mine quest now gives 2 gold ingots instead of gold... because why the fuck are they giving you more gold than it took to bribe the fucking thugs?
+- Prowler's Gift gives 5% penetration while sneaking.
+- Brenuin now gives you a rank 5 potion of well-being
+
+***
+
+### Perk Changes
+
+- Block: Overpowered Bashes now works with weapons too
+- Marksman: Piercing Shot requirement dropped to 30
+- Marksman: Penetrating Shot and Power Shotrequirement dropped to 50. However, Sneaking doesn't give penetration. Instead, it gives +10% critical hit chance and +10% critical hit damage.
+- Marksman: Power Shot damage reduced and now costs only 100 stamina. However, it should now scale properly and do actual damage (fixed bugged resistance checks).
+- Marksman: Lion's Arrow requirement dropped to 60. It also now scales by 0.5% of the base 20% per archery level. Meaning at 100 Archery it does 30% of the base spell damage.
+- Marksman: Stunning Precision requirement dropped to 75.
+
+***
+
+### Difficulty Changes
+
+- Afflicted are buffed.
+- Forsworn aren't as resistant to arrows anymore, but now they do more physical damage and are more resistant to non-arrows
+- Several boss fights are buffed such as Isran and Mercer
+- Exhaustion penalties are now based on stamina percentage being less than 10% instead of stamina being less than 10.
+- Sinding SIGNIFICANTLY buffed to make the Savior's Hide a proper endgame item. He now has more health, more stamina, more damage resist, less weak to poison that regular werewolves, 30% magic resist and a powerful health regen that only stops while under the effects of harmful poison.
+- Buffed Baan Maluur creatures
+- Some areas (particularly starter dungeons near riverwood/whiterun) have had enemy spawns slightly lowered. 
+- The Cause is now much harder and the lich isn't a pushover
+- Vendors take longer to respawn
+- Bleakfalls Barrow 1 handed katana is now in the first chest. The first chest also has more chance to have potions and scrolls but no gems/gold
+- Ebony warrior (should) approach you at level 40 now
+- The Draugr Drainspell Weapons now damage your health if you get hit by them as an enchantment (to mimic the absorb health from the playable versions)
+
+***
+
+### General Changes
+
+- Added crafting recipes for nearly every scroll and staff in LoreRim thanks to BardicNoel
+- Ebony warrior (should) approach you at level 40 now
