@@ -399,6 +399,7 @@
 - Spell scaling has been equalized across all tiers. Before, Master spells would get stronger based on skill level compared to Novice spells. Now, all tiers scale as much as apprentice across all levels. 
 - Wind weapon (hopefully) removed since it doesn't actually do anything in LoreRim.
 - Shield of Awe is now only 25% but lasts 120 seeconds and duration scales
+- Sanity patched all fire spells to have the correct secondary effects from perks
 
 ***
 
