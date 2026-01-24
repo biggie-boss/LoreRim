@@ -212,6 +212,7 @@
 - Nightingale bow now deals 60 points of magic damage instead of elemental and slows targets by 25% for 5 seconds.
 - Okin and Eduj now do frost/shock burst
 - Poacher's Axe is now 25 extra damage to animals
+- Prophet's Sandals now give 100% disease resist too
 - Red Eagle's Bane is now 3 fire damage for 30 seconds and turns up to lvl 25 undead.
 - Ring of Namira no longer gives base stamina, but the passive from eating corpses is greatly increased
 - Rueful Axe now absorbs 30 health/magicka/stamina.
@@ -476,3 +477,4 @@
 
 - Added crafting recipes for nearly every scroll and staff in LoreRim thanks to BardicNoel
 - Ebony warrior (should) approach you at level 40 now
+- Orc Strongholds now sell Bestial Stew
