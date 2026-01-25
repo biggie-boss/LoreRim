@@ -16,6 +16,7 @@
 - Better Argonian Horns for HHBB
 - Better Optimized Solitude Meshes
 - City Bag Checks
+- Container Weight Restrictions
 - Critters of Kynareth
 - Dawnguard Robes
 - Delayed Start Mods by AndrealletiusVIII - Mind of Madness, Taste of Death, Forsworn Conspriacy, House of Horrors, Mind of Madness, CC Fishing (All except for Fishing are lvl 20 requirement)
@@ -277,7 +278,7 @@
 - No longer possible to manually select smithing perks that are free from reading books, this will prevent people from accidently wasting perk points. Only Smithing Specialization and Iron Lore require perks.
 - Added smithing book for tailoring to the radiant rainment
 - Saint Jiub's Opus teaches Legendary Blacksmithing. Should give more of a reason to actually do it.
-- Trad "Shivering Isles Smithing" removed. All Amber recipes are now glass.
+- Trad "Shivering Isles Smithing" removed. All recipes are now Daedric (since it is Daedric stuff, even the quality is essentially Daedric light). 
 - Shivering Isles Staves from ECSS also require arcane crafstmanship
 - Eorland's book teaches advanced crafting
 - All "Quicksilver" Weapons/Armors renamed back to Nordic
