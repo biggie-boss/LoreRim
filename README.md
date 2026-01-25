@@ -26,10 +26,13 @@
 - Escapeweave
 - Festival Rings - Animated
 - FIXED Highpoly Nordic Metal Grate
+- Follower Dialogue Expansion - Saadia
 - Fort Fellhammer
 - Halffaces - Real 3D Solitude Grate
+- Higher Poly Vanilla Leather Strips
 - Honor Thy Word - Saint Jiub Opus Epilogue
 - Immersive Dialogue Expansion - Thalmor
+- Immersive Nightgate Inn dialogue
 - Improved Sparks
 - JK's Raven Rock
 - JK's Tel Mithryn
@@ -37,11 +40,13 @@
 - Kanjs - Commons books (used to add covers to new books added)
 - Kanjs - Imperial Dungeon Floor Chunk Flattened for Parallax
 - Kanjs - Smooth and artifact-free gradient
+- Katria's Legacy - Publish the Aetherium Forge
 - Lexicon SKSE
 - Locally made Planters - Planter Diversity
 - Military Camps Begone
 - Nature of the Wild Lands - Dawnguard Additions
 - Neloth's Tentacle Spell - Experimental Subject
+- Nilheim - Misc Quest Expansion - No Infighting Bandits
 - Nordic UI Active Effects for SkyUI SE
 - Orc Strongholds AIO
 - Penitus Occulatus
@@ -55,6 +60,7 @@
 - Snazzy AIO mods
 - SpellBreaker Rework (Mesh Only)
 - Skybound
+- TB's Improved Dust Particles
 - Tel Mithryn Overhaul - Exterior and Interior Improvements
 - Tomato's Riften
 - Unmarked Locations Pack - Wyrmstooth Addon
@@ -212,7 +218,7 @@
 - Nettlebane now comes with Rank 4 Physical Weapon Enchantment (with infinite charge, making it less useless). However, the weapon type itself is Falmer Honed giving it less base damage. This was done for both lore and balance reasons. First, the original Nettlebane was Ebony which may seem good on its surface but that means you need Ebony Smithing to improve it.. but Nettlebane doesn't actually benefit from smithing trees. It's also said to have been made from a non-metal material (Falmer stuff is made from Chitin). Falmer weapons are temperable with just the first smithing perk. They also have a poison bonus which fits Nettlebane much more thermatically.
 - Nightingale blade Absorbs 10 health/stamina over 4 seconds and slows targets by 20% over 4 seconds.
 - Nightingale bow now deals 60 points of magic damage instead of elemental and slows targets by 25% for 5 seconds.
-- Okin and Eduj now do frost/shock burst
+- Okin and Eduj now do frost/fire burst
 - Poacher's Axe is now 25 extra damage to animals
 - Prophet's Sandals now give 100% disease resist too
 - Red Eagle's Bane is now 3 fire damage for 30 seconds and turns up to lvl 25 undead.
@@ -224,6 +230,7 @@
 - Stendarr's Hammer now deals 40 smite damage instead of 20
 - The Longhammer now gets rank 4 physical enchant (+30 physical damage on hit)
 - The Woodsman's Friend slight rebuffed closer to vanilla. Now does 25% more crit damage (Requiem removes the 50% completely.. it's an iron weapon like c'mon guys)
+- Thunder's Heart can now be used to craft an incredibly powerful but incredibly expensive Daedric Sword or Greatsword (can also be swapped between the 2)
 - Trollsbane now deals 2 points of fire damage for 30 seconds and 1 point to non-trolls for 30 seconds. The problem with trolls isn't doing burst fire damage, it's keeping a lingering effect on them. This should help.
 - Tower of the Nine reflect damage removed. Instead gives 25% more block, 100 armor rating and wards 100 magic damage (like spellbreaker) when blocking, to mimic its Oblivion stats
 - Trueflame does 2 lingering damage for 30 seconds
@@ -424,27 +431,10 @@
 - Since vendors have less gold, some of the "sell price" perks have instead been changed to buy and sell price, but with reduces sell price.
 - In general, you will get less loot from random enemies, but loot from bosses is mostly unchanged.
 - Reward from quests makes more sense. Killing dragons will still net you a lot of gold, but taking a quest to kill some random bandits or a wolf won't give as much.
+- Many quests now give either randomized or thematic rewards. For example a quest tied to killing necromancers might give restoration staves/tomes.
 - Cost of fast traveling has been greatly increased. It's not better to use a carriage.
 - Hearthfire home prices for addons are now their vanilla price. It didn't make sense to kill Drelas for free but have to pay insane amounts of money for a little homestead.
 - Horses are cheaper.
-
-***
-
-### Quest Reward Changes
-
-- Most quests with "small rewards" now give larger ones or more thematic rewards. Small rewards in general though provide more gold.
-- Man Who Cried Wolf now gives 100 gold but gives 2 random restoration staves
-- Fetch Me That Book will now sometimes give random books or tomes as rewards (with a rare chance of very valuable books)
-- The Wolf Queen Awakened now gives 500 gold but 2 Expert spell tomes, 1 Restoration and 1 Alteration.
-- Laid to Rest will give you 3 Fire Oils and 3 Burning Powders on top of 100 gold
-- Missing In Action no longer gives gold but gives a Skyforge Steel War Axe on top of the Battleaxe
-- Mine or Yours gives 200 gold and 3 cure poison and 1 dispel potion
-- Under Saarthal will also give an adept alteration tome
-- Enchanting Pick Up will now give 3 random soul gems
-- Aftershock will now give a random enchanted ring, necklace and circlet
-- Kolskeggr Mine quest now gives 2 gold ingots instead of gold... because why the fuck are they giving you more gold than it took to bribe the fucking thugs?
-- Prowler's Gift gives 5% penetration while sneaking.
-- Brenuin now gives you a rank 5 potion of well-being
 
 ***
 
