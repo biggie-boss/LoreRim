@@ -471,6 +471,9 @@
 - Bleakfalls Barrow 1 handed katana is now in the first chest. The first chest also has more chance to have potions and scrolls but no gems/gold
 - Ebony warrior (should) approach you at level 40 now
 - The Draugr Drainspell Weapons now damage your health if you get hit by them as an enchantment (to mimic the absorb health from the playable versions)
+- Enemies above lvl 100 can no longer be disarmed
+- The Minotaur Lord is heavily buffed and he's a ghost. Bring fire or poison to stand a chance.
+- Regular fast traveling costs way more gold. Find a carriage instead.
 
 ***
 
