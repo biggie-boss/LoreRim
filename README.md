@@ -28,6 +28,7 @@
 - Exterior Wooden Table Variants - Base Object Swapper
 - Festival Rings - Animated
 - FIXED Highpoly Nordic Metal Grate
+- Fix NPC PermaBlock - Final Polishes
 - Follower Dialogue Expansion - Saadia
 - Fort Fellhammer
 - Halffaces - Real 3D Solitude Grate
@@ -108,6 +109,7 @@
 - Halffaces - small edit of Farmbencht
 - Halffaces - a few ugly ingredients AiO
 - High Quality Food and Ingredients SE
+- Holy Templar Magic - Skypatched
 - Ghostblade Truly Unique (model only)
 - Grand Champion Gear (Bittercup) - Ebony Styled Retexture
 - Imperial Forts Parallax Meshes
@@ -120,6 +122,7 @@
 - Mine Doors Redone
 - Moonsugar HD
 - More Scars - A Slider for Racemenu - Causes Issues
+- NPC Infinite Block Fix - SkyPatched
 - Olenveld - complaints of repetitiveness, excessive bugs, entire objects missing from the worldspace, doesn't appear to be updated still
 - Orc Strongholds Individual mods
 - Pfuscher AIO Textures/Meshes
@@ -136,6 +139,7 @@
 - Rueful Axe
 - RUSTIC DRAGONS SE
 - Skeever Tail
+- SkyPatcher
 - Skyrim 3D Docks and Boardwalks - causes inconsistent textures in Riften docks
 - Skyrim 3D Misc - Traps - look worse than vanilla
 - Skyrim 3D Windmill - looks worse than vanilla
