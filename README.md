@@ -63,6 +63,7 @@
 - Penitus Occulatus
 - Publican's Perch - A Modular Bar and Shop Counter Replacer
 - Real Burnt Astrid
+- Requiem - Exhaustion and Stamina Fix
 - Shout Recovery Utilities
 - Simple Diving System (SDS)
 - Skyking Alchemy Ingredients
