@@ -386,9 +386,9 @@
 - Fairies (which already drop unique ingredients) now also drop soul gems. Also removed most exterior fairies.
 - Skooma reworked. Now 30% damage instead of 50% and 400 stamina instead of 500. However, positive benefits last 50% longer. Also, negative detriments after skooma wears off last MUCH MUCH longer and stamina/magicka are damaged by 100.
 - Alcohol reworked. Alcohol levels based on value. Instead of providing just health, alcohol provides armor rating with 1/4 of that as health. Should make alcohol feel more unique in its buff. E.G. +100 alcohol = 100 AR + 25 HP
-- Alcohol duration based on alcohol type. Ales/meads = 300/450. Wines = 600/900. Spirits = 900/1350.
+- Alcohol potency, value and duration of buffs/debuffs now based on approximate alcohol contents. Debuffs are always 3/4 buff bonus now.
+- Alcohol is generally cheaper for common, low content alcohol. Spirits are more expensive. Any alcohol with a secondary buff is 3x the price of the base price.
 - All alcohol weighs .5 now instead of some being 1. Water/milk/waterskins now weigh 0.1
-- Inebriation amount is 3/4 of alcohol amount.
 - Juices and Glacier water now also hydrate. Hydration now lasts 1800 seconds.
 
 ***
@@ -450,8 +450,7 @@
 
 ### Economy Changes
 
-- Issue: It's way too hard to make gold early on but you have an excess late game. Tons of complaints about this. I hope these changes make the pace of the game slower and make money feel more valuable.
-- Solution: Vendors have less gold in general. Bartering perks give more intitial value but scale slower. For example, haggling used to give 0 benefit at level 1 speech but scale 1% up to 100% better prices at level 100. Now, you immediately gain 20% but only scale 1% per 4 levels in speech. The way Skyrim math works, you end up with 150% at level 100 speech.
+- Vendors have less gold in general but it's more region specific. Rich cities will have higher gold than small towns.
 - Since vendors have less gold, some of the "sell price" perks have instead been changed to buy and sell price, but with reduces sell price.
 - In general, you will get less loot from random enemies, but loot from bosses is mostly unchanged.
 - Reward from quests makes more sense. Killing dragons will still net you a lot of gold, but taking a quest to kill some random bandits or a wolf won't give as much.
@@ -461,6 +460,8 @@
 - Vendors take longer to respawn
 - Horses are cheaper.
 - Regular fast traveling costs way more gold. Find a carriage instead.
+- Amulets of the divines have had their weight and price halved. Including from the buying amulet option.
+- Orc Strongholds now sell Bestial Stew
 
 ***
 
@@ -491,7 +492,6 @@
 - Enemies above lvl 100 can no longer be disarmed
 - The Minotaur Lord is heavily buffed and he's a ghost. Bring fire or poison to stand a chance.
 - Ebony warrior (should) approach you at level 40 now
-- Orc Strongholds now sell Bestial Stew
 
 ***
 
