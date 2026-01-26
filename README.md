@@ -158,6 +158,7 @@
 - Tons more redundant plugins/meshes/textures.
 - Trad Myrwatch Patch.
 - Trad Rare Curios
+- Trade and Barter - Added my own economy mod
 - Seriously Improved Sparks
 - SpiderWIP
 - The Mudcrab Merchant
@@ -431,6 +432,7 @@
 - Wind weapon (hopefully) removed since it doesn't actually do anything in LoreRim.
 - Shield of Awe is now only 25% but lasts 120 seeconds and duration scales
 - Sanity patched all fire spells to have the correct secondary effects from perks
+- Added crafting recipes for nearly every scroll and staff in LoreRim thanks to BardicNoel
 
 ***
 
@@ -456,7 +458,9 @@
 - Many quests now give either randomized or thematic rewards. For example a quest tied to killing necromancers might give restoration staves/tomes.
 - Cost of fast traveling has been greatly increased. It's not better to use a carriage.
 - Hearthfire home prices for addons are now their vanilla price. It didn't make sense to kill Drelas for free but have to pay insane amounts of money for a little homestead.
+- Vendors take longer to respawn
 - Horses are cheaper.
+- Regular fast traveling costs way more gold. Find a carriage instead.
 
 ***
 
@@ -481,19 +485,22 @@
 - Buffed Baan Maluur creatures
 - Some areas (particularly starter dungeons near riverwood/whiterun) have had enemy spawns slightly lowered. 
 - The Cause is now much harder and the lich isn't a pushover
-- Vendors take longer to respawn
 - Bleakfalls Barrow 1 handed katana is now in the first chest. The first chest also has more chance to have potions and scrolls but no gems/gold
 - Ebony warrior (should) approach you at level 40 now
 - The Draugr Drainspell Weapons now damage your health if you get hit by them as an enchantment (to mimic the absorb health from the playable versions)
 - Enemies above lvl 100 can no longer be disarmed
 - The Minotaur Lord is heavily buffed and he's a ghost. Bring fire or poison to stand a chance.
-- Regular fast traveling costs way more gold. Find a carriage instead.
+- Ebony warrior (should) approach you at level 40 now
+- Orc Strongholds now sell Bestial Stew
 
 ***
 
-### General Changes
+### Visual, Performance and WOrld Changes
 
 - Time of day starts at 11AM (just for better lighting)
-- Added crafting recipes for nearly every scroll and staff in LoreRim thanks to BardicNoel
-- Ebony warrior (should) approach you at level 40 now
-- Orc Strongholds now sell Bestial Stew
+- Textures have been fully revamped to be more consistent. Tons and tons of redundant meshes and textures have been removed.
+- Overall size of LoreRim reduced by approximately 30-40gb
+- New city additions in Riften and Whiterun
+- Several new script performance optimizations
+- Even more textures are now downscaled and mipmapped as 0 visual loss
+- Even more BSAs. This increases install time but improves performance and boot time.
