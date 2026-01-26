@@ -77,6 +77,7 @@
 - TB's Improved Dust Particles
 - Tel Mithryn Overhaul - Exterior and Interior Improvements
 - The Book of Love - Fastred's Awakening
+- Through the Woods - Alternate Perspective Addon
 - Tomato's Riften
 - Unmarked Locations Pack - Wyrmstooth Addon
 - Vanaheimr - Farmhouses - Complex Material and PBR
@@ -491,6 +492,7 @@
 
 ### General Changes
 
+- Time of day starts at 11AM (just for better lighting)
 - Added crafting recipes for nearly every scroll and staff in LoreRim thanks to BardicNoel
 - Ebony warrior (should) approach you at level 40 now
 - Orc Strongholds now sell Bestial Stew
