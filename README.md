@@ -39,6 +39,7 @@
 - JS Solitude Sewer Cover SE
 - Kanjs - Commons books (used to add covers to new books added)
 - Kanjs - Imperial Dungeon Floor Chunk Flattened for Parallax
+- Kanjs - Sigil of the Black Covenant (see artifacts section)
 - Kanjs - Smooth and artifact-free gradient
 - Katria's Legacy - Publish the Aetherium Forge
 - Lexicon SKSE
@@ -47,6 +48,7 @@
 - Nature of the Wild Lands - Dawnguard Additions
 - Neloth's Tentacle Spell - Experimental Subject
 - Nilheim - Misc Quest Expansion - No Infighting Bandits
+- No Load Door NPC Fade
 - Nordic UI Active Effects for SkyUI SE
 - Orc Strongholds AIO
 - Penitus Occulatus
@@ -62,6 +64,7 @@
 - Skybound
 - TB's Improved Dust Particles
 - Tel Mithryn Overhaul - Exterior and Interior Improvements
+- The Book of Love - Fastred's Awakening
 - Tomato's Riften
 - Unmarked Locations Pack - Wyrmstooth Addon
 - Vanaheimr - Farmhouses - Complex Material and PBR
