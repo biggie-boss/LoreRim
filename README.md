@@ -15,6 +15,7 @@
 - Baan Malur - A Landscape Overhaul
 - Better Argonian Horns for HHBB
 - Better Optimized Solitude Meshes
+- Bigger Fishing Rods for CC Fishing
 - City Bag Checks
 - Container Weight Restrictions
 - Critters of Kynareth
@@ -24,12 +25,20 @@
 - Embers XD - Glow Maps for ENB
 - eFPS - JK's Riverwood
 - Escapeweave
+- Exterior Wooden Table Variants - Base Object Swapper
 - Festival Rings - Animated
 - FIXED Highpoly Nordic Metal Grate
 - Follower Dialogue Expansion - Saadia
 - Fort Fellhammer
 - Halffaces - Real 3D Solitude Grate
+- Higher Poly Vanilla Burnt Corpses
+- Higher Poly Vanilla Cauldrons
+- Higher Poly Vanilla Dragon Skeleton and Bone Clutter
+- Higher Poly Vanilla Exterior Wooden Table
 - Higher Poly Vanilla Leather Strips
+- Higher Poly Vanilla Meat Meshes
+- Higher Poly Vanilla Oil Lamp Trap
+- Higher Poly Vanilla Windcaller Tomb and Horn
 - Honor Thy Word - Saint Jiub Opus Epilogue
 - Immersive Dialogue Expansion - Thalmor
 - Immersive Nightgate Inn dialogue
@@ -61,6 +70,7 @@
 - Smelters for Riften and Solitude
 - Snazzy AIO mods
 - SpellBreaker Rework (Mesh Only)
+- Skeleton Replacer HD - DLC2 Forge Clutter Add On
 - Skybound
 - TB's Improved Dust Particles
 - Tel Mithryn Overhaul - Exterior and Interior Improvements
