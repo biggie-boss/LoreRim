@@ -161,6 +161,7 @@
 - The Mudcrab Merchant
 - TMD Epic Waterfalls
 - Unfaltered Virtue - A Penitus Oculatus Story - Unplayably Buggy even with tons of fixes
+- Upgradable Spells and Items - UI Resource
 - Vampire Animations Kill Move - Can cause death issues
 - WiZkiD Carriages
 
