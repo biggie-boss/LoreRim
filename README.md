@@ -11,6 +11,7 @@
 - Andrealletius' Jobs Overhaul (AJO)
 - Animated Objects Overhauled
 - Argonian Head Mesh Minor Adjustments
+- AutoExec Console Commands
 - Avanchnzel Dwemer Piston Sound Hotfix
 - Baan Malur - A Landscape Overhaul
 - Better Argonian Horns for HHBB
