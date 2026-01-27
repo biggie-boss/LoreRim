@@ -440,9 +440,8 @@
 
 - Made Hot variants of CC fishing food recipes consistent with LoreRim (just base food + 1 troll fat)
 - Fortify warmth from food is now much shorter and cold is not restored as significantly. No more spamming food to completely bypass cold mechanics. Hot variants give triple of cold variants.
-- Finally added recipe for Hot Boiled Cabbage Soup
 - Eating Food now gives overall less hunger restored. Very small food gives extremely little hunger restored (you aren't gonna survive off of just cabbage). 
-- Some food hunger restore amounts tweaked to make more sense.
+- Some food hunger restore amounts tweaked to make more sense. Food made more consistent based on type (fruit, vegetable, red meat, white meat, fish, dessert, bread, cheese, soups)
 - Some food given keywords for different mechanics added/plan to be added (Like Jephre getting buffs from eating meat).
 - All needs (hunger/cold/exhaustion) don't trigger the first stage as fast, stage 2 is equal to SMI, but stages 3, 4 and 5 come quicker.
 
