@@ -66,10 +66,12 @@
 - Publican's Perch - A Modular Bar and Shop Counter Replacer
 - Real Burnt Astrid
 - Requiem - Exhaustion and Stamina Fix
+- SD's Horn Candles SE 2k
 - Shout Recovery Utilities
 - Simple Diving System (SDS)
 - Skyking Alchemy Ingredients
 - Skyking Carriages
+- Skyking Imperial Forts
 - Smelters for Riften and Solitude
 - Snazzy AIO mods
 - SpellBreaker Rework (Mesh Only)
@@ -156,6 +158,7 @@
 - Taste of Death Quest Addon - Just the Boss Fight
 - Thalmor Embassy - Texture variance - Bug fixes - Proper LOD - has a million bajillion polies
 - Tomato's Complex Parallax Material Landscapes AIO
+- Tomato's Imperial Forts - BBSA
 - Tons more redundant plugins/meshes/textures.
 - Trad Myrwatch Patch.
 - Trad Rare Curios
