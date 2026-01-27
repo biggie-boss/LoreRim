@@ -107,6 +107,7 @@
 - Diverse Woodchopping Blocks - Textures
 - Dunmer Dreams - A Dark Elf Bed Replacer
 - Dunmer Settlement of Tel Mithryn
+- Eating Animations and Sounds SE
 - Fixed Nordic Metal Grate
 - Halffaces - small edit of Farmbencht
 - Halffaces - a few ugly ingredients AiO
