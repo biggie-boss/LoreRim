@@ -22,7 +22,6 @@
 - Critters of Kynareth
 - Dawnguard Robes
 - Delayed Start Mods by AndrealletiusVIII - Mind of Madness, Taste of Death, Forsworn Conspriacy, House of Horrors, Mind of Madness, CC Fishing (All except for Fishing are lvl 20 requirement)
-- Eclipse Cottage - A COTN Falkreath Addon
 - Embers XD - Glow Maps for ENB
 - eFPS - JK's Riverwood
 - Escapeweave
