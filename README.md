@@ -376,6 +376,7 @@
 
 ### Alchemy and Food Changes
 
+- Healing Poultices are now changed to Potion of Restore Health (Depleted). This is a 1h/s for 20 second potion that works just like any other healing potion. Should give these a lot more earlygame use, especially in combat. Removed all recipes for healing poultices. Bandages made out of linen wraps are still there for those who want a healing poultice effect.
 - Concentrated Poisons gives you 1 extra dose as well as 1 more at levels 50 and 100.
 - Reduced amount of oils you craft to 4 but they only cost 1 oil now. They are also unlocked with concentrated poisons instead.
 - Added new "greater oils" that you can craft with the improved poisons perk. These are twice as effective but only give 2 when crafted.
