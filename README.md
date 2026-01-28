@@ -501,8 +501,9 @@
 
 ***
 
-### Visual, Performance and WOrld Changes
+### Visual, Performance and World Changes
 
+- Added a new Extreme Visuals section of MO2 that's disabled by default. Will add more to it over time. These are mods that look great but have a very high performance cost.
 - Time of day starts at 11AM (just for better lighting)
 - Textures have been fully revamped to be more consistent. Tons and tons of redundant meshes and textures have been removed.
 - Overall size of LoreRim reduced by approximately 30-40gb
