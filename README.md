@@ -198,6 +198,7 @@
 
 ### Wintersun Changes
 
+- Got rid of all the randomized items like "Goblet of Infinite Grace". Some of these didn't work. Some were overpowered. They don't really belong.
 - I either fixed Jyggalag or made him way worse (I think I fixed the Obelisks yeeting when you die).
 - Properly made it so most sneaking-related stuff can't proc if you're wearing heavy armor per Requiem standards. Spells now properly scale duration and/or magnitude based on Requiem's "no duration scaling" or "no magnitude scaling" keywords.
 - Fixed certain dieties not calculating attack damage right (either over calculating or under calculating)
