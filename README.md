@@ -6,6 +6,7 @@
 
 - Updated most mods that had updated available. There are way too many to list.
 - Actor Value Generator
+- Actual Doors to the Alik'r Desert
 - Alternative Riften
 - Andrealletius' Disarming Overhaul
 - Andrealletius' Jobs Overhaul (AJO)
