@@ -418,7 +418,7 @@
 - Magicka is broken in Requiem. I don't mind people becoming powerful, but I did some testing and, with the right setup, was able to cast Master-level spells that had a base cost of 4,000 and 1HKO's every enemy for just 200 magicka. These changes should alleviate that.
 - Almost all instances of perk-entry based "mod spell cost multiply value" are gone. Now, most of the remaining spell cost reductions contribute to the 80% cap. TLDR "spell cost reduction" modifiers that were setup incorrectly caused people to be able to overcap.
 - Ward Mastery is unaffected by this change. Unskilled Spellcasting and Novice thru Master Skill perks are unaffected.
-- Vaermina, Syrabane and Julianos are unaffected. Bretons and Altmer are unaffected. Mystic Binding is unaffected.
+  Bretons and Altmer are unaffected. Mystic Binding is unaffected.
 - With few exceptions, most cost reduction perks in the skill trees are 0.9x (but usually are now higher magnitudes)
 - Shalidor's insights now give 200% power AND duration of spells instead of 150% power OR duration and 50% cost.
 - Battlemage Heavy Armor perk no longer provides a spell reduction buff, because that makes 0 sense than heavy armor would cast for cheaper than light armor. Now they get 10% stronger or longer lasting spells.
@@ -440,6 +440,7 @@
 - Shield of Awe is now only 25% but lasts 120 seeconds and duration scales
 - Sanity patched all fire spells to have the correct secondary effects from perks
 - Added crafting recipes for nearly every scroll and staff in LoreRim thanks to BardicNoel
+- Constellation magic spells fixed to properly scale with restoration/sun perks as well as have secondary effects to living tagets.
 
 ***
 
