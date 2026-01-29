@@ -488,6 +488,7 @@
 
 ### Difficulty Changes
 
+- Taunting ACTUALLY matters now. Both player and NPC taunting increased to 30 seconds but reduced magnitude to 10%. However, you get an increase to spells too.
 - Afflicted are buffed.
 - Forsworn aren't as resistant to arrows anymore, but now they do more physical damage and are more resistant to non-arrows
 - Several boss fights are buffed such as Isran and Mercer
