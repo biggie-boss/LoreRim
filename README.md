@@ -398,6 +398,8 @@
 - Alcohol is generally cheaper for common, low content alcohol. Spirits are more expensive. Any alcohol with a secondary buff is 3x the price of the base price.
 - All alcohol weighs .5 now instead of some being 1. Water/milk/waterskins now weigh 0.1
 - Juices and Glacier water now also hydrate. Hydration now lasts 1800 seconds.
+- Removed all of Requiem-added water and any associated recipes. Soups and stews no longer need water for crafting.
+- Removed cooked bonemeal, I don't think anybody was using it. I might revisit usefulness for bonemeal in the future. 
 
 ***
 
