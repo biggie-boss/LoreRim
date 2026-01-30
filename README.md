@@ -461,6 +461,8 @@
 
 ### Economy Changes
 
+- Boss loot is now more valuable, regular loot is not as valuable. Loot is also more thematic. WTF do Hagravens need gold for? They should have more scrolls and staves instead.
+- Diamonds and Emeralds are now especially rare. 
 - Vendors have less gold in general but it's more region specific. Rich cities will have higher gold than small towns.
 - Since vendors have less gold, some of the "sell price" perks have instead been changed to buy and sell price, but with reduces sell price.
 - In general, you will get less loot from random enemies, but loot from bosses is mostly unchanged.
@@ -479,11 +481,21 @@
 ### Perk Changes
 
 - Block: Overpowered Bashes now works with weapons too
+- Heavy Armor: Immovable buffed to 50% damage reduction but now only when attacking or casting.
 - Marksman: Piercing Shot requirement dropped to 30
 - Marksman: Penetrating Shot and Power Shotrequirement dropped to 50. However, Sneaking doesn't give penetration. Instead, it gives +10% critical hit chance and +10% critical hit damage.
 - Marksman: Power Shot damage reduced and now costs only 100 stamina. However, it should now scale properly and do actual damage (fixed bugged resistance checks).
 - Marksman: Lion's Arrow requirement dropped to 60. It also now scales by 0.5% of the base 20% per archery level. Meaning at 100 Archery it does 30% of the base spell damage.
 - Marksman: Stunning Precision requirement dropped to 75.
+- One-Handed & Two-Handed: War Axe & Battleaxe damage over time reduced by about 33% base. However, it now stacks to be 2% stronger per weapon skill.
+- One Handed: Daggers T1-T3 now up to 60% damage from behind on T3. Also, this no longer requires you to be sneaking. Gives non-sneak dagger builds more viablity and also makes it so you aren't penalized as much for breaking stealth.
+- One-Handed: Sword T1-T3 reducing enemy attack damage removed. Given 5% pen per tier instead.
+- One-Handed: Sword Disarming Blade renamed to Demotivating Blade. Changed to attacks ignore 10% armor rating and deal 50% more poise damage
+- One-Handed: Flurry reduced to 10%/20% critical hit chance. However, buffed to also give 10%/20% critical damage.
+- Two-Handed: Quarterstaves Defensive Strike buffed to "block and bash twice as much and do 25% more critical damage"
+- Two-Handed: Quarterstaves T1-T3 "stamina on hit" buffs changed to 10% power attack stamina cost reduction each tier. Buffed the crit chance to 7% each tier. This should make them way more competitive.
+- Two-Handed: Greatswords crit chance toned down. 5% per tier for the T1-T3. 10% for Reversal.
+- Two-Handed: Warhammer T1-T3 slightly toned down. Cap of up to 15% power attack damage now changed to to 10% attack damage (buffs non-PA builds). Cap of 45% armor pen now is 40%.
 
 ***
 
