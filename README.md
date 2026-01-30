@@ -103,6 +103,7 @@
 - Character Suggestor
 - Clam Oyster and Pearl Retexture
 - Clockwork - edits the navmesh of literally every city, tons of issues and instances of getting your save crash-locked if you save at a bad time.
+- clue scrolls
 - Complex Parallax Enabled (Alpha)
 - Contextual Crosshair - Crosshair and Detection Meter Fix
 - Diverse Farm Fences - Base Object Swapper
@@ -151,10 +152,11 @@
 - Skyrim on Skooma
 - Slaughterfish Eggs are Fish Eggs
 - slightly Better Hawk Feathers
-- Solitude Objects SMIMed - festival ropes
 - Snazzy Individual Mods
+- Solitude Objects SMIMed - festival ropes
 - Spell Breaker HD
 - Spellbreaker Remesh Animated ENB Light
+- Spoiled Rotten
 - Taste of Death Quest Addon - Just the Boss Fight
 - Thalmor Embassy - Texture variance - Bug fixes - Proper LOD - has a million bajillion polies
 - Tomato's Complex Parallax Material Landscapes AIO
@@ -250,6 +252,7 @@
 - Nightingale blade Absorbs 10 health/stamina over 4 seconds and slows targets by 20% over 4 seconds.
 - Nightingale bow now deals 60 points of magic damage instead of elemental and slows targets by 25% for 5 seconds.
 - Okin and Eduj now do frost/fire burst
+- Pautinich no longer scales base damage with Alteration
 - Poacher's Axe is now 25 extra damage to animals
 - Prophet's Sandals now give 100% disease resist too
 - Red Eagle's Bane is now 3 fire damage for 30 seconds and turns up to lvl 25 undead.
@@ -266,6 +269,7 @@
 - Tower of the Nine reflect damage removed. Instead gives 25% more block, 100 armor rating and wards 100 magic damage (like spellbreaker) when blocking, to mimic its Oblivion stats
 - Trueflame does 2 lingering damage for 30 seconds
 - Ulfric's and the other civil war main characters weapons are now ebony tier
+- Ward of the Seasons nerfed to 20% of each element
 - Windshear stagger is no longer almost guaranteed, but it gives you a 10% crit chance when not using a shield.
 
 ***
@@ -400,7 +404,7 @@
 - All alcohol weighs .5 now instead of some being 1. Water/milk/waterskins now weigh 0.1
 - Juices and Glacier water now also hydrate. Hydration now lasts 1800 seconds.
 - Removed all of Requiem-added water and any associated recipes. Soups and stews no longer need water for crafting.
-- Removed cooked bonemeal, I don't think anybody was using it. I might revisit usefulness for bonemeal in the future. 
+- Removed cooked bonemeal, I don't think anybody was using it. Bonemeal instead weighs only 0.25
 
 ***
 
@@ -444,6 +448,7 @@
 - Shield of Awe is now only 25% but lasts 120 seeconds and duration scales
 - Sanity patched all fire spells to have the correct secondary effects from perks
 - Added crafting recipes for nearly every scroll and staff in LoreRim thanks to BardicNoel
+- Power of the Master is now actually a master spell.
 - Constellation magic spells fixed to properly scale with restoration/sun perks as well as have secondary effects to living tagets.
 - Massive buffs to Illusion Perks:
 - Shadows of Conflict: Absorb 50% magicka regeneration from nearby enemies while shadow spells are active, +2 shadow summon limit
@@ -485,6 +490,7 @@
 - Regular fast traveling costs way more gold. Find a carriage instead.
 - Amulets of the divines have had their weight and price halved. Including from the buying amulet option.
 - Orc Strongholds now sell Bestial Stew
+- The caravan note in Whiterun is now a counterfeit note with no value.
 
 ***
 
@@ -526,6 +532,7 @@
 - Enemies above lvl 100 can no longer be disarmed
 - The Minotaur Lord is heavily buffed and he's a ghost. Bring fire or poison to stand a chance.
 - Ebony warrior (should) approach you at level 40 now
+- CC pets no longer essential, I hope they all die
 
 ***
 
