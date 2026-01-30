@@ -60,7 +60,6 @@
 - Neloth's Tentacle Spell - Experimental Subject
 - Nilheim - Misc Quest Expansion - No Infighting Bandits
 - No Load Door NPC Fade
-- Nordic UI Active Effects for SkyUI SE
 - Orc Strongholds AIO
 - Penitus Occulatus
 - Publican's Perch - A Modular Bar and Shop Counter Replacer
