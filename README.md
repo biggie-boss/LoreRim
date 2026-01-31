@@ -331,6 +331,7 @@
 - Fixed several armor keywords to make them actually do things (mostly CC stuff)
 - Ebony Mail can now be swapped between Light and Heavy variants at the forge with Legendary Blacksmithing. Also adds proper Ebony keyword to Ebony Mail.
 - Cloth padding now provides 100 armor rating if wearing no armor, 75 if wearing light and 50 if wearing heavy.
+- Saints & Seducers & Madness armor now have Daedric temperting (before it didn't have any until you did the quest, I removed the quest tempering). Amber has glass.
 
 - Craftsmanship Tier 2 Removed. All bonuses now get unlocked with the first tier.
 - Dwarven Weapons now Absorb 5 magicka instead of damaging 20 magicka.
@@ -340,7 +341,7 @@
 - Tempering Daedric/Draconic Smithing/Legendary 2.0 --> 1.5
 - Tempering Ebony/Glass Smithing 1.9 --> 1.45
 
-- Some armor passives changed (per piece). Mostly to equalize light/heavy variants:
+- Some armor passives changed (per piece). Mostly to equalize light/heavy variants.
 - Blackguard/Thieves Guild 10% Sneak
 - Amber 10 Health/20 Magicka/Stamina buff to allies, Calm enemies (lvl 3-12)
 - Madness 4% ally damage
@@ -466,6 +467,7 @@
 
 ### Survival Mode Changes
 
+- Bags of Holding only give +10 carry weight each in survival mode
 - Made Hot variants of CC fishing food recipes consistent with LoreRim (just base food + 1 troll fat)
 - Fortify warmth from food is now much shorter and cold is not restored as significantly. No more spamming food to completely bypass cold mechanics. Hot variants give triple of cold variants.
 - Eating Food now gives overall less hunger restored. Very small food gives extremely little hunger restored (you aren't gonna survive off of just cabbage). 
