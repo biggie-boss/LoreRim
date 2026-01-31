@@ -500,7 +500,7 @@
 ### Perk Changes
 
 - Block: Overpowered Bashes now works with weapons too
-- Heavy Armor: Immovable buffed to 50% damage reduction but now only when attacking or casting.
+- Heavy Armor: Immovable buffed to 50% damage reduction and when attacking or casting.
 - Marksman: Piercing Shot requirement dropped to 30
 - Marksman: Penetrating Shot and Power Shotrequirement dropped to 50. However, Sneaking doesn't give penetration. Instead, it gives +10% critical hit chance and +10% critical hit damage.
 - Marksman: Power Shot damage reduced and now costs only 100 stamina. However, it should now scale properly and do actual damage (fixed bugged resistance checks).
