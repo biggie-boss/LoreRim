@@ -383,6 +383,7 @@
 
 ### Alchemy and Food Changes
 
+- Alchemy ingredients weigh 0.4 at most.
 - Healing Poultices are now changed to Potion of Restore Health (Depleted). This is a 1h/s for 20 second potion that works just like any other healing potion. Should give these a lot more earlygame use, especially in combat. Removed all recipes for healing poultices. Bandages made out of linen wraps are still there for those who want a healing poultice effect.
 - Concentrated Poisons gives you 1 extra dose as well as 1 more at levels 50 and 100.
 - Reduced amount of oils you craft to 4 but they only cost 1 oil now. They are also unlocked with concentrated poisons instead.
@@ -422,6 +423,7 @@
 
 ### Magic Changes
 
+- Bard buff/debuff length from playing music is now tripled.
 - Magicka is broken in Requiem. I don't mind people becoming powerful, but I did some testing and, with the right setup, was able to cast Master-level spells that had a base cost of 4,000 and 1HKO's every enemy for just 200 magicka. These changes should alleviate that.
 - Almost all instances of perk-entry based "mod spell cost multiply value" are gone. Now, most of the remaining spell cost reductions contribute to the 80% cap. TLDR "spell cost reduction" modifiers that were setup incorrectly caused people to be able to overcap.
 - Ward Mastery is unaffected by this change. Unskilled Spellcasting and Novice thru Master Skill perks are unaffected.
