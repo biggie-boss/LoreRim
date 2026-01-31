@@ -451,14 +451,14 @@
 - Constellation magic spells fixed to properly scale with restoration/sun perks as well as have secondary effects to living tagets.
 - Massive buffs to Illusion Perks:
 - Shadows of Conflict: Absorb 50% magicka regeneration from nearby enemies while shadow spells are active, +2 shadow summon limit
-- Master of Shadows: Improved effect for shadow spells, 2x duration for shadow summon spells
-- Shadow Shaping: 1.2x magnitude, 1.2x duration, 0.9x cost for shadow spells
-- Deceptive Image: 20% chance to take no physical damage and 20% chance to ignore 50% of enemy's armor rating while perceptual illusion spells are active
-- Perceptual Illusions: 1.2x magnitude, 1.2x duration, 0.9x cost for perceptual spells
-- Mesmerize: Increased success chance and 1.5x duration for emotional illusion spells
-- Emotional Illusions: Increased success chance, 1.2x magnitude, 1.2x duration, 0.9x cost for emotional spells
-- Curse: 1.2x physical damage, spell magnitude, and spell duration on targets under delusive illusion effects
-- Delusive Illusions: Increased success chance, 1.2x magnitude, 1.2x duration, 0.9x cost for delusive spells
+- Master of Shadows: Improved effect for shadow spells, 4x duration for shadow summon spells
+- Shadow Shaping: 1.25x magnitude, 1.25x duration, 0.9x cost for shadow spells
+- Deceptive Image: 25% chance to take no physical damage and 25% chance to ignore 50% of enemy's armor rating while perceptual illusion spells are active
+- Perceptual Illusions: 1.25x magnitude, 1.25x duration, 0.9x cost for perceptual spells
+- Mesmerize: Increased success chance and 2x duration for emotional illusion spells
+- Emotional Illusions: Increased success chance, 1.25x magnitude, 1.25x duration, 0.9x cost for emotional spells
+- Curse: 1.25x physical damage, spell magnitude, and spell duration on targets under delusive illusion effects
+- Delusive Illusions: Increased success chance, 1.25x magnitude, 1.25x duration, 0.9x cost for delusive spells
 
 ***
 
