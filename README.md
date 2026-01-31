@@ -511,6 +511,10 @@
 - Two-Handed: Quarterstaves T1-T3 "stamina on hit" buffs changed to 10% power attack stamina cost reduction each tier. Buffed the crit chance to 7% each tier. This should make them way more competitive.
 - Two-Handed: Greatswords crit chance toned down. 5% per tier for the T1-T3. 10% for Reversal.
 - Two-Handed: Warhammer T1-T3 slightly toned down. Cap of up to 15% power attack damage now changed to to 10% attack damage (buffs non-PA builds). Cap of 45% armor pen now is 40%.
+- Finesse: Pocket sand duration increased to 20 seconds.
+- Finesse: Pocket sand slow and physical damage reduction increased to 25%
+- Finesse: Pocket sand quick sand now has T2 which deals 10 physical damage per second.
+- Finesse: Trap effects now have a small (5) AOE effect. Should hopefully make it work better against dragons.
 
 ***
 
