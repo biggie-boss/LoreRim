@@ -172,8 +172,6 @@
 - Upgradable Spells and Items - UI Resource
 - Unstack Stolen Items
 - Vampire Animations Kill Move - Can cause death issues
-- Vampire Armor Expansion - This mod is fucked beyond repair and just makes vampires little shoeless bitches. If somebody wants to patch it, be my guest, I ain't spending anymore time on this mod.
-- Vampire Clothing Expansion - I don't want this either. 
 - WiZkiD Carriages
 
 ***
@@ -305,6 +303,7 @@
 
 ### Vampire Changes
 
+- Vampire Armor and Clothing expansions are craft-only now. The way they were distributed before was janky at best. They also now require joining the Volkihar. 
 - Potions of Viscera are no longer craftable.
 - All vampires can craft elixer of blood potions with half efficiency. Being a vampire lord and taking the courts chef perk doubles the amount you receive or makes them twice as cheap.
 - 4 strange meat/human flesh to make 1 without perk, 2 with perk.
