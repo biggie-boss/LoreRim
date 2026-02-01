@@ -303,7 +303,7 @@
 
 ### Vampire Changes
 
-- Vampire Armor and clothing expansion armors are craft-only now or buy from the Volkihar merchant. They also now require joining the Volkihar. 
+- Vampire Armor and clothing expansion armors are craft-only now or buy from the Volkihar merchant. They also now require joining the Volkihar. Also, the armors are crafted with advanced blacksmithing (and benefit from advanced tempering). The heavy armor has a new "heavy vampire armor" keyword.
 - Potions of Viscera are no longer craftable.
 - All vampires can craft elixer of blood potions with half efficiency. Being a vampire lord and taking the courts chef perk doubles the amount you receive or makes them twice as cheap.
 - 4 strange meat/human flesh to make 1 without perk, 2 with perk.
