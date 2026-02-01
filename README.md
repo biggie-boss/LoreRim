@@ -172,6 +172,8 @@
 - Upgradable Spells and Items - UI Resource
 - Unstack Stolen Items
 - Vampire Animations Kill Move - Can cause death issues
+- Vampire Armor Expansion - This mod is fucked beyond repair and just makes vampires little shoeless bitches. If somebody wants to patch it, be my guest, I ain't spending anymore time on this mod.
+- Vampire Clothing Expansion - I don't want this either. 
 - WiZkiD Carriages
 
 ***
@@ -345,6 +347,7 @@
 - Blackguard/Thieves Guild 10% Sneak
 - Amber 10 Health/20 Magicka/Stamina buff to allies, Calm enemies (lvl 3-12)
 - Madness 4% ally damage
+- Crusader Heavy/Light - 7% less damage from werewolves, daedra and undead
 - Dark Seducer/Golden Saint +3/2% Speech/Magic Res
 - Chainmail/Steel Plate 12% Slash Res
 - Chitin 9% Ranged Res
