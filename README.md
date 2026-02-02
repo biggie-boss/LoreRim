@@ -91,7 +91,7 @@
 
 - 3rd Era Alchemy Equipment, Portable Enchanting, Portable Cooking (rip to the 3 people who use these)
 - Aetherium Forge Destroys Items (confuses people with the LoreRim mechanic)
-- All UI mods besides Norden, It's just too much work to maintain them all and Norden has an AIO 
+- All UI mods besides Norden, It's just too much work to maintain them all and Norden has an AIO. Not just that, Norden is quite literally the only UI mod that is compatible with EVERYTHING. All others will have at least 1 mod in LoreRim that's fully vanilla UI. 
 - Animated Armoury - Precision Whips Patch
 - Anniversary Edition Lore Friendly Cut (these were already removed anyway in my own patches, redundant)
 - Argonian Face Horns - Causes issues
