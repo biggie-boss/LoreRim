@@ -6,7 +6,6 @@
 
 - Updated most mods that had updated available. There are way too many to list.
 - Actor Value Generator
-- Actual Doors to the Alik'r Desert
 - Alternative Riften
 - Andrealletius' Disarming Overhaul
 - Andrealletius' Jobs Overhaul (AJO)
@@ -94,6 +93,7 @@
 - Aetherium Forge Destroys Items (confuses people with the LoreRim mechanic)
 - All UI mods besides Norden, It's just too much work to maintain them all and Norden has an AIO 
 - Animated Armoury - Precision Whips Patch
+- Anniversary Edition Lore Friendly Cut (these were already removed anyway in my own patches, redundant)
 - Argonian Face Horns - Causes issues
 - Attacko's Daedroths. 
 - Baby Dragon - complaints/bugs
