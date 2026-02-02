@@ -555,3 +555,15 @@
 - Several new script performance optimizations
 - Even more textures are now downscaled and mipmapped as 0 visual loss
 - Even more BSAs. This increases install time but improves performance and boot time.
+
+***
+
+### Creation Club Content Changes
+
+- Stuff that was incorrectly labeled "daedric artifacts" no longer is like stendarr's hammer (lmao), dawnfire, duskfang, cyrus' saber, etc
+- Spear of bitter mercy can now be tempered
+- Removed Arcane Archer Pack. Arrows are now craftable by default with the relevant perk. Bound Quiver and Telekenesis Tomes arrows now placed where the letter and dwemer arrow diagram books were
+- Chrysamere quest removed. Weapon now found on Ustengraav boss who is now a ghost named The Lost Paladin :) 
+- CC Pets, Dwarven Mudcrab, Nix Hound, Bone Wolf now have the quest entries hidden. You can still do the quest, you just won't get quest journal spam for it.
+- CC pets now need first smithing perk to make collars/bags
+- Nordic Jewelry quest disabled. You can craft it now with just the craftsmanship perk.
