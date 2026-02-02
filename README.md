@@ -237,7 +237,7 @@
 - Froki's Bow is now a non-disenchantable and non-breakable bow with the toxicity enchantment (for balance it has less charge than the other toxicity weapons)
 - Ghostblade now ignores 25 armor
 - Gratefull Dai Katana Renamed to Blade of Jays
-- Helmet of Graff the White now gives 20% reflect damage and 20% magic resist to make it a bit closer to the Morrowind stats
+- Helmet of Graff the White now gives 10% reflect damage and 20% magic resist to make it a bit closer to the Morrowind stats
 - Helm of Yngol is now Ebony tier and now gives 5% armor pen instead of 10% magic resist.
 - Hopefire does 40 dmg (120 to constructs)
 - Horksbane now does 500 extra damage to Horkers, Mudcrabs and Slaughterfish. Because it's funny.
