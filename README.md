@@ -527,6 +527,7 @@
 
 ### Difficulty Changes
 
+- Added separator tab with optional mods/configs/plugins to make gameplay easier (fully modular, activate whatever you'd like)
 - Taunting ACTUALLY matters now. Both player and NPC taunting increased to 30 seconds but reduced magnitude to 10%. However, you get an increase to spells too.
 - Afflicted are buffed.
 - Forsworn aren't as resistant to arrows anymore, but now they do more physical damage and are more resistant to non-arrows
