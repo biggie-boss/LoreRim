@@ -482,8 +482,9 @@
 ### Economy Changes
 
 - Boss loot is now more valuable, regular loot is not as valuable. Loot is also more thematic. WTF do Hagravens need gold for? They should have more scrolls and staves instead.
-- Diamonds and Emeralds are now especially rare. 
-- Vendors have less gold in general but it's more region specific. Rich cities will have higher gold than small towns.
+- Diamonds and Emeralds are now especially rare.
+- Draugr/Dwemer/Falmer dungeons will have little to no lockpicks in the loot tables.
+- Vendors have less gold in general but it's more region specific. Rich cities will have higher gold than small towns. This is also separated into type. Windhelm will have wealthy blacksmiths whereas Winterhold will have wealthy mages.
 - Since vendors have less gold, some of the "sell price" perks have instead been changed to buy and sell price, but with reduces sell price.
 - In general, you will get less loot from random enemies, but loot from bosses is mostly unchanged.
 - Reward from quests makes more sense. Killing dragons will still net you a lot of gold, but taking a quest to kill some random bandits or a wolf won't give as much.
