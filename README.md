@@ -31,6 +31,7 @@
 - Fix NPC PermaBlock - Final Polishes
 - Follower Dialogue Expansion - Saadia
 - Fort Fellhammer
+- HalfFaces - Imperial jail grates - remodel
 - Halffaces - Real 3D Solitude Grate
 - Higher Poly Vanilla Burnt Corpses
 - Higher Poly Vanilla Cauldrons
