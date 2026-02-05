@@ -34,6 +34,7 @@
 - Follower Dialogue Expansion - Saadia
 - Fort Fellhammer
 - Fortify Attribute Refill Fix
+- Frost Atronach SE
 - Halffaces - Chests - remodel
 - Halffaces - Imperial jail grates - remodel
 - Halffaces - Real 3D Solitude Grate
@@ -81,6 +82,7 @@
 - SpellBreaker Rework (Mesh Only)
 - Skeleton Replacer HD - DLC2 Forge Clutter Add On
 - Skybound
+- Storm Atronach SE
 - TB's Improved Dust Particles
 - Tel Mithryn Overhaul - Exterior and Interior Improvements
 - The Book of Love - Fastred's Awakening
