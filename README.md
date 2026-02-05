@@ -17,6 +17,7 @@
 - Better Argonian Horns for HHBB
 - Better Optimized Solitude Meshes
 - Bigger Fishing Rods for CC Fishing
+- BMered goat horns
 - City Bag Checks
 - Container Weight Restrictions
 - Critters of Kynareth
