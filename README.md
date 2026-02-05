@@ -29,6 +29,7 @@
 - Escapeweave
 - Exterior Wooden Table Variants - Base Object Swapper
 - Festival Rings - Animated
+- First Person Height Fix SKSE
 - FIXED Highpoly Nordic Metal Grate
 - Fix NPC PermaBlock - Final Polishes
 - Follower Dialogue Expansion - Saadia
