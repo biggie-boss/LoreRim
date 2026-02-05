@@ -22,6 +22,7 @@
 - Critters of Kynareth
 - Dawnguard Robes
 - Delayed Start Mods by AndrealletiusVIII - Mind of Madness, Taste of Death, Forsworn Conspriacy, House of Horrors, Mind of Madness, CC Fishing (All except for Fishing are lvl 20 requirement)
+- Dialogue Tweak - Eorlund Gray-Mane
 - Embers XD - Glow Maps for ENB
 - eFPS - JK's Riverwood
 - Escapeweave
@@ -34,6 +35,7 @@
 - Halffaces - Chests - remodel
 - Halffaces - Imperial jail grates - remodel
 - Halffaces - Real 3D Solitude Grate
+- Halffaces - Trophy Pedestals - remodel
 - Higher Poly Vanilla Burnt Corpses
 - Higher Poly Vanilla Cauldrons
 - Higher Poly Vanilla Dragon Skeleton and Bone Clutter
