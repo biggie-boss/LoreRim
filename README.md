@@ -33,6 +33,7 @@
 - Fix NPC PermaBlock - Final Polishes
 - Follower Dialogue Expansion - Saadia
 - Fort Fellhammer
+- Fortify Attribute Refill Fix
 - Halffaces - Chests - remodel
 - Halffaces - Imperial jail grates - remodel
 - Halffaces - Real 3D Solitude Grate
