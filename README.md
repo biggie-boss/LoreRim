@@ -20,6 +20,7 @@
 - Better Optimized Solitude Meshes
 - Bigger Fishing Rods for CC Fishing
 - BMered goat horns
+- Carcette Expanded
 - City Bag Checks
 - Container Weight Restrictions
 - Critters of Kynareth
