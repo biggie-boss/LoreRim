@@ -35,6 +35,7 @@
 - FIXED Highpoly Nordic Metal Grate
 - Fix NPC PermaBlock - Final Polishes
 - Follower Dialogue Expansion - Saadia
+- Followers React to Crafting
 - Fort Fellhammer
 - Fortify Attribute Refill Fix
 - Frost Atronach SE
@@ -64,6 +65,7 @@
 - Katria's Legacy - Publish the Aetherium Forge
 - Lexicon SKSE
 - Locally made Planters - Planter Diversity
+- Luscious Mara's Eye - A Pond Overhaul
 - Military Camps Begone
 - Nature of the Wild Lands - Dawnguard Additions
 - Neloth's Tentacle Spell - Experimental Subject
@@ -74,6 +76,7 @@
 - Press E to Heal Followers SKSE
 - Publican's Perch - A Modular Bar and Shop Counter Replacer
 - Real Burnt Astrid
+- Redwater Brewery - An Overhaul
 - Requiem - Exhaustion and Stamina Fix
 - Sanguine Sundries - A Vampire Clutter Replacer
 - SD's Horn Candles SE 2k
@@ -87,10 +90,14 @@
 - SpellBreaker Rework (Mesh Only)
 - Skeleton Replacer HD - DLC2 Forge Clutter Add On
 - Skybound
+- Stonehollow Overhaul for Wyrmstooth
+- Snowpoint Dungeon
+- Solstheim Abandoned Lodge - Overhaul
 - Storm Atronach SE
 - TB's Improved Dust Particles
 - Tel Mithryn Overhaul - Exterior and Interior Improvements
 - The Book of Love - Fastred's Awakening
+- The Chantry - An Overhaul
 - Through the Woods - Alternate Perspective Addon
 - Tomato's Riften
 - Unmarked Locations Pack - Wyrmstooth Addon
