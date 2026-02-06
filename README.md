@@ -71,6 +71,7 @@
 - No Load Door NPC Fade
 - Orc Strongholds AIO
 - Penitus Occulatus
+- Press E to Heal Followers SKSE
 - Publican's Perch - A Modular Bar and Shop Counter Replacer
 - Real Burnt Astrid
 - Requiem - Exhaustion and Stamina Fix
