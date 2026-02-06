@@ -11,6 +11,7 @@
 - Andrealletius' Jobs Overhaul (AJO)
 - Animated Objects Overhauled
 - Argonian Head Mesh Minor Adjustments
+- Augur of Dunlain Revoiced
 - AutoExec Console Commands
 - Avanchnzel Dwemer Piston Sound Hotfix
 - Baan Malur - A Landscape Overhaul
@@ -24,6 +25,7 @@
 - Dawnguard Robes
 - Delayed Start Mods by AndrealletiusVIII - Mind of Madness, Taste of Death, Forsworn Conspriacy, House of Horrors, Mind of Madness, CC Fishing (All except for Fishing are lvl 20 requirement)
 - Dialogue Tweak - Eorlund Gray-Mane
+- Don't Hate Me - Taking Care of Business - CHECK AGAIN IF UPDATING
 - Embers XD - Glow Maps for ENB
 - eFPS - JK's Riverwood
 - Escapeweave
@@ -72,6 +74,7 @@
 - Publican's Perch - A Modular Bar and Shop Counter Replacer
 - Real Burnt Astrid
 - Requiem - Exhaustion and Stamina Fix
+- Sanguine Sundries - A Vampire Clutter Replacer
 - SD's Horn Candles SE 2k
 - Shout Recovery Utilities
 - Simple Diving System (SDS)
