@@ -24,6 +24,7 @@
 - Container Weight Restrictions
 - Critters of Kynareth
 - Dawnguard Robes
+- Dead By Dining - Show in UI
 - Delayed Start Mods by AndrealletiusVIII - Mind of Madness, Taste of Death, Forsworn Conspriacy, House of Horrors, Mind of Madness, CC Fishing (All except for Fishing are lvl 20 requirement)
 - Dialogue Tweak - Eorlund Gray-Mane
 - Don't Hate Me - Taking Care of Business - CHECK AGAIN IF UPDATING
@@ -87,6 +88,7 @@
 - Skyking Alchemy Ingredients
 - Skyking Carriages
 - Skyking Imperial Forts
+- SkyPrompt
 - Smelters for Riften and Solitude
 - Snazzy AIO mods
 - SpellBreaker Rework (Mesh Only)
