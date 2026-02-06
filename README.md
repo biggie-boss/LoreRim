@@ -5,6 +5,7 @@
 ### Added
 
 - Updated most mods that had updated available. There are way too many to list.
+- 1st-person weapon check (changed idle time to 15s instead of 5)
 - Actor Value Generator
 - Alternative Riften
 - Andrealletius' Disarming Overhaul
@@ -55,6 +56,7 @@
 - Immersive Dialogue Expansion - Thalmor
 - Immersive Nightgate Inn dialogue
 - Improved Sparks
+- Ivy's Stendarr's Beacon Overhaul
 - JK's Raven Rock
 - JK's Tel Mithryn
 - JS Solitude Sewer Cover SE
