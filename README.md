@@ -89,6 +89,7 @@
 - Skyking Carriages
 - Skyking Imperial Forts
 - SkyPrompt
+- Skyrim Revoiced
 - Smelters for Riften and Solitude
 - Snazzy AIO mods
 - SpellBreaker Rework (Mesh Only)
