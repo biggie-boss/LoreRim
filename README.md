@@ -103,6 +103,7 @@
 - Through the Woods - Alternate Perspective Addon
 - Tomato's Riften
 - Unmarked Locations Pack - Wyrmstooth Addon
+- Unmasking Sybille - Dialogue Tweak
 - Vanaheimr - Farmhouses - Complex Material and PBR
 - Vanaheimr - Northern Roads - Complex Material and PBR
 - Vittorias Alternate Wedding
