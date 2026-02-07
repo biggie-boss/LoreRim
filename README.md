@@ -56,6 +56,8 @@
 - Higher Poly Vanilla Oil Lamp Trap
 - Higher Poly Vanilla Windcaller Tomb and Horn
 - Honor Thy Word - Saint Jiub Opus Epilogue
+- Horse Jump Fix
+- Horsepower - Modernized Horse Riding
 - I Just Want to Sit Down and Read
 - Immersive Dialogue Expansion - Thalmor
 - Immersive Nightgate Inn dialogue
