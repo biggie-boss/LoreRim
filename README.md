@@ -28,6 +28,7 @@
 - Dead By Dining - Show in UI
 - Delayed Start Mods by AndrealletiusVIII - Mind of Madness, Taste of Death, Forsworn Conspriacy, House of Horrors, Mind of Madness, CC Fishing (All except for Fishing are lvl 20 requirement)
 - Dialogue Tweak - Eorlund Gray-Mane
+- Don't Eat Spell Tomes (API)
 - Don't Hate Me - Taking Care of Business - CHECK AGAIN IF UPDATING
 - Embers XD - Glow Maps for ENB
 - eFPS - JK's Riverwood
@@ -85,6 +86,7 @@
 - Real Burnt Astrid
 - Redwater Brewery - An Overhaul
 - Requiem - Exhaustion and Stamina Fix
+- Rite of Arcana
 - Sanguine Sundries - A Vampire Clutter Replacer
 - SD's Horn Candles SE 2k
 - Shout Recovery Utilities
