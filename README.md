@@ -113,6 +113,7 @@
 - The Chantry - An Overhaul
 - Through the Woods - Alternate Perspective Addon
 - Tomato's Riften
+- True Directional Movement Mounted Archery Fix
 - Unmarked Locations Pack - Wyrmstooth Addon
 - Unmasking Sybille - Dialogue Tweak
 - Vanaheimr - Farmhouses - Complex Material and PBR
