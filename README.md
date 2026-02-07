@@ -112,8 +112,6 @@
 - The Book of Love - Fastred's Awakening
 - The Chantry - An Overhaul
 - Through the Woods - Alternate Perspective Addon
-- Thundertrot Horse Animations
-- Thundertrot Directional Move
 - Tomato's Riften
 - True Directional Movement Mounted Archery Fix
 - Unmarked Locations Pack - Wyrmstooth Addon
