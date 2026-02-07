@@ -55,8 +55,10 @@
 - Higher Poly Vanilla Oil Lamp Trap
 - Higher Poly Vanilla Windcaller Tomb and Horn
 - Honor Thy Word - Saint Jiub Opus Epilogue
+- I Just Want to Sit Down and Read
 - Immersive Dialogue Expansion - Thalmor
 - Immersive Nightgate Inn dialogue
+- Immersive Spell Learning - DESTified
 - Improved Sparks
 - Ivy's Stendarr's Beacon Overhaul
 - JK's Raven Rock
@@ -67,6 +69,7 @@
 - Kanjs - Sigil of the Black Covenant (see artifacts section)
 - Kanjs - Smooth and artifact-free gradient
 - Katria's Legacy - Publish the Aetherium Forge
+- Knockback SKSE (For BFCO and MCO Users)
 - Lexicon SKSE
 - Locally made Planters - Planter Diversity
 - Luscious Mara's Eye - A Pond Overhaul
