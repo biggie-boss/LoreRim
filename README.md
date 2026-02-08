@@ -23,6 +23,7 @@
 - Carcette Expanded
 - City Bag Checks
 - Container Weight Restrictions
+- College of Winterhold's Welcome Gift
 - Critters of Kynareth
 - Dawnguard Robes
 - Dead By Dining - Show in UI
