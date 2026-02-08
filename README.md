@@ -30,6 +30,7 @@
 - Dialogue Tweak - Eorlund Gray-Mane
 - Don't Eat Spell Tomes (API)
 - Don't Hate Me - Taking Care of Business - CHECK AGAIN IF UPDATING
+- E.C.D. Every Cloud Different NAT Add On
 - Embers XD - Glow Maps for ENB
 - eFPS - JK's Riverwood
 - Escapeweave
@@ -77,6 +78,8 @@
 - Locally made Planters - Planter Diversity
 - Luscious Mara's Eye - A Pond Overhaul
 - Military Camps Begone
+- NAT III ENB Weather - Soul Cairn Weather Improvements
+- NAT III Weather - From Dusk Till Dawn - Every Cloud Different - SLFR - Bizarre Shadow Fix - Compatibility Patch
 - Nature of the Wild Lands - Dawnguard Additions
 - Neloth's Tentacle Spell - Experimental Subject
 - Nilheim - Misc Quest Expansion - No Infighting Bandits
@@ -107,6 +110,7 @@
 - Snowpoint Dungeon
 - Solstheim Abandoned Lodge - Overhaul
 - Storm Atronach SE
+- Sunrises and Sunsets NAT Addon from dusk till dawn
 - TB's Improved Dust Particles
 - Tel Mithryn Overhaul - Exterior and Interior Improvements
 - The Book of Love - Fastred's Awakening
