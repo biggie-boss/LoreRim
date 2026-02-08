@@ -166,6 +166,7 @@
 - Mine Doors Redone
 - Moonsugar HD
 - More Scars - A Slider for Racemenu - Causes Issues
+- NAT ENB Bizarre Shadow Fix
 - NPC Infinite Block Fix - SkyPatched
 - Olenveld - complaints of repetitiveness, excessive bugs, entire objects missing from the worldspace, doesn't appear to be updated still
 - Orc Strongholds Individual mods
