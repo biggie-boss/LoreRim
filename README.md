@@ -85,6 +85,7 @@
 - Neloth's Tentacle Spell - Experimental Subject
 - Nilheim - Misc Quest Expansion - No Infighting Bandits
 - No Load Door NPC Fade
+- Oblivion Interaction Icons - Phoenix's Patches
 - Orc Strongholds AIO
 - Penitus Occulatus
 - Press E to Heal Followers SKSE
@@ -102,6 +103,7 @@
 - Skyking Imperial Forts
 - SkyPrompt
 - Skyrim Revoiced
+- Skyrim's Got Talent - Show in UI (Visual Improvements)
 - Smelters for Riften and Solitude
 - Snazzy AIO mods
 - SpellBreaker Rework (Mesh Only)
