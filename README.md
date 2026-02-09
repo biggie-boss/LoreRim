@@ -45,6 +45,7 @@
 - Fort Fellhammer
 - Fortify Attribute Refill Fix
 - Frost Atronach SE
+- Frozen Electrocuted Combustion (As an optional gameplay mod as it can be visually inconsistent and I don't wanna see reports lol)
 - Halffaces - Chests - remodel
 - Halffaces - Imperial jail grates - remodel
 - Halffaces - Real 3D Solitude Grate
