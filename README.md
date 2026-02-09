@@ -118,6 +118,7 @@
 - Tel Mithryn Overhaul - Exterior and Interior Improvements
 - The Book of Love - Fastred's Awakening
 - The Chantry - An Overhaul
+- Tilael - Follower
 - Through the Woods - Alternate Perspective Addon
 - Tomato's Riften
 - True Directional Movement Mounted Archery Fix
