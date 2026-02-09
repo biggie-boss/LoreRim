@@ -568,7 +568,7 @@
 
 ### Difficulty Changes
 
-- Silver once again burns vampires/werewolves/liches even if you have gauntlets on. People were saying "oh it doesn't make sense because you can have silver armor/jewelry on. That's true. So now silver armor and jewelry burns you too :)
+- Silver once again burns vampires/werewolves/liches even if you have gauntlets on. People were saying "oh it doesn't make sense because you can have silver armor on. That's true. So now silver armor burns you too! I didn't do Jewelry because because so many mages circlets re-use silver templates.
 - Added separator tab with optional mods/configs/plugins to make gameplay easier (fully modular, activate whatever you'd like)
 - Taunting ACTUALLY matters now. Both player and NPC taunting increased to 30 seconds but reduced magnitude to 10%. However, you get an increase to spells too.
 - Afflicted are buffed.
