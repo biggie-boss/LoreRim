@@ -16,6 +16,7 @@
 - AutoExec Console Commands
 - Avanchnzel Dwemer Piston Sound Hotfix
 - Baan Malur - A Landscape Overhaul
+- Betalille's Hammerfell Quests Bundle - The Gray Cowl of Nocturnal
 - Better Argonian Horns for HHBB
 - Better Optimized Solitude Meshes
 - Bigger Fishing Rods for CC Fishing
