@@ -79,6 +79,7 @@
 - Lexicon SKSE
 - Locally made Planters - Planter Diversity
 - Luscious Mara's Eye - A Pond Overhaul
+- Miasma
 - Military Camps Begone
 - NAT III ENB Weather - Soul Cairn Weather Improvements
 - NAT III Weather - From Dusk Till Dawn - Every Cloud Different - SLFR - Bizarre Shadow Fix - Compatibility Patch
@@ -119,6 +120,7 @@
 - Tel Mithryn Overhaul - Exterior and Interior Improvements
 - The Book of Love - Fastred's Awakening
 - The Chantry - An Overhaul
+- The Forsworn Conspiracy - Quest Expansion
 - Tilael - Follower
 - Through the Woods - Alternate Perspective Addon
 - Tomato's Riften
