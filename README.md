@@ -12,6 +12,7 @@
 - Andrealletius' Jobs Overhaul (AJO)
 - Animated Objects Overhauled
 - Argonian Head Mesh Minor Adjustments
+- Armory Extended - Saints and Seducers
 - Augur of Dunlain Revoiced
 - AutoExec Console Commands
 - Avanchnzel Dwemer Piston Sound Hotfix
