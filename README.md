@@ -128,6 +128,7 @@
 - Through the Woods - Alternate Perspective Addon
 - Tomato's Riften
 - True Directional Movement Mounted Archery Fix
+- Tundra Homestead - Tweaks and Enhancements (THTE)
 - Unmarked Locations Pack - Wyrmstooth Addon
 - Unmasking Sybille - Dialogue Tweak
 - Vanaheimr - Farmhouses - Complex Material and PBR
