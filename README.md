@@ -599,6 +599,8 @@
 - The Minotaur Lord is heavily buffed and he's a ghost. Bring fire or poison to stand a chance.
 - Ebony warrior (should) approach you at level 40 now
 - CC pets no longer essential, I hope they all die
+- Couple of books removed from Helgen Keep
+- Korir no longer wears full dragonscale lmao
 - Removed For Honor parrying. First of all, it constantly triggers when you don't want it to. Second of all, it causes friendly npcs to go crazy. Last, it's a 0 damage mechanic that isn't available in first person and requires no investment.
 
 ***
