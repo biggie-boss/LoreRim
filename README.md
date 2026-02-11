@@ -538,19 +538,34 @@
 - Boss loot is now more valuable, regular loot is not as valuable. Loot is also more thematic. WTF do Hagravens need gold for? They should have more scrolls and staves instead.
 - Diamonds and Emeralds are now especially rare.
 - Draugr/Dwemer/Falmer dungeons will have little to no lockpicks in the loot tables.
-- Vendors have less gold in general but it's more region specific. Rich cities will have higher gold than small towns. This is also separated into type. Windhelm will have wealthy blacksmiths whereas Winterhold will have wealthy mages.
-- Since vendors have less gold, some of the "sell price" perks have instead been changed to buy and sell price, but with reduces sell price.
-- In general, you will get less loot from random enemies, but loot from bosses is mostly unchanged.
+- In general, you will get less gold/gem/jewelry loot from enemies and small tier chests. However, boss chest loot is greatly increased.
 - Reward from quests makes more sense. Killing dragons will still net you a lot of gold, but taking a quest to kill some random bandits or a wolf won't give as much.
 - Many quests now give either randomized or thematic rewards. For example a quest tied to killing necromancers might give restoration staves/tomes.
 - Cost of fast traveling has been greatly increased. It's not better to use a carriage.
 - Hearthfire home prices for addons are now their vanilla price. It didn't make sense to kill Drelas for free but have to pay insane amounts of money for a little homestead.
 - Vendors take longer to respawn
 - Horses are cheaper.
-- Regular fast traveling costs way more gold. Find a carriage instead.
 - Amulets of the divines have had their weight and price halved. Including from the buying amulet option.
 - Orc Strongholds now sell Bestial Stew
 - The caravan note in Whiterun is now a counterfeit note with no value.
+
+- All Vendor Gold Amounts Tweaked to be based on region with poor/average/rich tiers. Investor perk changed to account for this.
+  
+- Produce: 10/20/30
+- Butcher: 20/40/60
+- Street Vendor: 40/70/100
+- Innkeeper: 70/110/150
+- General goods: 110/160/210
+- Apothecary: 160/220/280
+- Blacksmith: 220/290/360
+- Wizard: 290/370/450
+- Unique (Mudcrab/Dremora): 500
+
+- Next vendor low = previous vendor avg
+- Each tier variance goes up multiples of 10 between vendor types
+- All gold can vary within itself by 50% (e.g. poor produce vendor could have 5 gold or 15 gold).
+
+Investment: 250
 
 ***
 
