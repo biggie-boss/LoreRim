@@ -45,6 +45,7 @@
 - Fix NPC PermaBlock - Final Polishes
 - Follower Dialogue Expansion - Saadia
 - Followers React to Crafting
+- Forsaken Crypt
 - Fort Fellhammer
 - Fortify Attribute Refill Fix
 - Frost Atronach SE
