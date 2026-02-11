@@ -33,6 +33,7 @@
 - Dialogue Tweak - Eorlund Gray-Mane
 - Don't Eat Spell Tomes (API)
 - Don't Hate Me - Taking Care of Business - CHECK AGAIN IF UPDATING
+- Dragon's Teeth Prison - A Dungeon Mod
 - EasierRider's Dungeon Pack - A lot of these are broken. Not just that, it causes tons of conflicts with (IMO) better mods.
 - E.C.D. Every Cloud Different NAT Add On
 - Embers XD - Glow Maps for ENB
