@@ -126,7 +126,6 @@
 - The Book of Love - Fastred's Awakening
 - The Chantry - An Overhaul
 - The Cursed Tribe - Quest Expansion
-- The Forsworn Conspiracy - Quest Expansion
 - Tilael - Follower
 - Through the Woods - Alternate Perspective Addon
 - Tomato's Riften
