@@ -167,6 +167,7 @@
 - Dynamic Climb-Able Ladder Doors - buggy
 - EasierRider's Dungeon Pack - A lot of these are broken. Not just that, it causes tons of conflicts with (IMO) better mods.
 - Eating Animations and Sounds SE
+- Echoes of Oblivion - not technically lore friendly, some of the npcs were annoying and/or broken plus some of the AI voice was terrible
 - Fixed Nordic Metal Grate
 - Fortified Whiterun
 - Halffaces - small edit of Farmbencht
@@ -176,6 +177,7 @@
 - Horse Jump Fix
 - Ghostblade Truly Unique (model only)
 - Grand Champion Gear (Bittercup) - Ebony Styled Retexture
+- Grass Fixes for Creation Club Mods - Almost entirely redundant
 - Imperial Forts Parallax Meshes
 - Jesper, I kinda like him and the author is chill but a lot of folks want him removed due to singing and whatnot. 
 - JS Helm of Yngol SE
