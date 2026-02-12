@@ -622,8 +622,6 @@ Winterhold
 - Rich: Wizard
 - Poor: Food, Innkeeper, Apothecary
 
-Investment: 250
-
 ***
 
 ### Perk Changes
