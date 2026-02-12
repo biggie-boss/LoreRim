@@ -80,6 +80,7 @@
 - Kanjs - Sigil of the Black Covenant (see artifacts section)
 - Kanjs - Smooth and artifact-free gradient
 - Katria's Legacy - Publish the Aetherium Forge
+- Khajiit Has Tents
 - Knockback SKSE (For BFCO and MCO Users)
 - Lexicon SKSE
 - Locally made Planters - Planter Diversity
