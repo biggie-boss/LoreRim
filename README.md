@@ -63,7 +63,6 @@
 - Higher Poly Vanilla Oil Lamp Trap
 - Higher Poly Vanilla Windcaller Tomb and Horn
 - Honor Thy Word - Saint Jiub Opus Epilogue
-- Horse Jump Fix
 - Horses Specular Fix for Fluffworks Quality (Fluffy Animals)
 - Horsepower - Modernized Horse Riding
 - I Just Want to Sit Down and Read
@@ -168,6 +167,7 @@
 - Halffaces - a few ugly ingredients AiO
 - High Quality Food and Ingredients SE
 - Holy Templar Magic - Skypatched
+- Horse Jump Fix
 - Ghostblade Truly Unique (model only)
 - Grand Champion Gear (Bittercup) - Ebony Styled Retexture
 - Imperial Forts Parallax Meshes
