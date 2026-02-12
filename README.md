@@ -34,7 +34,6 @@
 - Don't Eat Spell Tomes (API)
 - Don't Hate Me - Taking Care of Business - CHECK AGAIN IF UPDATING
 - Dragon's Teeth Prison - A Dungeon Mod
-- EasierRider's Dungeon Pack - A lot of these are broken. Not just that, it causes tons of conflicts with (IMO) better mods.
 - E.C.D. Every Cloud Different NAT Add On
 - Embers XD - Glow Maps for ENB
 - eFPS - JK's Riverwood
@@ -141,6 +140,8 @@
 
 ### Removed (Unless otherwise specific, they are due to redundancies)
 
+- Removed any optional mods that have bugs, I just don't think it's a good idea with the new dashboard.
+
 - 3rd Era Alchemy Equipment, Portable Enchanting, Portable Cooking (rip to the 3 people who use these)
 - Aetherium Forge Destroys Items (confuses people with the LoreRim mechanic)
 - All UI mods besides Norden, It's just too much work to maintain them all and Norden has an AIO. Not just that, Norden is quite literally the only UI mod that is compatible with EVERYTHING. All others will have at least 1 mod in LoreRim that's fully vanilla UI. 
@@ -161,6 +162,7 @@
 - Diverse Woodchopping Blocks - Textures
 - Dunmer Dreams - A Dark Elf Bed Replacer
 - Dunmer Settlement of Tel Mithryn
+- EasierRider's Dungeon Pack - A lot of these are broken. Not just that, it causes tons of conflicts with (IMO) better mods.
 - Eating Animations and Sounds SE
 - Fixed Nordic Metal Grate
 - Halffaces - small edit of Farmbencht
