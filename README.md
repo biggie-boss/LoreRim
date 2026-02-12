@@ -64,6 +64,7 @@
 - Higher Poly Vanilla Windcaller Tomb and Horn
 - Honor Thy Word - Saint Jiub Opus Epilogue
 - Horse Jump Fix
+- Horses Specular Fix for Fluffworks Quality (Fluffy Animals)
 - Horsepower - Modernized Horse Riding
 - I Just Want to Sit Down and Read
 - Immersive Dialogue Expansion - Thalmor
