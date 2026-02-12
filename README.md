@@ -688,6 +688,7 @@ Winterhold
 - Several new script performance optimizations
 - Even more textures are now downscaled and mipmapped as 0 visual loss
 - Even more BSAs. This increases install time but improves performance and boot time.
+- Earthquakes no longer cause the cowering effect
 
 ***
 
