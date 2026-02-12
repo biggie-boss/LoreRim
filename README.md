@@ -549,21 +549,78 @@
 - Orc Strongholds now sell Bestial Stew
 - The caravan note in Whiterun is now a counterfeit note with no value.
 
-- All Vendor Gold Amounts Tweaked to be based on region with poor/average/rich tiers. Investor perk changed to account for this.
+- All Vendor Gold Amounts Tweaked to be based on region with poor/average/rich tiers.
   
-- Produce: 10/20/30
-- Butcher: 20/40/60
-- Street Vendor: 40/70/100
-- Innkeeper: 70/110/150
-- General goods: 110/160/210
-- Apothecary: 160/220/280
-- Blacksmith: 220/290/360
-- Wizard: 290/370/450
-- Unique (Mudcrab/Dremora): 500
+**Gold Amounts per Vendor:**
 
-- Next vendor low = previous vendor avg
-- Each tier variance goes up multiples of 10 between vendor types
-- All gold can vary within itself by 50% (e.g. poor produce vendor could have 5 gold or 15 gold).
+Lowest Tier 20/40/60
+Second Lowest Tier: 40/70/100
+Food: 70/110/150
+Innkeeper: 110/160/210
+Apothecary: 160/220/280
+General & Clothing: 220/290/360
+Blacksmith & Fletcher: 290/370/450
+Wizard: 370/460/550
+Unique (Mudcrab/Dremora): 750
+
+- Street vendors (the vendors sitting under market stalls) are usually 1 below their respective indoor store merchant's gold, 2 for street vendors outside of the city walls. Exception for Raven Rock.
+- All Caravans are general merchant rich. All guilds are average. All Solstheim, Stronghold and Spouse merchants are poor. Modded merchants vary depending on estimated wealth.
+- Town gold is always 1 level below the hold capital's merchant gold (Belethor averages 290 base gold so Lucan will average 220). Not impacted if hold capital is poor already in the category..
+- For math nerds, each gold entry is entered at 2x what is shown above with 50% chance of none. For those who don't understand standard deviation, the upper and lower range USUALLY varies by approximately -33% or +33% of the listed amounts. So a merchant with 100 gold will usually have between 67 and 133 gold, but most of the time it will be close to 100. 
+
+Gold to Invest: 250
+Merchant gold gained from investing: 100
+
+**City Variation**
+
+City Specialties Dictate Tiers. 
+General wealth dictates buy/sell prices (higher buy/sell in wealthy, lower buy/sell in poor).
+Low wealth capitals are poor in 3 goods, rich in 1. Medium wealth capitals are rich in 2, poor in 2. Wealthy capitals are poor in 1, rich in 3.
+
+Solitude:
+- General Wealth: High
+- Rich: General, Innkeeper, Wizard
+- Poor: Food
+
+Whiterun 
+- General Wealth: High
+- Rich: Food, Apothecary, Innkeeper
+- Poor: Wizard
+
+Markarth 
+- General Wealth: High
+- Rich: Blacksmith, Apothecary, General
+- Poor: Innkeeper
+
+Riften
+- General Wealth: Medium
+- Rich: Innkeeper, Food
+- Poor: Apothecary, Wizard
+
+Windhelm 
+- General Wealth: Medium
+- Rich: Blacksmith, Wizard
+- Poor: Food, General
+
+Falkreath
+- General Wealth: Medium
+- Rich: Food, Apothecary
+- Poor: Innkeeper, Blacksmith
+
+Dawnstar
+- General Wealth: Low
+- Rich: Blacksmith
+- Poor: Food, Innkeeper, Wizard
+
+Morthal
+- General Wealth: Low
+- Rich: Apothecary
+- Poor: General, Innkeeper, Blacksmith
+
+Winterhold
+- General Wealth: Low
+- Rich: Wizard
+- Poor: Food, Innkeeper, Apothecary
 
 Investment: 250
 
