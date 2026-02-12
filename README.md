@@ -183,6 +183,7 @@
 - Kabu's Fire Salts
 - Kanjs - Bird Nests and Eggs
 - KrittaKitty's Realistic Primative Horse Breeds - Port Update Fluff
+- Landscape and Water Fixes - almost entirely redundant plus needs a metric ton of patches
 - Mark Books as Unread
 - Mine Doors Redone
 - Moonsugar HD
