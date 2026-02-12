@@ -184,6 +184,7 @@
 - Kabu's Frost Salts
 - Kabu's Fire Salts
 - Kanjs - Bird Nests and Eggs
+- Khajiit Has Wares
 - KrittaKitty's Realistic Primative Horse Breeds - Port Update Fluff
 - Landscape and Water Fixes - almost entirely redundant plus needs a metric ton of patches
 - Mark Books as Unread
