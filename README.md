@@ -168,6 +168,7 @@
 - EasierRider's Dungeon Pack - A lot of these are broken. Not just that, it causes tons of conflicts with (IMO) better mods.
 - Eating Animations and Sounds SE
 - Fixed Nordic Metal Grate
+- Fortified Whiterun
 - Halffaces - small edit of Farmbencht
 - Halffaces - a few ugly ingredients AiO
 - High Quality Food and Ingredients SE
