@@ -175,6 +175,7 @@
 - Kabu's Frost Salts
 - Kabu's Fire Salts
 - Kanjs - Bird Nests and Eggs
+- KrittaKitty's Realistic Primative Horse Breeds - Port Update Fluff
 - Mark Books as Unread
 - Mine Doors Redone
 - Moonsugar HD
