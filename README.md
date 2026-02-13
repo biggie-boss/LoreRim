@@ -220,6 +220,7 @@
 - Snazzy Individual Mods
 - Solitude Objects SMIMed - festival ropes
 - Spell Breaker HD
+- Spell Classes
 - Spellbreaker Remesh Animated ENB Light
 - Spoiled Rotten
 - Taste of Death Quest Addon - Just the Boss Fight
