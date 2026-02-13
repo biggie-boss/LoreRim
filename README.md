@@ -309,6 +309,7 @@
 - Horksbane now does 500 extra damage to Horkers, Mudcrabs and Slaughterfish. Because it's funny.
 - Ice Blade of the Monarch charge increased
 - KotN weapons lingering damage increased to 15 seconds
+- Kru'uls Fang can now be crafted into 30 arrows or bolts that have the same stats as dragonborn arrows/bolts of ice (but available earlier since it only requires arcane craftsmanship)
 - Light of day now deals 20 sun damage, 60 to regular undead and 100 to vampires
 - Magebane now absorbs 100 magicka instead of removing your magicka and dealing 500 damage to enemy magicka
 - Mentor's RIng should be available on that one necromancer again
@@ -334,6 +335,7 @@
 - Tower of the Nine reflect damage removed. Instead gives 25% more block, 100 armor rating and wards 100 magic damage (like spellbreaker) when blocking, to mimic its Oblivion stats
 - Trueflame does 2 lingering damage for 30 seconds
 - Ulfric's and the other civil war main characters weapons are now ebony tier
+- Ulik's Hide can now be used to create unique "Elemental" cloth padding which provides 50 armor rating, 5% resist to all elements as well as a tier 2 ranged resist (only way afaik to get it while unarmored)
 - Ward of the Seasons nerfed to 20% of each element
 - Windshear stagger is no longer almost guaranteed, but it gives you a 10% crit chance when not using a shield.
 
