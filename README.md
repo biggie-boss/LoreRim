@@ -298,6 +298,7 @@
 - Dark Moon enchantment now always decreases half as much health as it increases magicka
 - Drainspell (called spectral in requiem) weapons now... drain spells lmao. They absorb similar to a chaos enchantment (all 3 attributes) but with 2/3 the effectiveness as before
 - Dragon's Oath absorbs 15 stamina
+- Ebony Mail is now light ebony armor.
 - Eye of Melka now does 60 damage instead of 80 and AOE reduced from 15 to 5, but the lingering effect is buffed from 4 over 4 seconds to  6 over 20 seconds.
 - Firiniel's End is now a non-disenchantable frostburst bow (same enchant you get from experimentation in enchanting tree)
 - Fork of Horripilation now does 72 base crit damage despite only have 1 base damage lmao.
@@ -387,7 +388,7 @@
 
 - Silver weapons with a secondary material type should no longer have weird tempering values.
 - Fixed Ebony Light armor not gaining the ebony bonus correctly.
-- No longer possible to manually select smithing perks that are free from reading books, this will prevent people from accidently wasting perk points. Only Smithing Specialization and Iron Lore require perks.
+- No longer possible to manually select smithing perks that are free from reading books, this will prevent people from accidently wasting perk points. Only Smithing Specialization and Iron Lore require perks. Every crafting-related smithing perk now has a book.
 - Added smithing book for tailoring to the radiant rainment
 - Saint Jiub's Opus teaches Legendary Blacksmithing. Should give more of a reason to actually do it.
 - Trad "Shivering Isles Smithing" removed. All recipes are now Daedric (since it is Daedric stuff, even the quality is essentially Daedric light). 
@@ -396,11 +397,10 @@
 - All "Quicksilver" Weapons/Armors renamed back to Nordic
 - Skyforge Steel weapons are now their own material type. Passively, they do 10% more poise damage. 
 - All Fortify Smithing enchantments changed to Fortify Reflect enchantments (reflect % physical damage). Unique artifacts may still have smithing enchant.
-- Upgrade kits no longer require wood to make. Because that makes no sense to me. They also last for 3600 seconds instead of 1800.
+- Upgrade kits no longer require wood to make. Because that makes no sense to me. They also give a flat 5% bonus across the board instead of scaling with smithing skill (makes them actually useful early game)
 - Fixed LoreBox mistakes/missing entries
 - Fixed several armor keywords to make them actually do things (mostly CC stuff)
-- Ebony Mail can now be swapped between Light and Heavy variants at the forge with Legendary Blacksmithing. Also adds proper Ebony keyword to Ebony Mail.
-- Cloth padding now provides 100 armor rating if wearing no armor, 75 if wearing light and 50 if wearing heavy.
+- Cloth padding now provides 100 armor rating if wearing no armor
 - Saints & Seducers & Madness armor now have Daedric temperting (before it didn't have any until you did the quest, I removed the quest tempering). Amber has glass.
 
 - Craftsmanship Tier 2 Removed. All bonuses now get unlocked with the first tier.
@@ -641,10 +641,11 @@ Winterhold
 
 ***
 
-### Perk Changes
+### Perk & Birthsign Changes
 
 - Block: Overpowered Bashes now works with weapons too
 - Heavy Armor: Immovable buffed to 50% damage reduction and when attacking or casting.
+- Evasion: Meteoric Reflexes is now 50% chance to take 50% damage instead of 0 damage.
 - Marksman: Piercing Shot requirement dropped to 30
 - Marksman: Penetrating Shot and Power Shotrequirement dropped to 50. However, Sneaking doesn't give penetration. Instead, it gives +10% critical hit chance and +10% critical hit damage.
 - Marksman: Power Shot damage reduced and now costs only 100 stamina. However, it should now scale properly and do actual damage (fixed bugged resistance checks).
@@ -663,11 +664,15 @@ Winterhold
 - Finesse: Pocket sand slow and physical damage reduction increased to 25%
 - Finesse: Pocket sand quick sand now has T2 which deals 10 physical damage per second.
 - Finesse: Trap effects now have a small (5) AOE effect. Should hopefully make it work better against dragons.
+- Birthsign: The lover is now 25% chance to take half physical damage. Speech buff removed because nobody cares and stamina regen removed to debloat and give more use to the Steed. Added 15% better illusion spells. Buffed shouts to be 15% stronger and 20% stronger when mastering speech.
+- Birthsign: The lady is now +30 health and magicka, +50% health/magicka regen (double when mastering a warrior OR mage skills) and no exertion penalty from running.
+- Birthsign: The steed carry weight buffed to 30. Swapped the stamina and stamina recovery so you get the recovery earlier and the added stamina later.
 
 ***
 
-### Difficulty Changes
+### Difficulty & Combat Changes
 
+- Meteoric Reflexes is now 50% chance to take 50% damage instead of 0 damage.
 - Silver once again burns vampires/werewolves/liches even if you have gauntlets on. People were saying "oh it doesn't make sense because you can have silver armor on. That's true. So now silver armor burns you too! I didn't do Jewelry because because so many mages circlets re-use silver templates.
 - Added separator tab with optional mods/configs/plugins to make gameplay easier (fully modular, activate whatever you'd like)
 - Taunting ACTUALLY matters now. Both player and NPC taunting increased to 30 seconds but reduced magnitude to 10%. However, you get an increase to spells too.
@@ -715,4 +720,5 @@ Winterhold
 - Chrysamere quest removed. Weapon now found on Ustengraav boss who is now a ghost named The Lost Paladin :) 
 - CC Pets, Dwarven Mudcrab, Nix Hound, Bone Wolf now have the quest entries hidden. You can still do the quest, you just won't get quest journal spam for it.
 - CC pets now need first smithing perk to make collars/bags
+- Ma'dran now wears the Ring of Masser
 - Nordic Jewelry quest disabled. You can craft it now with just the craftsmanship perk.
