@@ -23,6 +23,7 @@
 - Better Argonian Horns for HHBB
 - Better Optimized Solitude Meshes
 - Bigger Fishing Rods for CC Fishing
+- Block Commitment Overhaul SKSE
 - BMered goat horns
 - Carcette Expanded
 - City Bag Checks
