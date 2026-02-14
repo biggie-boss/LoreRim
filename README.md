@@ -52,6 +52,7 @@
 - Fort Fellhammer
 - Fortify Attribute Refill Fix
 - Frost Atronach SE
+- Goat Leg Remade (Fluffy) - Leg of goat mesh and texture replacer
 - Halffaces - Chests - remodel
 - Halffaces - Imperial jail grates - remodel
 - Halffaces - Real 3D Solitude Grate
