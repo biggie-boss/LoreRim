@@ -672,6 +672,7 @@ Winterhold
 
 ### Difficulty & Combat Changes
 
+- Lurker no longer deals damage from its breath if you have at least 75 poison resist OR if you're blocking. The base damage damage is also cut by 1/3
 - Meteoric Reflexes is now 50% chance to take 50% damage instead of 0 damage.
 - Silver once again burns vampires/werewolves/liches even if you have gauntlets on. People were saying "oh it doesn't make sense because you can have silver armor on. That's true. So now silver armor burns you too! I didn't do Jewelry because because so many mages circlets re-use silver templates.
 - Added separator tab with optional mods/configs/plugins to make gameplay easier (fully modular, activate whatever you'd like)
