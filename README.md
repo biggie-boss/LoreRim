@@ -673,6 +673,10 @@ Winterhold
 
 ### Difficulty & Combat Changes
 
+- Stances changed to make each more varied and useful with meaningful combat-related pros and cons.
+- High Stance: You ruthlessly attack enemies. Attacks penetrate through 20% of enemy armor but you also take 20% more physical damage.
+- Medium Stance: You balance and focus on finding weaknesses. Gain 10% higher critical change and critical damage, but deal 10% less physical damage.
+- Low Stance: You brutally decimate staggered foes. Gain 30% poise damage and deal 30% more damage to staggered enemies, but enemy poise damage increased by 30%.
 - Lurker no longer deals damage from its breath if you have at least 75 poison resist OR if you're blocking. The base damage damage is also cut by 1/3
 - Meteoric Reflexes is now 50% chance to take 50% damage instead of 0 damage.
 - Silver once again burns vampires/werewolves/liches even if you have gauntlets on. People were saying "oh it doesn't make sense because you can have silver armor on. That's true. So now silver armor burns you too! I didn't do Jewelry because because so many mages circlets re-use silver templates.
