@@ -664,7 +664,7 @@ Winterhold
 - Finesse: Pocket sand slow and physical damage reduction increased to 25%
 - Finesse: Pocket sand quick sand now has T2 which deals 10 physical damage per second.
 - Finesse: Trap effects now have a small (5) AOE effect. Should hopefully make it work better against dragons.
-- Birthsign: The lover is now 25% chance to take half physical damage. Speech buff removed because nobody cares and stamina regen removed to debloat and give more use to the Steed. Added 15% better illusion spells. Buffed shouts to be 15% stronger and 20% stronger when mastering speech.
+- Birthsign: The lover is now 25% chance to take half physical damage. Speech buff removed because nobody cares and stamina regen removed to debloat and give more use to the Steed. Added 15% better prices. Buffed shouts to be 15% stronger and 20% stronger when mastering speech.
 - Birthsign: The lady is now +30 health and magicka, +50% health/magicka regen (double when mastering a warrior OR mage skills) and no exertion penalty from running.
 - Birthsign: The steed carry weight buffed to 30. Swapped the stamina and stamina recovery so you get the recovery earlier and the added stamina later.
 
