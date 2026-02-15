@@ -194,6 +194,7 @@
 - Khajiit Has Wares
 - KrittaKitty's Realistic Primative Horse Breeds - Port Update Fluff
 - Landscape and Water Fixes - almost entirely redundant plus needs a metric ton of patches
+- Magicka Surge - This is basically a crutch spell for people who don't even want to pay attention to magicka. In my opinion, it single-handedly makes a lot of mechanics pointless. 
 - Mark Books as Unread
 - Mine Doors Redone
 - Moonsugar HD
