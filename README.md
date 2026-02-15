@@ -46,6 +46,7 @@
 - First Person Height Fix SKSE
 - FIXED Highpoly Nordic Metal Grate
 - Fix NPC PermaBlock - Final Polishes
+- Follower Dialogue Expansion - Olfina Gray-Mane
 - Follower Dialogue Expansion - Saadia
 - Followers React to Crafting
 - Forsaken Crypt
@@ -182,6 +183,7 @@
 - Ghostblade Truly Unique (model only)
 - Grand Champion Gear (Bittercup) - Ebony Styled Retexture
 - Grass Fixes for Creation Club Mods - Almost entirely redundant
+- Immersive Dialogue Expansion - Whiterun
 - Imperial Forts Parallax Meshes
 - Jesper, I kinda like him and the author is chill but a lot of folks want him removed due to singing and whatnot. 
 - JS Helm of Yngol SE
