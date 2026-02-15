@@ -106,6 +106,7 @@
 - Redwater Brewery - An Overhaul
 - Requiem - Exhaustion and Stamina Fix
 - Rite of Arcana
+- Saadia to Iman - Dynamic Name Change
 - Sanguine Sundries - A Vampire Clutter Replacer
 - SD's Horn Candles SE 2k
 - Shout Recovery Utilities
