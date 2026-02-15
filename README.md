@@ -89,7 +89,6 @@
 - Lexicon SKSE
 - Locally made Planters - Planter Diversity
 - Luscious Mara's Eye - A Pond Overhaul
-- Melana the War Maiden - An Evolving Custom Voiced Follower
 - Miasma
 - Military Camps Begone
 - NAT III ENB Weather - Soul Cairn Weather Improvements
