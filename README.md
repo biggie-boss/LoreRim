@@ -662,6 +662,7 @@ Winterhold
 
 ### Perk & Birthsign Changes
 
+- New capstone perks added for level 100 Destruction for Arcane, Entropic and Blood magic.
 - Block: Overpowered Bashes now works with weapons too
 - Heavy Armor: Immovable buffed to 50% damage reduction and when attacking or casting.
 - Evasion: Meteoric Reflexes is now 50% chance to take 50% damage instead of 0 damage.
