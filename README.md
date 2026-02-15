@@ -679,6 +679,7 @@ Winterhold
 
 ### Difficulty & Combat Changes
 
+- Shrine blessings no longer cure diseases
 - Stances changed to make each more varied and useful with meaningful combat-related pros and cons.
 - High Stance: You ruthlessly attack enemies. Attacks penetrate through 20% of enemy armor but you also take 20% more physical damage.
 - Medium Stance: You balance and focus on finding weaknesses. Gain 10% higher critical change and critical damage, but deal 10% less physical damage.
