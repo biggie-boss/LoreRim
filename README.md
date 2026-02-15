@@ -230,6 +230,7 @@
 - Spell Classes
 - Spellbreaker Remesh Animated ENB Light
 - Spoiled Rotten
+- ST - Disarm Shout Replacer
 - Taste of Death Quest Addon - Just the Boss Fight
 - Thalmor Embassy - Texture variance - Bug fixes - Proper LOD - has a million bajillion polies
 - Tomato's Complex Parallax Material Landscapes AIO
@@ -489,6 +490,18 @@
 
 ### Shout Changes
 
+- Battle Fury now works! Although it's changed to allies dealing 15/25/35% more weapon damage and taking the same amount less physical damage.
+- Throw voice CDR reduced.
+- Marked for death now works on NPCS regardless of their magic resist. Players can still resist with high enough magic resist (25/50/75 per rank)
+- Dismay now works on slightly higher level enemies (50 at max) which should make it not as trash since a lot of strong enemies are level 50.
+- Disarm shout now disarms again (through the mechanics of Andraellitus overhaul)
+- Call of Valor duration increased by 50%. CD increased by 33%.
+- Clear Sky Duration doubled. CD increased by 60% of vanilla (still actually less than it is currently lol)
+- Aura Whisper's Duration and interior range increased. Basically perma-effect even without shout CDR.
+- Predator's Might is now 45s at all stages and has a longer cooldown, but reverted the amount of the buff back to vanilla Requiem.
+- Drain vitality duration cut down by 1/2. However, it is now an absorb effect.
+- Dragonrend cooldown but also how long they are grounded for both increased by roughly 20%.
+- Fire Breath no longer spawns Wyrms. Damage slightly increased to compensate.
 - Shouts now have cooldown caps. By default, Requiem sets shouts to cost 50% more, which decreases as you learn more words. Essentially you start with 1.5x cost and would normally need 150% cooldown reduction to reach 0.
 - Base shout cooldown cap is now 140% for wearing clothes, 135% for wearing light armor and 130% for wearing heavy armor. Wearing 3 or more pieces of the Greybeard set allows you to reach 150% cap (or 0 cooldown shouts).
 - Greybeard robes now give 15% shout cooldown reduction each, up from 10. Boots give 25 T2 stamina +50%, Robes give 25 T2 Health, Hood gives 25 T2 Magicka, and each gives +50% of the corresponding regen.
@@ -496,7 +509,7 @@
 - Ancient Nord of the Tongue pieces now give 15% shout cooldown each, up from 10.
 - Storm Call now is an aimed shout that does health/stamina damage over 12 seconds, twice as much to constructs. At rank 2-3 it also gives the classic Storm Call effect, giving it more utility. Storm call no longer targets allies.
 - Plague Breath damage doubled but recovery time increased by 50%
-- Slow Time shout now lasts twice as long but has double the cooldown and slows time by a little less than below.
+- Slow Time shout cooldown greatly increased, effect is lower across the board. However, duration is increased at stage 2 and 3.
 
 ***
 
