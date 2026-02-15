@@ -37,6 +37,7 @@
 - Don't Eat Spell Tomes (API)
 - Don't Hate Me - Taking Care of Business - CHECK AGAIN IF UPDATING
 - Dragon's Teeth Prison - A Dungeon Mod
+- Dynamic Bloodpool Framework
 - E.C.D. Every Cloud Different NAT Add On
 - Embers XD - Glow Maps for ENB
 - eFPS - JK's Riverwood
