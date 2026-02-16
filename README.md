@@ -543,6 +543,7 @@
 - Added crafting recipes for nearly every scroll and staff in LoreRim thanks to BardicNoel
 - Power of the Master is now actually a master spell.
 - Constellation magic spells fixed to properly scale with restoration/sun perks as well as have secondary effects to living tagets.
+- Bounce no longer scales in magnitude, only duration. Before it scaled in both which caused insane power creep.
 - Massive buffs to Illusion Perks:
 - Shadows of Conflict: Absorb 50% magicka regeneration from nearby enemies while shadow spells are active, +2 shadow summon limit
 - Master of Shadows: Improved effect for shadow spells, 4x duration for shadow summon spells
