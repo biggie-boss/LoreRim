@@ -71,6 +71,7 @@
 - Horses Specular Fix for Fluffworks Quality (Fluffy Animals)
 - Horsepower - Modernized Horse Riding
 - I Just Want to Sit Down and Read
+- Immersive 3D Leaves
 - Immersive Dialogue Expansion - Thalmor
 - Immersive Nightgate Inn dialogue
 - Immersive Spell Learning - DESTified
