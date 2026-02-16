@@ -23,6 +23,7 @@
 - Better Argonian Horns for HHBB
 - Better Optimized Solitude Meshes
 - Bigger Fishing Rods for CC Fishing
+- Block Cancel Fix
 - Block Commitment Overhaul SKSE
 - BMered goat horns
 - Carcette Expanded
@@ -123,6 +124,7 @@
 - SpellBreaker Rework (Mesh Only)
 - Skeleton Replacer HD - DLC2 Forge Clutter Add On
 - Skybound
+- Steal off Scoundrels - Pickpocketing Criminals is Not Stealing
 - Stonehollow Overhaul for Wyrmstooth
 - Snowpoint Dungeon
 - Solstheim Abandoned Lodge - Overhaul
