@@ -685,9 +685,20 @@ Winterhold
 - Finesse: Pocket sand slow and physical damage reduction increased to 25%
 - Finesse: Pocket sand quick sand now has T2 which deals 10 physical damage per second.
 - Finesse: Trap effects now have a small (5) AOE effect. Should hopefully make it work better against dragons.
-- Birthsign: The lover is now 25% chance to take half physical damage. Speech buff removed because nobody cares and stamina regen removed to debloat and give more use to the Steed. Added 15% better prices. Buffed shouts to be 15% stronger and 20% stronger when mastering speech.
-- Birthsign: The lady is now +30 health and magicka, +50% health/magicka regen (double when mastering a warrior OR mage skills) and no exertion penalty from running.
-- Birthsign: The steed carry weight buffed to 30. Swapped the stamina and stamina recovery so you get the recovery earlier and the added stamina later.
+- Birthsign capstone abilities removed. They railroaded builds too much, most people wouldn't reach level 50+ anyway and by that level they didn't feel impactful. Instead, birthsigns are generally buffed at level 1 and aimed to be true to their lore descriptions.
+- Birthsign: The Atronach: Magicka increases by 300, do not lose magicka when hit, absorb chance increased by 25%, you cannot naturally regenerate magicka.
+- Birthsign: The Apprentice: Magic weakness increased by 25%, magicka regenerates an extra 5 per second, spells are 20% cheaper.
+- Birthsign: The Lover: 25% chance to take half damage, prices are 15% better. Shouts are 20% stronger.
+- Birthsign: The Lady: Health and Magicka increase by 40 and regenerate 80% faster, you can run or swim without exertion.
+- Birthsign: The Lord: Gain 15% Magic Resist and <50 armor rating, restore 1.5 health per second, gain 30% Weakness to Fire.
+- Birthsign: The Mage: Magicka increases by 150. Spells are 30% stronger and longer lasting when over 50% magicka.
+- Birthsign: The Ritual: Soul Gems restore 50% more charge. Daedric and Divine blessings are 50% stronger. Standing Stones effects are 200% stronger.
+- Birthsign: The Serpent: Armor penetration with all weapons is increased by 15, poison deals 50% less damage to you, most paralysis effects don't adversely affect you, you receive Serpent's Curse power. (I buffed the damage on the power)
+- Birthsign: The Shadow: You are 50% harder to detect, you can sneak without proficiency, movement noise is 30% quieter, you receive Moonshadow power.
+- Birthsign: The Steed: Movement is 10 percent faster and 20 percent when sprinting, stamina increased by 60, restore 1 stamina per second, most slow effects don't affect you.
+- Birthsign: The Thief: Pickpocketing is 50% easier, you are 40% harder to detect, move 20% faster when sneaking and can sneak without proficiency, 20% chance to avoid physical damage, 1% chance to take 50% more.
+- Birthsign: The Tower: Gain more gold when killing enemies, 50 more carryweight, lockpicking expertise is increased by 4, you can pick effortless locks in plain sight without being noticed, reflect 20% physical damage.
+- Birthsign: The Warrior: Health increases by 60, all weapons deal 10% more damage, armor penetration with all weapons is increased by 10 unarmed strikes do 10 additional damage.
 
 ***
 
