@@ -616,10 +616,10 @@ Merchant gold gained from investing: 100
 **City Variation**
 
 City Specialties Dictate Tiers. 
-General wealth dictates buy/sell prices. Medium is average. High wealth holds have 20% higher buying prices and selling prices. Poor holds and Solstheim have 20% lower buying prices and selling prices.
+General wealth dictates buy/sell prices. Medium is average. High wealth holds have 15% higher buying prices and selling prices. Poor holds and Solstheim have 15% lower buying prices and selling prices.
 Low wealth capitals are poor in 3 goods, rich in 1. Medium wealth capitals are rich in 2, poor in 2. Wealthy capitals are poor in 1, rich in 3.
 There are also events that trigger based on questlines that cause prices to fluctuate.
-Each good a hold is "rich" in has 20% lower selling and buying prices. Every good that a hold is "poor" in has 20% higher buying and selling prices. The key of how these are organized is listed below.
+Each good a hold is "rich" in has 15% lower selling and buying prices. Every good that a hold is "poor" in has 15% higher buying and selling prices. The key of how these are organized is listed below.
 
 Solitude:
 - General Wealth: High
@@ -665,8 +665,6 @@ Winterhold
 - General Wealth: Low
 - Rich: Wizard
 - Poor: Food, Innkeeper, Apothecary
-
-Each good a hold is "rich" in has 20% lower selling and buying prices. Every good that a hold is "poor" in has 20% higher buying and selling prices.
 
 - Blacksmith: Ore, Ingot, Weapon, Jewelry, Daedric Artifact, Armor
 - Wizard: Staff, Tome, Soul Gem, Scroll (Magical Items)
