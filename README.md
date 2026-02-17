@@ -571,7 +571,30 @@
 - Eating Food now gives overall less hunger restored. Very small food gives extremely little hunger restored (you aren't gonna survive off of just cabbage). 
 - Some food hunger restore amounts tweaked to make more sense. Food made more consistent based on type (fruit, vegetable, red meat, white meat, fish, dessert, bread, cheese, soups)
 - Some food given keywords for different mechanics added/plan to be added (Like Jephre getting buffs from eating meat).
-- All needs (hunger/cold/exhaustion) don't trigger the first stage as fast, stage 2 is equal to SMI, but stages 3, 4 and 5 come quicker.
+- Needs don't trigger the first stage as fast, stage 2 is equal to SMI, but stages 3, 4 and 5 come quicker.
+
+Survival Effects:
+
+- "Well rested/fed/etc" is considered stage 0. 
+- Stage 4/5 have increased magnitude of stage 3 effects. 
+- Getting to stage 5 on thirst/hunger/cold will start draining your health rapidly and stunt your ability to heal via potions and magic. 
+- Keep in mind, stage 0 and 1 bonuses are slight, not overpowering. They are meant to give a small benefit to maintaining your needs while not causing severe power creep.
+
+Comfort:
+- Warmth gives disease and elemental resistance.
+- Hypothermia stage 3 reduces disease and elemental resistance. Stage 4 also reduces magical resistance and armor rating.
+
+Exhaustion:
+- Rested gives a magicka regeneration boost (flat) and reduces incoming hostile spell damage.
+- Exhaustion stage 3 reduces magicka regeneration and spell effectiveness. Stage 4 also reduces crafting and haggling ability.
+
+Hunger:
+- Fed gives a health regeneration boost (flat) and reduces incoming physical damage.
+- Hunger stage 3 reduces health regeneration and increases incoming damage. Stage 4 also reduces warding and blocking ability.
+
+Thirst: 
+- Hydration gives a stamina regeneration boost (flat) and makes food buffs more effective
+- Thirst stage 3 reduces stamina regeneration and movement speed. Stage 4 also reduces weapon effectiveness and increases power attack cost.
 
 ***
 
@@ -747,7 +770,6 @@ Major Questlines Price Changes
 - Afflicted are buffed.
 - Forsworn aren't as resistant to arrows anymore, but now they do more physical damage and are more resistant to non-arrows
 - Several boss fights are buffed such as Isran and Mercer
-- Exhaustion penalties are now based on stamina percentage being less than 10% instead of stamina being less than 10.
 - Sinding SIGNIFICANTLY buffed to make the Savior's Hide a proper endgame item. He now has more health, more stamina, more damage resist, less weak to poison that regular werewolves, 30% magic resist and a powerful health regen that only stops while under the effects of harmful poison.
 - Buffed Baan Maluur creatures
 - Some areas (particularly starter dungeons near riverwood/whiterun) have had enemy spawns slightly lowered. 
