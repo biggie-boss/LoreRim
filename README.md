@@ -667,7 +667,7 @@ Winterhold
 - Poor: Food, Innkeeper, Apothecary
 
 - Blacksmith: Ore, Ingot, Weapon, Jewelry, Daedric Artifact, Armor
-- Wizard: Staff, Tome, Soul Gem, Scroll (Magical Items)
+- Wizard: Staff, Tome, Soul Gem, Scroll 
 - Food: Raw Food, Arrow, Animal Part, Animal Hide
 - Innkeeper: Food, Firewood
 - Apothecary: Recipe, Potion, Poison, Ingredient
