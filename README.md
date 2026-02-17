@@ -621,57 +621,71 @@ Low wealth capitals are poor in 3 goods, rich in 1. Medium wealth capitals are r
 There are also events that trigger based on questlines that cause prices to fluctuate.
 Each good a hold is "rich" in has 15% lower selling and buying prices. Every good that a hold is "poor" in has 15% higher buying and selling prices. The key of how these are organized is listed below.
 
-Solitude:
+**Solitude**
 - General Wealth: High
 - Rich: General, Innkeeper, Wizard
 - Poor: Food
 
-Whiterun 
+**Whiterun** 
 - General Wealth: High
 - Rich: Food, Apothecary, Innkeeper
 - Poor: Wizard
 
-Markarth 
+**Markarth**
 - General Wealth: High
 - Rich: Blacksmith, Apothecary, General
 - Poor: Innkeeper
 
-Riften
+**Riften**
 - General Wealth: Medium
 - Rich: Innkeeper, Food
 - Poor: Apothecary, Wizard
 
-Windhelm 
+**Windhelm**
 - General Wealth: Medium
 - Rich: Blacksmith, Wizard
 - Poor: Food, General
 
-Falkreath
+**Falkreath**
 - General Wealth: Medium
 - Rich: Food, Apothecary
 - Poor: Innkeeper, Blacksmith
 
-Dawnstar
+**Dawnstar**
 - General Wealth: Low
 - Rich: Blacksmith
 - Poor: Food, Innkeeper, Wizard
 
-Morthal
+**Morthal**
 - General Wealth: Low
 - Rich: Apothecary
 - Poor: General, Innkeeper, Blacksmith
 
-Winterhold
+**Winterhold**
 - General Wealth: Low
 - Rich: Wizard
 - Poor: Food, Innkeeper, Apothecary
 
+**Key**
 - Blacksmith: Ore, Ingot, Weapon, Jewelry, Daedric Artifact, Armor
 - Wizard: Staff, Tome, Soul Gem, Scroll 
 - Food: Raw Food, Arrow, Animal Part, Animal Hide
 - Innkeeper: Food, Firewood
 - Apothecary: Recipe, Potion, Poison, Ingredient
 - General: Tool, Key, Clutter, Book, Clothing
+
+**Major Questlines Price Changes**
+
+- During main quests, prices will be 5% higher to buy/sell and then 10% lower to buy/sell once completed:
+
+- Main Quest (MQ102 start) - Tools, Firewood, Misc/Clutter, Animal Hides, Animal Parts
+- Civil War - Weapons, Armor, Arrows
+- College of Winterhold (MG04 start) - Spell Tomes, Scrolls, Staves
+- Thieves Guild - Jewelry, Gems, Clothing
+- Companions - Silver Ingots, Silver Weapons, Cure Disease Potions
+- Dark Brotherhood - Soul Gems, Poisons, Ingredients, Recipes
+- Dawnguard DLC (DLC1VQ00 start) - Potions, Crossbows 
+- Dragonborn DLC - All goods in Solstheim 
 
 ***
 
