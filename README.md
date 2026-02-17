@@ -616,8 +616,10 @@ Merchant gold gained from investing: 100
 **City Variation**
 
 City Specialties Dictate Tiers. 
-General wealth dictates buy/sell prices (higher buy/sell in wealthy, lower buy/sell in poor).
+General wealth dictates buy/sell prices. Medium is average. High wealth cities have 15% higher buying prices and selling prices. Poor cities, Solstheim and Orc Strongholds have 15% lower buying prices and selling prices.
 Low wealth capitals are poor in 3 goods, rich in 1. Medium wealth capitals are rich in 2, poor in 2. Wealthy capitals are poor in 1, rich in 3.
+Each good a city is "rich" in has 15% lower selling and buying prices. Every good that a city is "poor" in has 15% higher buying and selling prices.
+There are also events that trigger based on questlines that cause prices to fluctuate.
 
 Solitude:
 - General Wealth: High
