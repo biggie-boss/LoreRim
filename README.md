@@ -476,7 +476,6 @@
 - Powders got the same treatment as above, but they don't have a tier 2 version. They also use glow dust now instead of dwarven oil.
 - Due to the changes to powders/oils being buffed, they only give 4 when crafted.
 - Added "Cursed Daedra Hearts". These have powerful alchemy effects, even compared to regular daedra hearts. However, they cannot be used for smithing. Killing a Daedra now usually yields a cursed heart (since LoreRim has so many damn new daedra). Hand-placed hearts from Requiem are unaffected. Most mod-placed hearts are replaced by Cursed Daedra hearts.
-- Healing poultices are weaker and shorter duration but now work in combat and have a higher AOE for companions. Same applies with linen bandages.
 - Damage magicka/stamina potions suck, nobody uses these. Now they do 1/4 of the magicka or stamina damage to health as well.
 - Fortify Jump potions also nullify fall damage
 - Fairies (which already drop unique ingredients) now also drop soul gems. Also removed most exterior fairies.
