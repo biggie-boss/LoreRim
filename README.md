@@ -28,6 +28,7 @@
 - BMered goat horns
 - Carcette Expanded
 - City Bag Checks
+- Civil War F Off - No Season Unending
 - Container Weight Restrictions
 - College of Winterhold's Welcome Gift
 - Critters of Kynareth
