@@ -39,6 +39,7 @@
 - Don't Eat Spell Tomes (API)
 - Don't Hate Me - Taking Care of Business - CHECK AGAIN IF UPDATING
 - Dragon's Teeth Prison - A Dungeon Mod
+- Dvs' Civil War Fixes
 - Dynamic Bloodpool Framework
 - E.C.D. Every Cloud Different NAT Add On
 - Embers XD - Glow Maps for ENB
@@ -56,11 +57,13 @@
 - Fort Fellhammer
 - Fortify Attribute Refill Fix
 - Frost Atronach SE
+- Frozen Heart - Quest Mod
 - Goat Leg Remade (Fluffy) - Leg of goat mesh and texture replacer
 - Halffaces - Chests - remodel
 - Halffaces - Imperial jail grates - remodel
 - Halffaces - Real 3D Solitude Grate
 - Halffaces - Trophy Pedestals - remodel
+- HDT SMP FLex
 - Higher Poly Vanilla Burnt Corpses
 - Higher Poly Vanilla Cauldrons
 - Higher Poly Vanilla Dragon Skeleton and Bone Clutter
@@ -90,6 +93,7 @@
 - Khajiit Has Tents
 - Knockback SKSE (For BFCO and MCO Users)
 - Lexicon SKSE
+- Lingering Subtitles Fix
 - Locally made Planters - Planter Diversity
 - Luscious Mara's Eye - A Pond Overhaul
 - Miasma
@@ -118,6 +122,7 @@
 - Skyking Carriages
 - Skyking Imperial Forts
 - SkyPrompt
+- Skyrim Mounted Movesets
 - Skyrim Revoiced
 - Skyrim's Got Talent - Show in UI (Visual Improvements)
 - Smelters for Riften and Solitude
@@ -179,6 +184,7 @@
 - Eating Animations and Sounds SE
 - Echoes of Oblivion - not technically lore friendly, some of the npcs were annoying and/or broken plus some of the AI voice was terrible
 - Elsopa HD Grindstones
+- Faster HDT SMP
 - Fixed Nordic Metal Grate
 - Fortified Whiterun
 - Halffaces - small edit of Farmbencht
