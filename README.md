@@ -5,6 +5,7 @@
 ### Added
 
 - An entire optional difficulty section to disable many of the changes in 5.0 that make gameplay more difficult.
+- Many NPC appearances changed, mostly from Weelbones and EF Edit (mahbo1)
 
 - Updated most mods that had updated available. There are way too many to list.
 - 1st-person weapon check (changed idle time to 15s instead of 5)
