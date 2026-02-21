@@ -27,7 +27,6 @@
 - Block Cancel Fix
 - Block Commitment Overhaul SKSE
 - BMered goat horns
-- Carcette Expanded
 - City Bag Checks
 - Civil War F Off - No Season Unending
 - Container Weight Restrictions
