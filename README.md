@@ -8,8 +8,12 @@
 - Many NPC appearances changed, mostly from Weelbones and EF Edit (mahbo1)
 
 - Updated most mods that had updated available. There are way too many to list.
+- 1st Person FOV and Tween Menu Fix SKSE
+- 1st Person Motion Sickness Remover
+- 1st Random Weapon Check - Sword
 - 1st-person weapon check (changed idle time to 15s instead of 5)
 - Actor Value Generator
+- Aggro Management in Skyrim
 - Alternative Riften
 - Andrealletius' Disarming Overhaul
 - Andrealletius' Jobs Overhaul (AJO)
@@ -17,7 +21,11 @@
 - Argonian Head Mesh Minor Adjustments
 - Armory Extended - Saints and Seducers
 - Augur of Dunlain Revoiced
+- Auto Follower Stuck Sneaking Fix SKSE
+- Auto Physics Reset
+- Auto Skeleton Patch - Universal Behaviour Runtime
 - AutoExec Console Commands
+- Automatic Follower Teleporter NG
 - Avanchnzel Dwemer Piston Sound Hotfix
 - Baan Malur - A Landscape Overhaul
 - Betalille's Hammerfell Quests Bundle - The Gray Cowl of Nocturnal
@@ -27,10 +35,15 @@
 - Block Cancel Fix
 - Block Commitment Overhaul SKSE
 - BMered goat horns
+- Bow Animation Fix - no more string on the wrong side
+- Bristleback Boars of Skyrim - HD replacer
+- Bruma - Applewatch - Next Of Kin - Draconis Family Lore Friendly Graves
 - City Bag Checks
 - Civil War F Off - No Season Unending
-- Container Weight Restrictions
+- Cold Breath NG
 - College of Winterhold's Welcome Gift
+- Container Weight Restrictions
+- Copy Paste In Menus
 - Critters of Kynareth
 - Dawnguard Robes
 - Dead By Dining - Show in UI
@@ -39,17 +52,23 @@
 - Don't Eat Spell Tomes (API)
 - Don't Hate Me - Taking Care of Business - CHECK AGAIN IF UPDATING
 - Dragon's Teeth Prison - A Dungeon Mod
-- Dvs' Civil War Fixes
 - Dynamic Bloodpool Framework
+- Dynamic Footprints Skse (Removed regular Footprints mod)
+- Dynamic Wind - Skyrim & Framework
+- Dvs' Civil War Fixes
 - E.C.D. Every Cloud Different NAT Add On
-- Embers XD - Glow Maps for ENB
 - eFPS - JK's Riverwood
+- Embers XD - Glow Maps for ENB
 - Escapeweave
 - Exterior Wooden Table Variants - Base Object Swapper
+- Faster Decompression
 - Festival Rings - Animated
 - First Person Height Fix SKSE
+- First-Person Snowy Weather Animation
 - FIXED Highpoly Nordic Metal Grate
 - Fix NPC PermaBlock - Final Polishes
+- Follower Dialogue Expansion - Lisette
+- Follower Dialogue Expansion - Marcurio (FDE)
 - Follower Dialogue Expansion - Olfina Gray-Mane
 - Follower Dialogue Expansion - Saadia
 - Followers React to Crafting
@@ -75,12 +94,14 @@
 - Honor Thy Word - Saint Jiub Opus Epilogue
 - Horses Specular Fix for Fluffworks Quality (Fluffy Animals)
 - Horsepower - Modernized Horse Riding
+- HOUSE OF WARRIORS - Immersive Dialogue Expansion - Jorrvaskr (Companions)
 - I Just Want to Sit Down and Read
 - Immersive 3D Leaves
 - Immersive Dialogue Expansion - Thalmor
 - Immersive Nightgate Inn dialogue
 - Immersive Spell Learning - DESTified
 - Improved Sparks
+- Item Stacking Tweaks SKSE
 - Ivy's Stendarr's Beacon Overhaul
 - JK's Raven Rock
 - JK's Tel Mithryn
@@ -90,34 +111,57 @@
 - Kanjs - Sigil of the Black Covenant (see artifacts section)
 - Kanjs - Smooth and artifact-free gradient
 - Katria's Legacy - Publish the Aetherium Forge
+- Keep Up - Follower Locomotion Fix
 - Khajiit Has Tents
 - Knockback SKSE (For BFCO and MCO Users)
 - Lexicon SKSE
 - Lingering Subtitles Fix
+- Local Map Icons
+- Local Map Upgrade
 - Locally made Planters - Planter Diversity
 - Luscious Mara's Eye - A Pond Overhaul
+- Magic Organizer SKSE - Hide Spells Powers Active Effects
 - Miasma
 - Military Camps Begone
+- Missing Follower Dialogue Edit - should fix welkynar knight not having dialogue to add as follower
+- MMOP - Mihail Meshes Optimization Project
 - NAT III ENB Weather - Soul Cairn Weather Improvements
 - NAT III Weather - From Dusk Till Dawn - Every Cloud Different - SLFR - Bizarre Shadow Fix - Compatibility Patch
 - Nature of the Wild Lands - Dawnguard Additions
 - Neloth's Tentacle Spell - Experimental Subject
 - Nilheim - Misc Quest Expansion - No Infighting Bandits
+- No Auto-Equip Behaviour
 - No Load Door NPC Fade
+- NPC Fixer - Invisible and Naked NPC Fixer
 - Oblivion Interaction Icons - Phoenix's Patches
 - Orc Strongholds AIO
+- Particle Wind - SKSE Plugin
 - Penitus Occulatus
+- Persistent Favorites
 - Press E to Heal Followers SKSE
+- Project Bro He's There - Fix followers not starting combat
 - Publican's Perch - A Modular Bar and Shop Counter Replacer
+- Racemenu(SKEE) cosave Load Crash Fix
+- RaySense + Cover Animation + Beam Walking + Jumping Over Obstacles + Edge Lookdown + Simpel Wall Lean
 - Real Burnt Astrid
+- REBEL NORTH - Immersive Dialogue Expansion - Stormcloaks
 - Redwater Brewery - An Overhaul
 - Requiem - Exhaustion and Stamina Fix
 - Rite of Arcana
 - Saadia to Iman - Dynamic Name Change
 - Sanguine Sundries - A Vampire Clutter Replacer
+- Saving on Steed - Horse Save Load Fix SKSE
 - SD's Horn Candles SE 2k
+- ShowRaceMenu - NG
 - Shout Recovery Utilities
+- SIGMA - Dagger animations - 1st person
+- SIGMA - Fisting animations - 1st person
+- SIGMA - Spear animations - 1st person
+- SigmaJelly - Katana animations - 1st person
 - Simple Diving System (SDS)
+- Simple Follower Framework
+- Skeleton Replacer HD - DLC2 Forge Clutter Add On
+- Skybound
 - Skyking Alchemy Ingredients
 - Skyking Carriages
 - Skyking Imperial Forts
@@ -127,30 +171,36 @@
 - Skyrim's Got Talent - Show in UI (Visual Improvements)
 - Smelters for Riften and Solitude
 - Snazzy AIO mods
-- SpellBreaker Rework (Mesh Only)
-- Skeleton Replacer HD - DLC2 Forge Clutter Add On
-- Skybound
-- Steal off Scoundrels - Pickpocketing Criminals is Not Stealing
-- Stonehollow Overhaul for Wyrmstooth
+- Snazzy Black Briar Lodge
+- Snazzy Interiors - Riften Bolli's House
 - Snowpoint Dungeon
 - Solstheim Abandoned Lodge - Overhaul
+- SpellBreaker Rework (Mesh Only)
+- Steal off Scoundrels - Pickpocketing Criminals is Not Stealing
+- Stonehollow Overhaul for Wyrmstooth
 - Storm Atronach SE
+- Stuck on Screen Auto Load Door Fix SKSE
+- Stuck Underwater Visuals and Sounds Fix SKSE
 - Sunrises and Sunsets NAT Addon from dusk till dawn
 - TB's Improved Dust Particles
 - Tel Mithryn Overhaul - Exterior and Interior Improvements
 - The Book of Love - Fastred's Awakening
 - The Chantry - An Overhaul
 - The Cursed Tribe - Quest Expansion
-- Tilael - Follower
 - Through the Woods - Alternate Perspective Addon
+- Tilael - Follower
 - Tomato's Riften
 - True Directional Movement Mounted Archery Fix
 - Tundra Homestead - Tweaks and Enhancements (THTE)
+- Uncanny Luck - 100 Max Pickpocket Chance After Returning Skeleton Key
+- Underwater Bubbles - SKSE Plugin
 - Unmarked Locations Pack - Wyrmstooth Addon
 - Unmasking Sybille - Dialogue Tweak
+- Unpoisoned Blocking
 - Vanaheimr - Farmhouses - Complex Material and PBR
 - Vanaheimr - Northern Roads - Complex Material and PBR
 - Vittorias Alternate Wedding
+
 
 ***
 
