@@ -794,6 +794,9 @@ Major Questlines Price Changes
 - Finesse: Trap effects now have a small (5) AOE effect. Should hopefully make it work better against dragons.
 - Doomstone: The Tower reduced to 5% reflect
 - Doomstone: The Steed/The Lord/The Apprentice buffed to 0.3 per second
+- Doomstone: Ritual is now 10% Cheaper Conjuration
+- Doomstone: Lover is now 100 Armor Rating
+- Doomstone: Septent is now 10% stronger potions/poisons
 - Birthsign capstone abilities removed. They railroaded builds too much, most people wouldn't reach level 50+ anyway and by that level they didn't feel impactful. Instead, birthsigns are generally buffed at level 1 and aimed to be true to their lore descriptions.
 - Birthsign: The Atronach: Magicka increases by 300, do not lose magicka when hit, absorb chance increased by 25%, you cannot naturally regenerate magicka.
 - Birthsign: The Apprentice: Magic weakness increased by 25%, magicka regenerates an extra 5 per second, spells are 20% cheaper.
