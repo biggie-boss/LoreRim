@@ -631,25 +631,26 @@
 
 Survival Effects:
 
-- "Well rested/fed/etc" is considered stage 0. 
+- "Refreshed/Well Fed/Warm/Qenched" are considered stage 0. Stage 0/1 come with bonuses.
+- Exhaustion starts at stage 1 so it only has 5 total stages)
 - Stage 4/5 have increased magnitude of stage 3 effects. 
-- Getting to stage 5 on thirst/hunger/cold will start draining your health rapidly and stunt your ability to heal via potions and magic. 
+- Getting to stage 5 on thirst/hunger/cold will start draining your health rapidly. 
 - Keep in mind, stage 0 and 1 bonuses are slight, not overpowering. They are meant to give a small benefit to maintaining your needs while not causing severe power creep.
 
 Comfort:
-- Warmth gives disease and elemental resistance.
-- Hypothermia stage 3 reduces disease and elemental resistance. Stage 4 also reduces magical resistance and armor rating.
-
+- Being warm gives disease and elemental resistance.
+- Hypothermia stage 3 reduces disease and elemental resistance. Stage 4 also reduces magical and poison resistance.
+  
 Exhaustion:
-- Rested gives a magicka regeneration boost (flat) and reduces incoming hostile spell damage.
-- Exhaustion stage 3 reduces magicka regeneration and spell effectiveness. Stage 4 also reduces crafting and haggling ability.
+- Being rested reduces incoming hostile spell damage and duration.
+- Exhaustion stage 3 reduces magicka regeneration and increases effectiveness of hostile spells. Stage 4 also reduces haggling ability and spell effectiveness.
 
 Hunger:
-- Fed gives a health regeneration boost (flat) and reduces incoming physical damage.
-- Hunger stage 3 reduces health regeneration and increases incoming damage. Stage 4 also reduces warding and blocking ability.
+- Being Fed gives a health regeneration boost (flat) and reduces incoming physical damage.
+- Hunger stage 3 reduces health regeneration and increases incoming damage. Stage 4 also reduces blocking ability and increases incoming poise damage.
 
 Thirst: 
-- Hydration gives a stamina regeneration boost (flat) and makes food buffs more effective
+- Being hydrated gives a stamina regeneration boost (flat) and makes food buffs more effective
 - Thirst stage 3 reduces stamina regeneration and movement speed. Stage 4 also reduces weapon effectiveness and increases power attack cost.
 
 ***
