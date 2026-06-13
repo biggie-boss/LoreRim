@@ -662,7 +662,6 @@ Thirst:
 - Draugr/Dwemer/Falmer dungeons will have little to no lockpicks in the loot tables.
 - In general, you will get less gold/gem/jewelry loot from enemies and small tier chests. However, boss chest loot is greatly increased.
 - Reward from quests makes more sense. Killing dragons will still net you a lot of gold, but taking a quest to kill some random bandits or a wolf won't give as much.
-- Many quests now give either randomized or thematic rewards. For example a quest tied to killing necromancers might give restoration staves/tomes.
 - By default fast travel is disabled except for carriages/ferries.
 - Hearthfire home prices for addons are now their vanilla price. It didn't make sense to kill Drelas for free but have to pay insane amounts of money for a little homestead.
 - Vendors take 7 days to respawn
